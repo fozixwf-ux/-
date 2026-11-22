@@ -90,3 +90,5 @@ blockquote.skq .qt{ font-style:italic; font-size:9pt; }
 .index .ixbo{ font-family:"Noto Serif Tibetan",serif; font-size:8.6pt; color:#7a1f1f; }
 .index .w{ text-align:left; }
 .index.ix-wyx .cols{ column-count:2; }
+.plain{ background:#fbf6ec; border-left:2pt solid #c9a96a; padding:1mm 2.5mm; }
+.plain .lab{ background:#b0894a; }

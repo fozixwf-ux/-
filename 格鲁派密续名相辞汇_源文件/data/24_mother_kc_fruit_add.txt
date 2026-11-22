@@ -1,0 +1,557 @@
+#SECTION 8 母續圓滿次第：大樂、四喜與手印
+
+=== joy-1
+after: four-joys
+zh: 喜
+alt: 初喜；歡喜
+bo: dga' ba
+sa: ānanda
+en: joy
+def: 四喜之第一：菩提心自頂降至喉間時所生之樂。
+plain: 明點從頭頂降到喉部時生起的第一層喜樂，還比較粗淺、帶有“想要更多”的追求感。
+exp: 法護譯《喜金剛》：一者喜，謂於此先行，少分妙樂有進求故。《灌頂略說》說菩提心下降，於頂至眉間生喜。
+q: T0892 | 一者喜，謂於此先行，少分妙樂有進求故
+qs: SU 80ab | śukrāgamanamānandamuṣṇīṣādūrṇṇāpaṅkaje
+see: four-joys, joy-2
+
+=== joy-2
+after: joy-1
+zh: 勝喜
+alt: 最上喜
+bo: mchog dga'
+sa: paramānanda
+en: supreme joy
+def: 四喜之第二：菩提心降至心間時所生、較前更增勝之樂。
+plain: 明點降到心間時，喜樂明顯增強，稱為“勝喜”。
+exp: 法護譯《喜金剛》：二者勝喜，於此相應，漸令增勝說妙樂故。
+q: T0892 | 二者勝喜，於此相應，漸令增勝說妙樂故
+qs: SU 80c | kaṇṭhe hṛdi paramānandaṃ
+see: four-joys, joy-3
+
+=== joy-3
+after: joy-2
+zh: 殊勝喜（離喜）
+alt: 離喜；殊喜
+bo: khyad dga'
+sa: viramānanda
+en: special joy; joy of cessation
+def: 四喜之第三：菩提心降至臍間時所生之樂；法護譯“離喜”，取厭離諸根、息除貪染之義；藏譯“殊勝喜”。
+plain: 明點降到臍部時的喜樂，強烈到讓人對平常的感官享樂失去興趣，所以古譯叫“離喜”（遠離凡俗之喜）；藏譯則強調它更殊勝，叫“殊勝喜”。
+exp: 法護譯《喜金剛》：三者離喜，於此妙樂，厭離諸根息除貪染，無眾生可喜愛故。
+q: T0892 | 三者離喜，於此妙樂，厭離諸根息除貪染，無眾生可喜愛故
+qs: SU 80d | viramānandaṃ tato bhavet
+see: four-joys, joy-4
+
+=== joy-4
+after: joy-3
+zh: 俱生喜
+alt: 俱生歡喜；第四喜
+bo: lhan cig skyes pa'i dga' ba
+sa: sahajānanda
+en: innate joy
+def: 四喜之第四：菩提心降至摩尼頂端而不外洩時所生、能證空性之大樂智；時輪說即不變妙樂三摩地支。
+plain: 明點降到最底端而不外洩時，生起最深的喜樂，而且這份喜樂的心能直接體會空性——這就是“俱生喜”，是整個修法的目標所在。
+exp: 法護譯《喜金剛》：四者俱生喜，一切平等真實觀想故。宗喀巴：其第四俱生喜即不變妙樂三摩地支。
+q: T0892 | 四者，俱生喜，一切平等真實觀想故
+q: B0068 | 其第四俱生喜，即不變妙樂三摩地支故。
+see: four-joys, sahaja, immutable-bliss
+
+=== samapatti
+after: bliss-emptiness
+zh: 等至
+alt: 入定；父母等至；三摩缽底
+bo: snyoms par 'jug pa
+sa: samāpatti
+en: absorption; union
+def: 多義：一般指禪定；無上續中特指本尊父母（或行者與手印）方便智慧和合之等至，《密集後續》以“方便智慧等至”定義瑜伽。
+plain: 本來是“入定”的意思；在無上瑜伽裡，常指本尊父母擁抱合一的形象，象徵方便（慈悲、大樂）與智慧（空性）結合。密集續甚至用它來定義“瑜伽”本身。
+exp: 宗喀巴說第三灌頂曉示弟子與業印明了觀為本尊父母入於等至，生俱生喜時安住正見。
+q: B0068 | 由此中曉示弟子與業印明了觀為本尊父母入於等至，生起俱生喜時安住正見
+qs: GST 18.32 | prajñopāyasamāpattiryoga ityabhidhīyate
+see: yab-yum, karmamudra, bliss-emptiness
+
+=== yab-yum
+after: samapatti
+zh: 父母（雙身）
+alt: 欲天父母；佛父佛母；雙身相
+bo: yab yum
+sa: —
+en: father-mother (union) form; yab-yum
+def: 本尊與明妃相擁之形相，表方便與智慧無二；無上部天瑜伽之主要形相，“二合續”之名即由此立。
+plain: 唐卡上常見本尊與佛母相擁的形象，藏語叫“雅雍”（父母）。它不是世俗的情慾圖像，而是用最直接的方式表達“慈悲方便”與“空性智慧”不可分離。正因無上瑜伽以此為主要修法形相，四部之一又被稱為“二相合續”。
+exp: 宗喀巴：由天瑜伽增進慧道，是以殊勝方便智慧現為欲天父母等住行相之天瑜伽；無上部名二合續即由彼立名。
+q: B0068 | 以是由天瑜伽增進慧道，是以殊勝方便智慧，現為欲天父母等住行相之天瑜伽。
+see: samapatti, four-classes, desire-path
+
+=== conventional-bodhicitta
+after: yab-yum
+zh: 世俗菩提心・勝義菩提心（密咒義）
+alt: 二菩提心
+bo: kun rdzob byang chub kyi sems / don dam byang chub kyi sems
+sa: saṃvṛtibodhicitta / paramārthabodhicitta
+en: conventional and ultimate bodhicitta (tantric sense)
+def: 密咒中“世俗菩提心”除發心外，常指白紅明點（菩提心甘露）；“勝義菩提心”指證空性之智。祕密灌頂於世俗菩提心曼陀羅中得；龍猛《菩提心釋》則說行咒菩薩當修勝義菩提心。
+plain: “菩提心”在密法中有兩層用法：說到身體時，“世俗菩提心”指白紅明點（因為它是生起大樂的物質基礎）；說到心時，“勝義菩提心”指直接證悟空性的智慧。讀密續時，必須根據上下文判斷是哪一種意思。
+exp: 克主杰：師長觀想諸尊入自身中，由等至力化成世俗菩提心，故名於世俗菩提心曼陀羅而得灌頂。又引龍猛《菩提心釋》：行咒諸大菩薩當由修習勝義菩提心而發其心。
+q: B0057 | 由等至力化成世俗菩提心。故名於世俗菩提心曼陀羅。而得灌頂。
+q: B0057 | 當由修習勝義菩提心而發其心。
+see: bodhicitta-drops, secret-init, bodhicittavivarana
+
+=== vira
+after: dakini
+zh: 勇父
+alt: 勇識；空行；勇士
+bo: dpa' bo
+sa: vīra; ḍāka
+en: hero; ḍāka
+def: 男性之密咒成就者或智慧尊，與空行母（瑜伽母）相對；勝樂曼陀羅有二十四勇父、空行母等。
+plain: 與“空行母”相對的男性尊者叫“勇父”。在勝樂壇城中，勇父和空行母成對出現，分別安住在身體的二十四處脈上。
+exp: 宗喀巴釋勝樂盧伊巴頌：涅槃是光明，彼所出生謂二十五勇識，支分謂諸慧天，總即方便智慧六十二尊。
+q: B0068 | 謂涅槃是光明，彼所出生謂二十五勇識。
+tr: 法尊譯“勇識”。
+see: dakini, sixty-two-deities
+
+=== vajravarahi
+after: dakini
+zh: 金剛亥母
+alt: 亥母；金剛瑜伽母
+bo: rdo rje phag mo
+sa: Vajravārāhī
+en: Vajravārāhī
+def: 勝樂金剛之佛母，頭側有豬首（亥首），表斷除愚痴；格魯派亦依那洛空行母（金剛瑜伽母）修法傳承修之。
+plain: 勝樂金剛的伴侶，頭旁長著一個小豬頭，象徵把愚痴轉化為智慧（豬在佛教中象徵愚痴）。格魯派寺院常修的“那洛空行母”就是她的一種形相。
+exp: 宗喀巴釋盧伊巴頌“清淨法所化，現為亥母身”；並說行禁行時女應生為金剛亥母或無我母。
+q: B0068 | 女應生為金剛亥母，或無我母，或投花部之天女身
+see: cakrasamvara, dakini, nairatmya
+
+=== nairatmya
+after: vajravarahi
+zh: 無我母
+alt: 無我佛母
+bo: bdag med ma
+sa: Nairātmyā
+en: Nairātmyā
+def: 喜金剛之佛母，名表“無我”（空性）；拙火瑜伽中亦以臍間之火（無我母）稱之。
+plain: 喜金剛的佛母，名字直譯就是“無我”，代表空性。在拙火修法中，臍下燃起的那團火也被叫作“無我母”，意思是它能燒盡對“我”的執著。
+exp: 宗喀巴釋《結合經》：臍中火色如馬口火能竭海水，即無我母離一切戲論之空點；又引“說明無我母，亦即名春點”。
+q: B0068 | 即無我母離一切戲論之空點。
+see: hevajra, tummo, vajravarahi
+
+=== cakrasamvara-lineages
+after: cakrasamvara
+zh: 勝樂三大派
+alt: 盧伊巴派、黑行派、鈴派
+bo: bde mchog lugs gsum
+sa: —
+en: three main Cakrasaṃvara lineages
+def: 印度勝樂傳承之三大系統：盧伊巴（Lūipa）、黑行（Kṛṣṇācārya）、金剛鈴（Ghaṇṭāpa）；格魯派兼傳，以鈴派五尊、身曼陀羅及盧伊巴六十二尊為常修。
+plain: 勝樂金剛在印度有三條主要的師承，分別以三位大成就者命名。格魯派三派都傳，像“勝樂身壇城”就出自鈴派。宗喀巴指出，三派在“入光明、成雙運”這一核心上是一致的。
+exp: 宗喀巴：以隨壞靜慮法漸收情器，於光明中數修入出，成雙運身，是羅伊跋及鈴論師、毳衣大師、黑行師等所許。
+q: B0068 | 於光明中數修入出，成雙運身，是羅伊跋及鈴論師、毳衣大師、黑行師等所許。
+see: cakrasamvara, luipa, ghantapa, krsnacarya
+
+=== inconceivable-stage
+after: cakrasamvara-lineages
+zh: 不思議次第
+alt: 第五不思議次第
+bo: bsam gyis mi khyab pa'i rim pa
+sa: acintyakrama
+en: inconceivable stage
+def: 鈴派勝樂圓滿次第五次第之第五，修收攝一切入光明並從中起為雙運，為勝樂圓滿次第之主。
+plain: 鈴派把勝樂圓滿次第分為五步，最後一步叫“不思議次第”：把一切收攝進光明，再從光明中起為雙運的本尊身，因為這境界超出思議而得名。
+exp: 宗喀巴：鈴論師攝勝樂圓滿次第為五次第，其第五不思議次第即此所說，故是圓滿之主。
+q: B0068 | 其第五不思議次第，即此所說，故是圓滿之主。
+see: cakrasamvara-lineages, clear-light, union
+
+=== sixty-two-deities
+after: inconceivable-stage
+zh: 勝樂六十二尊
+alt: 盧伊巴派六十二尊
+bo: lha drug cu rtsa gnyis
+sa: —
+en: sixty-two deities of Cakrasaṃvara
+def: 盧伊巴派勝樂曼陀羅之全體諸尊：主尊父母、四空行母、二十四勇父空行（身語意輪）、守門等，總為方便智慧六十二尊。
+plain: 勝樂金剛的完整壇城有六十二位尊者：中央的勝樂父母、圍繞的四位空行母、對應身體二十四處的勇父空行，以及守門的尊者等。宗喀巴說，他們都是由最微細的心與風變現出來的。
+exp: 宗喀巴：總即方便智慧六十二尊，此等皆從三心及風之所變化。
+q: B0068 | 總即方便智慧六十二尊。此等皆從三心及風之所變化。
+see: cakrasamvara, twenty-four-places, vira
+
+=== lamdre
+after: hevajra-six-branches
+zh: 道果
+alt: 道果法
+bo: lam 'bras
+sa: —
+en: Path and Result (Lamdré)
+def: 依毘嚩跋（Virūpa）所傳之喜金剛教授體系，為薩迦派核心法門；宗喀巴認為喜金剛圓滿次第收為三灌頂道之修法，於《道果》中已顯了宣說。
+plain: 薩迦派最重要的教法，以喜金剛為主，從印度大成就者毘瓦巴傳下。宗喀巴在講喜金剛圓滿次第時，直接說“去看《道果》就清楚了”，可見格魯派對它的尊重。
+exp: 宗喀巴：歡喜金剛圓滿次第收為三灌頂道修習之理，如毘嚩跋大瑜伽師所造《道果宗要》及持彼教授之歷代智者，皆已顯了宣說。
+q: B0068 | 如毘嚩跋大瑜伽師所造《道果宗要》，及持彼教授之歷代智者，皆已顯了宣說
+see: hevajra, virupa
+
+=== hevajra-six-branches
+after: sixty-two-deities
+zh: 喜金剛六支（六色）
+alt: 黑赤黃綠藍白六支；甘露光六支
+bo: kye rdor gyi yan lag drug
+sa: —
+en: six branches of Hevajra completion (six colours)
+def: 種比跋《甘露光修法》所說喜金剛圓滿次第入光明之方便：依次將一切能依所依修為黑、赤、黃、綠、藍、白六色，後遠離諸色入光明，生如雲、如煙等六相。
+plain: 喜金剛圓滿次第的一種修法：把整個壇城依次觀成黑、紅、黃、綠、藍、白六種顏色，最後連顏色也放下，心進入光明。過程中會出現像雲、像煙等一系列內在景象。
+exp: 宗喀巴引《甘露光修法》：先當修黑色，第二當修赤……第六白色相，行者修六支，後遠離諸色。並說此是入光明之方便。
+q: B0068 | 先當修黑色，第二當修赤，第三修黃色，如是第四綠，第五為藍色，第六白色相，行者修六支，後遠離諸色。
+see: hevajra, clear-light, lamdre
+
+=== dream-yoga
+after: naro-six
+zh: 夢瑜伽
+alt: 持夢；夢光明
+bo: rmi lam gyi rnal 'byor
+sa: —
+en: dream yoga
+def: 那洛六法之一：於睡夢中認知是夢、轉變夢境並修夢身如幻，以為幻身與中有之修習；宗喀巴攝為幻身修法之一分。
+plain: 在睡夢中保持清醒，知道“我在做夢”，並練習改變夢境，體會一切如夢如幻。這是在為死後的中陰狀態做演習，因為夢中的身體與中陰身很相似。
+exp: 宗喀巴《具三信》以夢瑜伽附於幻身教授中講說。《密宗道次第廣論》無此專章，本條無法尊譯本直接引文。
+ref: Mullin 1996（Tsongkhapa's Six Yogas of Naropa）。
+see: naro-six, illusory-body, antarabhava
+
+=== transference
+after: dream-yoga
+zh: 遷識
+alt: 頗瓦；破瓦
+bo: 'pho ba
+sa: utkrānti
+en: transference of consciousness
+def: 那洛六法之一：臨終時以中脈將意識由頂門遷往淨土或善趣之法。
+plain: 臨終時，把自己的意識沿著中脈從頭頂射出，直接送往佛的淨土，被認為是無法完成其他修行時的“應急之道”。
+exp: 宗喀巴《具三信》有遷識與奪舍之講說。《密宗道次第廣論》無此專章，本條無法尊譯本直接引文。
+ref: Mullin 1996。
+tr: 'pho ba 音譯“頗瓦”，漢地亦有“破瓦法”之俗寫。梵語 utkrānti 為通行之對應。
+see: naro-six, avadhuti
+
+=== bardo-yoga
+after: transference
+zh: 中有瑜伽
+alt: 中陰瑜伽；中有成就
+bo: bar do'i rnal 'byor
+sa: —
+en: intermediate-state yoga
+def: 那洛六法之一：於死後中有位認知光明、以中有身起為報身，或依願力擇善受生之修法。
+plain: 為死後的中陰狀態做準備：如果死時能認出光明，就直接解脫；認不出，也能在中陰中把自己轉為本尊身，或選擇一個有利於修行的投生。
+exp: 宗喀巴引《攝行論》說：若生起次第究竟、已得圓滿次第而未及修行，則當於正死時證勝義諦，死後生時起於幻身。中有瑜伽即依此理。
+q: B0068 | 則當於正死時證勝義諦，死後生時起於幻身俗諦，隨其願力如是成佛
+ref: Mullin 1996。
+see: naro-six, antarabhava, death-clear-light
+
+#SECTION 9 時輪圓滿次第：六支瑜伽
+
+=== adibuddha
+after: kalacakra
+zh: 本初佛
+alt: 初佛；時輪本初佛
+bo: dang po'i sangs rgyas
+sa: ādibuddha
+en: primordial Buddha
+def: 時輪續之自稱與主尊之異名；《灌頂略說》說以六邊、四金剛瑜伽等清淨，依二諦而名本初佛時輪。
+plain: 時輪續稱自己為“本初佛”，意思是“最根本、最原初的佛”。格魯派把它理解為表示佛的本性（法身）或時輪金剛本身，而不是一位創造世界的神。
+exp: 《灌頂略說》：如是以六邊清淨……依二諦而為本初佛，名為時輪。
+qs: SU 7cd | satyābhyāmādibuddhaṃ syāt kālacakrābhidhānakam
+see: kalacakra, six-alternatives
+
+=== kalacakra-higher-init
+after: laghutantra
+zh: 時輪上四灌頂
+alt: 上灌頂；勝義灌頂
+bo: dbang gong ma bzhi
+sa: —
+en: higher four initiations (Kālacakra)
+def: 時輪中，如童入位七灌頂之後所傳之瓶、密、慧智、第四四灌頂（及上上四灌頂）；前三依世俗，第四依勝義，令成修圓滿次第之法器。
+plain: 時輪灌頂分兩大段：前面的“七灌頂”讓人能修生起次第；後面的“上四灌頂”才讓人能修圓滿次第。宗喀巴提醒，時輪的“第四灌頂”與其他密續有所不同。
+exp: 《灌頂略說》：初七灌頂令兒童入門；三種依世間世俗，第四依勝義。宗喀巴說得可圓滿聞教之第四灌頂中，餘經與《時輪》有所不同。
+q: B0068 | 然於得可圓滿聞教之第四灌頂中，餘經與《時輪》教有所不同。
+qs: SU 8cd | trividho lokasaṃvṛtyā caturthaḥ paramārthataḥ
+see: kalacakra-seven, four-initiations
+
+=== vajra-three-samadhis-kc
+after: six-yogas
+zh: 金剛身、金剛語、金剛意三摩地
+alt: 三金剛三摩地
+bo: sku gsung thugs rdo rje'i ting nge 'dzin
+sa: —
+en: concentrations of vajra body, speech, and mind
+def: 時輪六支依果位身語意配為三組：別攝、靜慮為金剛身三摩地，命力、執持為金剛語三摩地，隨念、三摩地為金剛意三摩地；得三摩地支後方能俱時具有三者。
+plain: 時輪的六支兩兩一組，分別成就佛的“身”“語”“意”：前兩支成就佛身，中間兩支成就佛語，最後兩支成就佛心。
+exp: 宗喀巴：以是經論於彼彼三，說名金剛身、金剛語、金剛意三摩地；有學位中能俱時有三種金剛三摩地者，要得三摩地支以後。
+q: B0068 | 以是經論於彼彼三，說名金剛身、金剛語、金剛意三摩地。
+see: six-yogas, three-vajras
+
+=== empty-form-consort
+after: empty-form
+zh: 空色明妃
+alt: 空色大印
+bo: stong gzugs kyi phyag rgya
+sa: —
+en: empty-form consort (seal)
+def: 時輪隨念支所依之明妃，非實際之業印亦非觀想之智印，而為空色所現之大印；與業印、智印並為生起俱生樂之三種印。
+plain: 時輪修法中，引生大樂的“伴侶”不是真人，也不只是想像，而是禪定中顯現的“空色”身相，所以叫“空色明妃”。
+exp: 宗喀巴說：行者與業印、或行者與智印、或行者與空色明妃，明了想為本尊父母入於等至。並說隨念支之大印母須現為如雜色之明妃。
+q: B0068 | 或行者與空色明妃，明了想為本尊父母入
+see: empty-form, karmamudra, jnanamudra
+
+=== six-families-kc
+after: kalacakra
+zh: 六部（時輪）
+alt: 上下六部
+bo: rigs drug
+sa: ṣaṭkula
+en: six families (Kālacakra)
+def: 時輪依身、語、意之上下脈與方便智慧分為六部，配月、日、羅睺、糞、尿、精六流與六大；亦以加金剛薩埵（或金剛持）為第六部。
+plain: 時輪把身體上下的六條主要脈分成六個“部族”，分別對應六種元素與六尊佛。這比一般的“五部”多一部，因為時輪特別重視虛空與智慧這一層。
+exp: 《灌頂略說》：上下六部依身語意瑜伽，以方便智慧支分之性住一切有身者。
+qs: SU 40 | ūrdhvādhaḥ ṣaṭkulaṃ hyetat kāyavākcittayogataḥ / prajñopāyāṅgabhāvena saṃsthitaṃ sarvadehinām
+see: kalacakra, five-families
+
+=== vimalaprabha
+after: adibuddha
+zh: 無垢光
+alt: 時輪大疏；無垢光論
+bo: dri med 'od
+sa: Vimalaprabhā
+en: Stainless Light
+def: 香巴拉王白蓮（Puṇḍarīka）所造《時輪略續》之大疏；法尊譯本稱《時輪大疏》，為時輪教法最權威之注釋。
+plain: 解釋時輪續的最主要的一部大註釋，篇幅巨大。學時輪幾乎都要依靠它。
+exp: 宗喀巴引：隨許灌頂之後，《時輪大疏》云：次將鈴杵授於弟子手中，而授某甲金剛之阿闍黎。
+q: B0068 | 隨許灌頂之後，《大疏》（《時輪大疏》）中云：「次將鈴杵授於弟子手中，而授某甲金剛之阿闍黎。」
+q: B0068 | 如《略續》（《時輪略經》）云：「善授隨許攝。」
+see: kalacakra, laghutantra
+
+=== laghutantra
+after: vimalaprabha
+zh: 時輪略續
+alt: 時輪略經；略續
+bo: bsdus pa'i rgyud
+sa: Laghukālacakratantra
+en: Abridged Kālacakra Tantra
+def: 現存時輪根本經典，傳為香巴拉王文殊稱（Mañjuśrīyaśas）攝略原本時輪根本續而成，凡五品。
+plain: 現在流傳的時輪續，其實是一部“精簡版”，據說原始的根本續極其龐大，後由香巴拉國王濃縮成五品。
+exp: 宗喀巴引：如《略續》（《時輪略經》）云：善授隨許攝。
+q: B0068 | 如《略續》（《時輪略經》）云：「善授隨許攝。」此言攝者，謂即攝入隨許之中
+tr: 五品之名：世間界品、內品、灌頂品、修法品、智慧品。
+see: kalacakra, vimalaprabha
+
+#SECTION 10 果位
+
+=== dharmakaya
+after: four-bodies
+zh: 法身
+alt: 法性身；智法身
+bo: chos sku
+sa: dharmakāya
+en: truth body; dharma body
+def: 佛之心與其法性：包括智慧法身（一切種智）與自性身（心之空性及離垢）；母續所詮之樂空無分別智（光明）為其不共同類因。
+plain: “法身”是佛的“心”這一面——徹底覺悟、遍知一切的智慧，以及這智慧本身空無自性的本質。在無上瑜伽裡，修“光明”就是直接在種下法身的因。
+exp: 宗喀巴引調伏授論師：雙修色身及法身，法身由佛靜慮得，色身何故不修習？克主杰說母續之“母”即二身中法身不共之同類因。
+q: B0068 | 雙修色身及法身，咄哉决定證菩提，法身由佛靜慮得，色身何故不修習？
+q: B0057 | 其中「母」者。謂二身之中。法身不共之同類因。
+see: four-bodies, rupakaya, clear-light
+
+=== rupakaya
+after: dharmakaya
+zh: 色身
+alt: 形身
+bo: gzugs sku
+sa: rūpakāya
+en: form body
+def: 佛為利益眾生所現之身，含報身與化身；天瑜伽為其不共之因，幻身為其不共同類因。
+plain: “色身”是佛“有形象”的一面，為了度化眾生而顯現，包括報身與化身。格魯派的核心論點之一就是：密法之所以快，是因為它有“修色身之因”的獨特方法——本尊瑜伽和幻身。
+exp: 宗喀巴：天瑜伽為色身不共之因，是說主要方便。克主杰說父續特重宣說色身不共同類因之幻身。
+q: B0068 | 如前所說天瑜伽為色身不共之因，是說主要方便。
+q: B0057 | 色身不共同類因之幻身。及修彼之方便。
+see: dharmakaya, sambhogakaya, nirmanakaya, deity-yoga
+
+=== sambhogakaya
+after: rupakaya
+zh: 報身
+alt: 受用身；圓滿受用身
+bo: longs spyod rdzogs pa'i sku
+sa: saṃbhogakāya
+en: enjoyment body
+def: 佛於色究竟天等淨土為登地菩薩說法所現之身，具五決定；無上瑜伽以幻身（及有學雙運身）為其不共同類因。
+plain: 報身是佛在淨土中顯現、只有高階菩薩才能見到的莊嚴身相。密法說，修成的幻身就是報身的“雛形”，二者是同類的因果。
+exp: 宗喀巴：佛薄伽梵一剎那證得一切種智，爾時由住報身而證。克主杰說祕密灌頂立唯從發語脈息成就圓報身之功能。
+q: B0068 | 爾時由住報身而證，如《入中論釋》云：「諸佛如來，安住色身現證法界，此身具足百福莊嚴
+see: rupakaya, illusory-body, akanistha
+
+=== nirmanakaya
+after: sambhogakaya
+zh: 化身
+alt: 變化身；應化身
+bo: sprul pa'i sku
+sa: nirmāṇakāya
+en: emanation body
+def: 佛為一般眾生所現之身，如釋迦牟尼佛；瓶灌頂植成辦化身之種子，生起次第以生有轉為化身道。
+plain: 化身是佛為了讓普通人也能見到、學習而顯現的身體，例如歷史上的釋迦牟尼佛。密法中的瓶灌頂與生起次第，就是在為將來成就化身做準備。
+exp: 宗喀巴引日生：瓶灌頂為化身體，安立化身殊勝種子。
+q: B0068 | 日生謂瓶灌頂為化身體，安立化身殊勝種子。為立彼功能故，應勝解為化身。
+see: rupakaya, vase-init, birth-bhava
+
+=== svabhavikakaya
+after: nirmanakaya
+zh: 自性身
+alt: 體性身；本性身
+bo: ngo bo nyid kyi sku
+sa: svābhāvikakāya
+en: nature body
+def: 佛心之空性（自性清淨）及其離一切客塵之滅諦；四身之一。寂靜論師等以三三摩地之初加行配自性身或法身。
+plain: 自性身指佛心“空”的本性——心本來沒有實體，加上佛已經把一切雜染徹底清除。它不是一個看得見的身體，而是佛心的真實本質。
+exp: 宗喀巴：意謂初加行者，初成自利，能化天眾，是故立為自性身或法身。
+q: B0068 | 意謂初加行者，初成自利，能化天眾，是故立為自性身或法身。
+see: four-bodies, dharmakaya
+
+=== akanistha
+after: tantric-enlightenment
+zh: 色究竟天
+alt: 密嚴；奧明
+bo: 'og min
+sa: Akaniṣṭha
+en: Akaniṣṭha ("Highest")
+def: 色界最高之天，傳統以為報身佛成道與說法之處；宗喀巴說依波羅蜜多乘，菩薩成佛之身唯應許色究竟天身，人間成佛為示現。
+plain: 色界的最高一層天。按顯教說法，菩薩真正成佛是在這裡，以報身成佛；我們在人間看到的釋迦牟尼佛成道，是佛的“示現”。密教則另說：最後有菩薩須受第三、第四灌頂、修光明才成佛。
+exp: 宗喀巴：是故菩薩成佛之身，於波羅蜜多乘，唯應許色究竟天身。
+q: B0068 | 是故菩薩成佛之身，於波羅蜜多乘，唯應許色究竟天身
+tr: 'og min 直譯“無下”（Akaniṣṭha），漢譯“色究竟天”“阿迦尼吒”。
+see: sambhogakaya, tantric-enlightenment
+
+=== samantaprabha
+after: thirteen-grounds
+zh: 普光明地
+alt: 第十一地；佛地
+bo: kun tu 'od kyi sa
+sa: samantaprabhā bhūmi
+en: ground of Universal Light
+def: 第十一地，即佛地；宗喀巴主張波羅蜜多乘之第十一普光明地與密咒之金剛持地義同，經說歷三無數劫所得，續部說為即生成辦。
+plain: 有人說“密宗的佛比顯教的佛更高”，宗喀巴明確反對：顯教說的第十一地“普光明地”與密教說的“金剛持地”是同一個佛果，差別只在到達的快慢——顯教要三大劫，密教可以一生成就。
+exp: 宗喀巴先引“第十一普光明地劣於金剛持位”之他說，後予破斥：當知第十一普光明地與金剛持地義同；不應以名金剛持故便執非波羅蜜多乘之果。
+q: B0068 | 由是當知第十一普光明地與金剛持地義同，經中即說此地是經於三無數刼所得，續部說為即生成辦。
+see: thirteen-grounds, vajradhara, sutra-tantra-diff
+
+=== eight-siddhis
+after: siddhi
+zh: 八大悉地
+alt: 八種共同成就
+bo: thun mong gi dngos grub chen po brgyad
+sa: aṣṭamahāsiddhi
+en: eight great (common) feats
+def: 修二次第所得中品之共同悉地；通常列為寶劍、丸藥、眼藥、捷足、金丹（長生）、空行、隱身、地下伏藏等，諸續列舉不一。
+plain: 修本尊可能附帶得到的八種“神通式”成就，例如隱身、飛行、快速行走等。它們屬於“共同成就”，不是目的；目的是成佛。
+exp: 宗喀巴：修二次第以及諸行之果有三，最上成佛，中品獲得八大悉地，下品成就息災等四種事業。
+q: B0068 | 最上成佛，中品獲得八大悉地，下品成就息災、增益、愛敬、降伏四種事業。
+see: siddhi, four-activities
+
+=== akshobhya
+after: five-families
+zh: 不動佛
+alt: 阿閦佛；不動金剛
+bo: mi bskyod pa
+sa: Akṣobhya
+en: Akṣobhya
+def: 五部之金剛部部主，配識蘊（或色蘊）、大圓鏡智、瞋之轉依；《密集》聖派主尊即不動金剛。明灌頂中主水灌頂。
+plain: 東方的佛，代表“不可動搖”。密集金剛就是不動佛的密教形相，因此在格魯派地位極高。他把“瞋恨”轉化為如鏡子般清明的智慧。
+exp: 宗喀巴：由不動尊作灌頂者，以此灌頂是水灌頂，彼是不動體故。《密集》以識蘊為瞋。
+q: B0068 | 由不動尊作灌頂者，以此灌頂是水灌頂，彼是不動體故。
+qs: GST 18.45ab | vijñānaṁ dveṣamākhyātaṁ deti veti dvayairdviṣām
+tr: 五蘊與五佛之配屬，密集與他續、瑜伽部之間有異說（密集以識蘊配不動、色蘊配毘盧遮那）。
+see: five-families, guhyasamaja, water-init
+
+=== vairocana
+after: akshobhya
+zh: 毘盧遮那
+alt: 大日如來；毘盧佛
+bo: rnam par snang mdzad
+sa: Vairocana
+en: Vairocana
+def: 五部之如來部部主；密集配色蘊、愚痴之轉依、法界體性智（或大圓鏡智，諸續不同）；生起次第六支中配宮殿，明灌頂中主名灌頂。
+plain: 中央（或東方，依壇城而異）的佛，名字意為“光明遍照”。密集續把“色蘊”（身體物質）配給他，代表把愚痴轉為智慧。漢傳唐密以他為法身大日如來。
+exp: 宗喀巴引難勝月：宮為毘盧佛，灌頂不動佛，嘗甘露彌陀，供養即不空，稱讚為寶生。《密集》以色蘊為痴。
+q: B0068 | 宮為毘盧佛，灌頂不動佛，嘗甘露彌陀，供養即不空，稱讚為寶生
+qs: GST 18.45cd | rūpaṁ mohamiti khyātaṁ jaḍabandhasvabhāvataḥ
+tr: 唐密以毘盧遮那為法身佛，格魯派據印度論師判《攝真實經》之毘盧遮那為化身，見太虛序。
+see: five-families, name-init
+
+=== ratnasambhava
+after: vairocana
+zh: 寶生佛
+bo: rin chen 'byung ldan
+alt: 寶生如來
+sa: Ratnasambhava
+en: Ratnasambhava
+def: 五部之寶部部主，配受蘊、平等性智、慢（或貪）之轉依；表功德，生起次第中主稱讚，明灌頂中主冠灌頂。
+plain: 南方的佛，名字意為“寶的來源”，代表功德與布施，把傲慢轉化為“一切平等”的智慧。
+exp: 宗喀巴：由寶生佛修稱讚者，是讚功德，以分身語意業德五法時，寶生屬功德故。
+q: B0068 | 由寶生佛修稱讚者，是讚功德，以分身語意業德五法時，寶生屬功德故。
+see: five-families, crown-init
+
+=== amitabha
+after: ratnasambhava
+zh: 阿彌陀佛
+alt: 無量光；彌陀
+bo: 'od dpag med
+sa: Amitābha
+en: Amitābha
+def: 五部之蓮華部部主，配想蘊、妙觀察智、貪之轉依；為語金剛，生起次第中主嘗甘露，風中主右鼻所行之火風。
+plain: 西方的佛，代表“語”與慈悲，把貪愛轉化為能清楚分辨一切的智慧。在密法中，他負責“語”的淨化。
+exp: 宗喀巴：以彌陀佛是語金剛，由嘗甘露飽足語金剛故。
+q: B0068 | 以彌陀佛是語金剛，由嘗甘露飽足語金剛故。
+see: five-families, nectar-tasting, winds-families
+
+=== amoghasiddhi
+after: amitabha
+zh: 不空成就佛
+alt: 不空成就；不空
+bo: don yod grub pa
+sa: Amoghasiddhi
+en: Amoghasiddhi
+def: 五部之羯磨部（事業部）部主，配行蘊、成所作智、嫉（或疑）之轉依；生起次第中主供養，明灌頂中主鈴灌頂。
+plain: 北方的佛，代表“一切事業都能成功”，把嫉妒轉化為成辦一切利生事業的智慧。
+exp: 宗喀巴：由不空尊修供養者，以不空佛是羯摩部，供養諸佛益有情事彼自在故。
+q: B0068 | 由不空尊修供養者，以不空佛是羯摩部，供養諸佛益有情事彼自在故。
+see: five-families, bell-init
+
+=== four-consorts
+after: amoghasiddhi
+zh: 四佛母
+alt: 佛眼、摩摩格、白衣母、度母
+bo: yum bzhi: sangs rgyas spyan ma, mA ma kI, gos dkar mo, sgrol ma
+sa: Locanā, Māmakī, Pāṇḍaravāsinī, Tārā
+en: four consorts (mothers)
+def: 五部佛之佛母，表地、水、火、風四大之清淨：佛眼（地）、摩摩格（水）、白衣母（火）、度母（風）；金剛念誦中亦以之配四大種風。
+plain: 四位佛母代表四大元素的純淨本質：地是佛眼佛母、水是摩摩格、火是白衣母、風是度母。修法時把身體的四大觀想為這四位佛母。
+exp: 宗喀巴釋《密意授記》：火中之火謂白衣母，火中風謂度母，火中地謂佛眼，火中之水謂摩摩格，各有二百二十五風。
+q: B0068 | 火中之火謂白衣母，火中風謂度母，火中地謂佛眼，火中之水謂摩摩格
+see: five-families, winds-families, breath-21600
+
+=== vajrasattva
+after: vajradhara
+zh: 金剛薩埵
+alt: 金剛勇識；金剛心
+bo: rdo rje sems dpa'
+sa: Vajrasattva
+en: Vajrasattva
+def: 五部無別之總體、第六部之主；亦為淨障懺悔之本尊（百字明）。印三昧耶以天身大印即金剛薩埵父母為所緣。
+plain: 金剛薩埵代表“五方佛合而為一”。最常見的修法是觀想他在頭頂、念誦百字明來懺悔清淨罪障，是密法前行的重要內容。
+exp: 宗喀巴：此五無別即是金剛薩埵，由彼六部能攝一切能依所依瑜伽；又說印謂天身大印，即是金剛薩埵父母。
+q: B0068 | 此五無別即是金剛薩埵，由彼六部能攝一切能依所依瑜伽。
+see: vajradhara, hundred-syllable, five-families
+
+=== hundred-syllable
+after: vajrasattva
+zh: 百字明
+alt: 百字咒；金剛薩埵百字明
+bo: yig brgya
+sa: śatākṣaramantra
+en: hundred-syllable mantra
+def: 金剛薩埵之長咒，凡百字，用以懺淨罪障、彌補修法中之過失缺漏；多於座末或儀軌之後念誦。
+plain: 金剛薩埵的咒語，約一百個字，用來懺悔、清淨過錯。修法做完時念一遍，可以彌補過程中的遺漏或錯誤。
+exp: 宗喀巴：有多論師說於座後誦百字咒，當如是行；又說手挽花輪印誦三字與百字咒加持其地。
+q: B0068 | 有多論師說於座後誦百字咒，當如是行。
+see: vajrasattva, restoration

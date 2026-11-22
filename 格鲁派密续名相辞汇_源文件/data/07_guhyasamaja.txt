@@ -71,7 +71,7 @@ def: 隨順出、入、住三時之風，與嗡、阿、吽三字之無聲念誦
 exp: 宗喀巴說能自在風之瑜伽續部雖多，聖派此處唯取金剛念誦。《五次第》第一次第名“金剛念誦次第”，以風真實、咒真實為次第。宗喀巴於風之段並說五風配五部之輪轉，“依金剛念誦語金剛而說”。
 q: B0068 | 能自在風之瑜伽，續部雖亦說有多種，此處唯取金剛念誦。
 qs: PK 1.1 | vajrajāpakramaṃ vakṣye yogatantrānusārataḥ
-qs: GST 15.5 | kulānāṁ sarvamantrāṇāṁ kāyavākcittalakṣaṇam|mantrajāpaṁ praghoṣātha vajrajāpamudāharan
+qs: GST 13.5 | kulānāṁ sarvamantrāṇāṁ kāyavākcittalakṣaṇam|mantrajāpaṁ praghoṣātha vajrajāpamudāharan
 tr: 法尊“金剛誦”“金剛念誦”並用。英譯 vajra repetition、vajra recitation。
 see: speech-isolation, prana
 

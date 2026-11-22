@@ -54,7 +54,7 @@ def pg(key):
 body = []
 for s in sections:
     sid = 'sec-' + s['num']
-    body.append(f'<section class="part" id="{sid}"><span class="marker">@@{sid}@@</span><h2><span class="pn">第{["","一","二","三","四","五","六","七","八","九","十","十一"][int(s["num"])]}部</span>{inline(s["title"])}</h2>')
+    body.append(f'<section class="part" id="{sid}"><span class="marker">@@{sid}@@</span><h2><span class="pn">第{["","一","二","三","四","五","六","七","八","九","十","十一","十二"][int(s["num"])]}部</span>{inline(s["title"])}</h2>')
     if s['intro']: body.append(f'<p class="intro">{inline(s["intro"])}</p>')
     for e in s['entries']:
         eid = 'e-' + e['id']
@@ -68,6 +68,8 @@ for s in sections:
         h.append('<div class="eq">' + ''.join(f'<span class="cell">{x}</span>' if False else x for x in eq) + '</div>')
         if e.get('alt'): h.append(f'<div class="alt"><span class="lab">异名</span>{inline(e["alt"])}</div>')
         h.append(f'<p class="def"><span class="lab">定义</span>{inline(e["def"])}</p>')
+        for k, x in enumerate(e.get('plain', [])):
+            h.append(f'<p class="plain">{"<span class=lab>白话</span>" if k == 0 else ""}{inline(x)}</p>')
         for k, x in enumerate(e.get('exp', [])):
             h.append(f'<p class="exp">{"<span class=lab>释义</span>" if k == 0 else ""}{inline(x)}</p>')
         if e['q_out'] or e['qs_out']:
@@ -157,7 +159,7 @@ for key, label in [('fm-guide', '凡例'), ('fm-abbr', '引用文献与版本')]
     toc.append(f'<div class="t1"><a href="#{key}">{label}</a><span class="pg">{pg(key)}</span></div>')
 for s in sections:
     sid = 'sec-' + s['num']
-    toc.append(f'<div class="t1"><a href="#{sid}">第{["","一","二","三","四","五","六","七","八","九","十","十一"][int(s["num"])]}部　{inline(s["title"])}</a><span class="pg">{pg(sid)}</span></div>')
+    toc.append(f'<div class="t1"><a href="#{sid}">第{["","一","二","三","四","五","六","七","八","九","十","十一","十二"][int(s["num"])]}部　{inline(s["title"])}</a><span class="pg">{pg(sid)}</span></div>')
     toc.append('<div class="t2">' + '　'.join(f'<a href="#e-{e["id"]}">{e["no"]} {inline(e["zh"])}</a>' for e in s['entries']) + '</div>')
 for key, label in [('bib', '参考书目'), ('ix-zhx', '汉文索引'), ('ix-wyx', '藏文索引'), ('ix-skx', '梵文索引'), ('ix-enx', '英文索引')]:
     toc.append(f'<div class="t1"><a href="#{key}">{label}</a><span class="pg">{pg(key)}</span></div>')

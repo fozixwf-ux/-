@@ -1,0 +1,411 @@
+#SECTION 3 三昧耶與律儀
+
+=== guru
+after: samaya
+zh: 師長
+alt: 上師；喇嘛；金剛上師
+bo: bla ma
+sa: guru
+en: guru; spiritual teacher; lama
+def: 傳授灌頂、密續與口訣之具德師長；密咒乘以依止師長為一切成就之根本，一切根本三昧耶中以師長三昧耶最為重要。
+plain: 密法強調“師承”。原因有二：一是很多修法的要點只在口傳中，書本上寫不全；二是灌頂必須由具格的上師授予才能生效。因此對上師的恭敬與信任被列為最重要的誓言。但格魯派同時強調：上師本身必須具格，弟子也應先觀察再依止。
+exp: 宗喀巴：總於一切學處，諸根本三昧耶中唯師長三昧耶最為重要；又引《五次第》說勝弟子之相。“喇嘛”（bla ma）為藏語，義為“無上者”。
+q: B0068 | 總於一切學處，諸於根本三昧耶中，唯師長三昧耶最為重要，應善了知，隨力所能策勵防護。
+q: B0068 | 若敬信師長，恆勤修承事，能受持所聞，是為勝弟子。
+tr: 法尊譯“師長”，通行譯“上師”。“喇嘛”在漢語俗用中泛指藏傳僧人，原義專指上師。
+see: vajra-master, guru-fifty, samaya
+
+=== vajra-master
+after: guru
+zh: 金剛阿闍黎
+alt: 金剛上師；阿闍黎
+bo: rdo rje slob dpon
+sa: vajrācārya
+en: vajra master
+def: 具足金剛阿闍黎灌頂、安住律儀與三昧耶、了知儀軌並已修承事，堪為他人灌頂、講說密續之師；最要者須未犯根本罪。
+plain: 不是任何會念經的人都能當密法上師。按格魯派的標準，金剛上師要：自己完整受過灌頂並守好戒律、熟悉傳承與儀軌、自己先修過該本尊的閉關，最重要的是沒有犯過根本戒。
+exp: 宗喀巴引藏地諸賢：得圓滿灌頂、安住三昧耶與律儀、親見師長傳承軌則、了知十種真實、善巧灌頂儀軌、先修承事、獲得本尊聽許；並說住咒律儀須未犯根本罪，此最重要。
+q: B0068 | 藏地諸賢謂得圓滿灌頂、安住三昧耶與律儀，親見師長傳承軌則，了知十種真實，善巧灌頂儀軌，先修承事，獲得本尊聽許或未遮止
+q: B0068 | 言住咒律儀者，須未犯根本罪，此最重要。
+see: guru, acarya-init, approach-retreat
+
+=== vajra-siblings
+after: root-downfalls
+zh: 金剛兄弟
+alt: 金剛道友；金剛兄
+bo: rdo rje spun / rdo rje mched
+sa: vajrabhrātṛ
+en: vajra brothers and sisters
+def: 從同一師長受同一灌頂之同門；十四根本墮之第三即於金剛兄弟起瞋而說其過。
+plain: 一起從同一位上師那裡受灌頂的人，彼此稱“金剛兄弟姊妹”，就像同一家庭的手足。密戒要求彼此和睦，不能因怨恨去揭短、攻擊對方。
+exp: 宗喀巴引《幻網》第二品授三昧耶：菩提心、師長，承事金剛兄。
+q: B0068 | 菩提心師長，承事金剛兄，汝終莫離欲，勿慈愍惡人。
+see: root-downfalls, samaya
+
+=== holder-of-knowledge
+after: three-vows
+zh: 持明
+alt: 持明者；明持
+bo: rig 'dzin
+sa: vidyādhara
+en: knowledge-holder; vidyādhara
+def: 受持明咒並依之修持之密咒行者；亦指依密咒而得成就者。密咒律儀稱“持明律儀”，金剛乘稱“持明藏”。
+plain: “明”指明咒，“持”是受持。凡是受了密咒戒、依明咒修行的人，都可以叫“持明”；修出成就的則稱“持明者”。三種戒中最上的密咒戒，因此叫“持明律”。
+exp: 宗喀巴引《金剛頂經》“別解脫菩薩，持明律第一”，又說金剛乘亦稱持明藏。
+q: B0068 | 若是出家者，正住三律儀，別解脫菩薩，持明律第一。
+see: mantra-vow, vidyadhara-pitaka
+
+=== meats-nectars
+after: gross-infractions
+zh: 五肉五甘露
+alt: 五肉、五甘露；甘露丸
+bo: sha lnga bdud rtsi lnga
+sa: pañcamāṃsa, pañcāmṛta
+en: five meats and five nectars
+def: 無上續中所說之誓物（三昧耶物），以象徵五蘊、五大等之轉為五佛、五佛母；實用中多以加持所成之甘露丸代表，用於內供等。
+plain: 密續裡會提到一些世俗看來不潔的物質，象徵“淨與不淨的分別只是心的執著”。在格魯派的實際修持中，它們以經過加持的甘露丸或象徵物出現，用於內供等儀式，並不鼓勵真的食用不淨之物。
+exp: 宗喀巴於事部瓶法說塗以香水及五甘露、牛生五物；於降智等儀軌中亦引鈴論師以五肉五甘露所熏之物。
+q: B0068 | 塗以香水及五甘露牛生五物，置於金等器中
+q: B0068 | 塗以五肉五甘露及貓糞，和以黑香，於顱盃中燒尸炭火而熏。
+tr: 各續所列五肉、五甘露之物不盡相同；“牛生五物”（pañcagavya）為事部所用之淨物，與無上續之五甘露不同。
+see: inner-offering, samaya
+
+#SECTION 4 二次第總說與生起次第
+
+=== yidam
+after: raft-simile
+zh: 本尊
+alt: 天；誓言尊；本尊神
+bo: yi dam (lha)
+sa: iṣṭadevatā
+en: meditational deity; yidam
+def: 行者依之修天瑜伽、以為自身所應成就之佛身而終身不捨之佛（如密集、勝樂、大威德等）；藏語 yi dam 原義為“誓心”。
+plain: “本尊”不是要人去拜一個神，而是佛的某一種形象，行者把它當作自己將來成佛的模樣，每天觀想自己就是這位佛。藏文 yi dam 本義是“心的誓約”，意思是一旦選定，就要終身依止，不再隨意更換。
+exp: 宗喀巴於《密宗道次第廣論》卷首偈中自述：久遠恒依為本尊，終不棄捨更依餘。黑行論師說未承事本尊而行灌頂等事則自損害。
+q: B0068 | 久遠恒依為本尊終不棄捨更依餘
+q: B0068 | 若未承事本尊，則自損害。
+tr: 法尊多以“天”（lha）稱本尊。iṣṭadevatā 為通行之梵語對譯，印度原典多直稱 devatā。
+see: deity-yoga, approach-retreat
+
+=== approach-retreat
+after: four-branches
+zh: 承事（念誦閉關）
+alt: 近修；親近；閉關
+bo: bsnyen pa / bsnyen mtshams
+sa: sevā
+en: approximation retreat; approach retreat
+def: 修某本尊之前行，依規定時數或遍數念誦其咒、修其瑜伽，令與本尊親近；為行灌頂、護摩等事業之先決條件。
+plain: 要以某位本尊的身份去做灌頂、護摩等事，必須先“熟悉”這位本尊：專門閉關一段時間，大量念誦他的咒、觀修他的身相，這叫“承事”或“近修”。好比要代表一個機構辦事，必須先在那裡工作過、取得授權。
+exp: 宗喀巴引黑行論師“勇識心真言，應誦三萬遍”等說，並以“班雜枳”等咒中雜以嗡阿吽三字為承事時所誦真言。
+q: B0068 | 出生咒中雜以三字（嗡阿吽），為承事時所誦真言。
+q: B0068 | 黑行論師亦云：「若未承事本尊，則自損害。」
+tr: bsnyen pa 之義為“親近”（sevā），漢語“閉關”是其外在形式。
+see: four-branches, recitation, vajra-master
+
+=== recitation
+after: approach-retreat
+zh: 念誦
+alt: 持咒；誦咒
+bo: bzlas brjod
+sa: jāpa
+en: mantra recitation
+def: 持誦本尊咒語之修法；或出聲、或微聲、或心誦，依所緣分緣字形、緣字聲等，並以數珠計數。
+plain: 就是“持咒”。密法的念誦有講究：觀想咒字在心間旋轉、發光，或聽咒聲，數著念珠念；在圓滿次第中，最高的念誦是與呼吸結合的“金剛念誦”，甚至不出聲。
+exp: 宗喀巴於事部詳說四支念誦、緣字形念誦、緣字聲念誦等；於圓滿次第則以金剛念誦為了義念誦。《密集》第十三品說“咒念誦”與“金剛念誦”。
+q: B0068 | 了義咒即是金剛念誦
+qs: GST 13.5 | mantrajāpaṁ praghoṣātha vajrajāpamudāharan
+see: vajra-recitation, approach-retreat
+
+=== merit-field
+after: purification-basis
+zh: 資糧田
+alt: 福田；積集資糧
+bo: tshogs zhing
+sa: —
+en: field of merit; field for accumulating merit
+def: 生起次第加行中所觀之上師、諸佛菩薩等，於彼前行供養、懺悔等以積福德資糧；配所淨事中之“造受生之業”與資糧道。
+plain: 修本尊之前先觀想上師與諸佛在面前，向他們供養、懺悔、發願，好比耕種前先把田地整備好、播下善的種子。在生起次第的“所淨事”對應裡，這一步相當於凡夫受生前所造的業。
+exp: 宗喀巴：先緣福田多集資糧，如造生三有業，即此亦可配資糧道；願心行心等道共波羅蜜多乘。
+q: B0068 | 先緣福田多集資糧，如造生三有業。即此亦可配資糧道
+see: purification-basis, generation-stage
+
+=== palace
+after: support-supported
+zh: 宮殿（所依曼陀羅）
+alt: 越量宮；無量宮
+bo: gzhal yas khang
+sa: vimāna; kūṭāgāra
+en: celestial mansion; inestimable mansion
+def: 曼陀羅諸尊所居之四方四門宮殿，由佛智所成；外圍金剛墻、火鬘等護輪，下有四大重疊與須彌等座。
+plain: 本尊不是飄在空中的，他住在一座方形、四面開門的宮殿裡。宮殿的每一部分（牆、門、裝飾）都象徵佛法的某種德性，例如四門象徵四無量心。觀想時先生起宮殿，再生起住在其中的本尊。
+exp: 克主杰說果位㖶鋄之“㖶”字表三角法生之中由佛智所成之宮殿及座。宗喀巴說金剛墻於所修義中下自風輪上至色究竟天。
+q: B0057 | 初者「㖶」字三角。詮表三角法生之中。有由佛智所成宮殿及座。
+q: B0068 | 於所修義，下自風輪上至色究竟天，是此論師所許。
+tr: gzhal yas khang 直譯“不可量之宅”，漢譯“越量宮”“無量宮”。
+see: support-supported, dharmodaya, elements-stack
+
+=== dharmodaya
+after: palace
+zh: 法生
+alt: 法源；三角法生
+bo: chos 'byung
+sa: dharmodaya
+en: source of phenomena; dharmodaya
+def: 觀修中作為宮殿與諸尊生起之源的倒三角形（或雙三角形）；表空性、表佛母之蓮宮，亦表空悲無別之智。
+plain: 一個尖端朝下的三角形，象徵“一切法所從出之處”，即空性。很多本尊修法中，宮殿就建在這個三角形之內，意思是一切顯現都從空性中生起。
+exp: 宗喀巴引《鬘論》：空悲無別之無上智名為法生。《密集》第十八品說“法生智”本性無垢。克主杰以“㖶”字三角表法生。
+q: B0068 | 空悲無別之無上智，名為法生。
+qs: GST 18.82ab | iti dharmodayajñānaṁ prakṛtyā nirmalaṁ śivam
+see: palace, evam
+
+=== elements-stack
+after: dharmodaya
+zh: 四大重疊
+alt: 四大輪；風火水地壇
+bo: 'byung ba brtsegs pa
+sa: —
+en: stacked elements (wind, fire, water, earth maṇḍalas)
+def: 生起所依時依次生起之風、火、水、地四大壇輪，其上為須彌山與宮殿；隨順器世間之形成次第。
+plain: 觀想宮殿前，先從空中依次觀出風、火、水、土四層“地基”，再在上面觀須彌山和宮殿。這是模仿佛教宇宙觀中世界形成的過程，用來淨化對“外在世界”的凡庸執著。
+exp: 宗喀巴：先修護輪以及釘魔礙等儀軌眷屬，四大重疊乃至座位以及諸尊一切修法，皆如各各修法中說。
+q: B0068 | 四大重叠乃至座位以及諸尊一切修法，皆如各各修法（儀軌）中說。
+see: palace, protection-wheel
+
+=== seed-syllable
+after: three-bodies-path
+zh: 種子字
+alt: 種子；字種
+bo: sa bon
+sa: bīja
+en: seed syllable
+def: 本尊或諸物所從生起之單一字母（如吽、嗡、阿），表其心之體性；生起次第中先觀種子，次轉成標幟，再成天身。
+plain: 每位本尊都有一個代表他的“種子字”，像植物的種子一樣，觀想時先觀這個字，再由它“長出”本尊的法器和身體。宗喀巴說，種子字雖沒有手足，也可稱為“有情”，就像受精卵雖未成形也算生命。
+exp: 宗喀巴引《教授穗》：種子如羯羅藍亦名有情；並說生起次第從種子及標幟等方便，自身生為完具天身。
+q: B0068 | 種子如羯羅藍亦名有情。
+see: hand-symbol, nada, kalala
+
+=== hand-symbol
+after: seed-syllable
+zh: 標幟
+alt: 手幟；法器；三昧耶標幟
+bo: phyag mtshan
+sa: cihna; āyudha
+en: hand implement; emblem
+def: 本尊所持、亦為生起次第中由種子所化之象徵物（如杵、顱器、棍）；配所淨事中胎中業體之成就。
+plain: 本尊手中拿的東西，例如金剛杵、頭骨碗、棍杖，每一件都有含義。在觀想次第中，種子字先變成這件法器，再由法器變成本尊，對應胎兒在母胎中逐漸成形。
+exp: 宗喀巴：從種子生標幟五股杵；標幟如喜金剛為頂骨、紅大威德為棍，但能表示胎中成就業體即可。
+q: B0068 | 標幟，如歡喜金剛為頂骨。紅大威德為棍。但能表示胎中成就業體即可。
+see: seed-syllable, purification-basis
+
+=== nada
+after: hand-symbol
+zh: 那答
+alt: 聲點；那達
+bo: nA da
+sa: nāda
+en: nāda
+def: 字頂上細如毛髮之曲線，為字之最微細分；生起次第中以之表中有，攝嗡阿吽三字之體性。
+plain: 藏文、梵文字母頭頂上那一小撇細線叫“那答”，是字最細的部分。在觀想裡它被用來代表“中陰身”——死後、投胎前那個極微細的存在，然後讓它進入日月輪之間，象徵入胎。
+exp: 宗喀巴：其那答者，為攝三字自性，三字義即廣大，同表中有。
+q: B0068 | 其那答者，為攝三字自性，三字義即廣大，同表中有。
+see: antarabhava, seed-syllable
+
+=== five-abhisambodhi
+after: three-samadhis
+zh: 五相現證菩提
+alt: 五現證菩提；五相成身
+bo: mngon byang lnga
+sa: pañcābhisambodhi
+en: five manifest enlightenments
+def: 依最後有菩薩成佛之次第，經五步驟生起本尊身之法（通常以月輪、日輪、種子與標幟、二者融合、身相圓滿配五智）；瑜伽部之要法，無上部亦用之。
+plain: 這是一套“模擬佛成道過程”的觀想：分五步，由月輪、日輪、種子字和法器、合而為一、到完整的本尊身相，每一步對應佛的一種智慧。漢傳唐密稱“五相成身觀”。
+exp: 宗喀巴：下三部無順生三有染品次第而修，然有順清淨品修法，以修五相證菩提道，如最後有菩薩成佛次第，作彼慢而修。無上部生起次第中，“五相生起主尊”與“化後歌勸生起”並為正生天法。
+q: B0068 | 以修五相證菩提道，如最後有菩薩成佛次第，作彼慢而修故。
+tr: 五相與五智之配法諸續略異，本條所列為通行說法。唐密“五相成身”（不空譯）即此。
+see: three-samadhis, five-wisdoms, yoga-tantra
+
+=== song-exhortation
+after: five-abhisambodhi
+zh: 化後歌勸
+alt: 歌勸生起；四天女歌勸
+bo: zhu ba glus bskul
+sa: —
+en: exhortation by song after melting
+def: 主尊父母溶化為光（或明點）之後，由四天女以歌勸請，主尊復起現為天身；配果位由四無量心發動利他而現色身，所淨事則配中有入胎後父母溶化、羯羅藍受四大攝持。
+plain: 觀想中，本尊父母化成光或液滴，接著四位天女唱歌“請佛起身”，本尊才重新現起。這象徵佛安住法身中，因慈悲（四無量心）被“請出”為眾生示現色身；同時也對應入胎時父母交合、胚胎由四大滋養的過程。
+exp: 宗喀巴：化後以歌勸請，若依果德而釋，是由四無量心發動利他，於諸有善根者現起色身；若約所淨之事，則四天女謂四大種。
+q: B0068 | 化後以歌勸請，若依果德而釋，是由四無量心，發動利他，於諸有善根者現起色身。
+see: five-abhisambodhi, purification-basis, kalala
+
+=== causal-resultant-vajradhara
+after: song-exhortation
+zh: 因金剛持・果金剛持
+alt: 因持金剛、果持金剛
+bo: rgyu'i rdo rje 'dzin pa / 'bras bu'i rdo rje 'dzin pa
+sa: —
+en: causal Vajradhara / resultant Vajradhara
+def: 生起次第中先生起之主尊父母（喻父母）為因金剛持，由其所化出、身相圓滿之主尊為果金剛持（喻所生之子）。
+plain: 有些修法先觀出一對本尊父母，叫“因金剛持”；再由他們“生出”主要的本尊，叫“果金剛持”。就像父母生子，用來對應人的出生，並把出生轉化為佛的化現。
+exp: 宗喀巴：果金剛持如所生子；前初二證菩提說為因果金剛持者，猶如父母與子。
+q: B0068 | 前初二證菩提說為因果金剛持者，猶如父母與子，與此相同。
+see: song-exhortation, vajradhara
+
+=== blessing-places
+after: causal-resultant-vajradhara
+zh: 加持處與加持身語意
+alt: 加持諸處；加持三門
+bo: skye mched byin gyis brlab pa / sku gsung thugs byin gyis brlab pa
+sa: —
+en: blessing the sense spheres; blessing body, speech, and mind
+def: 生起次第中於自身眼等諸處安立諸尊（加持處），並於額、喉、心安立嗡、阿、吽而加持身語意；分別配四支之近修與修行。
+plain: 本尊身生起後，要在身上的眼、耳、鼻等處觀想不同的菩薩，在額、喉、心觀嗡、阿、吽三字，表示身體的每個部分、以及身口意都已轉為佛的身口意。
+exp: 宗喀巴述智足派：承事謂生三昧耶，近修謂加持諸處，修行謂加持身語意，大修行謂灌頂部主印定。
+q: B0068 | 承事者，謂生三昧耶，近修者，謂加持諸處。修行謂加持身語意，大修行謂灌頂部主印定。
+see: four-branches, sealing
+
+=== sealing
+after: blessing-places
+zh: 部主印定
+alt: 印定；頂嚴印定
+bo: rigs bdag gis rgyas gdab pa
+sa: —
+en: sealing with the lord of the family
+def: 召入智尊並灌頂之後，於本尊頂上觀想其所屬部族之部主佛，以示本尊屬於該部；為大修行支之內容。
+plain: 本尊頭頂上常有一尊小佛，代表這位本尊所屬的“部族”，就像蓋上家族的印章。這個步驟叫“印定”。
+exp: 宗喀巴引《密集根本經》“於冠想部主”：想以各部部主印定，當得悉地。
+q: B0068 | 想以各部部主印定，當得悉地。
+see: blessing-places, five-families
+
+=== nectar-tasting
+after: sealing
+zh: 嘗甘露
+alt: 甘露供；嘗甘露味
+bo: bdud rtsi myang ba
+sa: —
+en: tasting the nectar
+def: 生起次第圓滿支分中，本尊（行者）以舌之金剛管飲用加持所成之甘露；配彌陀佛（語金剛），令語金剛飽足。
+plain: 觀想中本尊用舌頭品嚐由加持轉成的甘露，象徵語的淨化與滿足。宗喀巴解釋，這一步歸彌陀佛主管，因為彌陀佛代表“語”。
+exp: 宗喀巴：由彌陀尊嘗甘露者，以彌陀佛是語金剛，由嘗甘露飽足語金剛故。
+q: B0068 | 由彌陀尊甞甘露者，以彌陀佛是語金剛，由嘗甘露飽足語金剛故。
+see: inner-offering, amitabha
+
+=== inner-offering
+after: nectar-tasting
+zh: 內供
+alt: 內供養；甘露內供
+bo: nang mchod
+sa: —
+en: inner offering
+def: 以加持所成之甘露（象徵五肉五甘露轉成）供養諸尊之法；無上續修法之要件。
+plain: 一般的供養是花、香、燈等“外供”；“內供”則是把象徵身體與煩惱的物質，觀想淨化成甘露來供養，表示連“不淨”也能轉為智慧的供品。
+exp: 宗喀巴：其義謂修自部母邑同摩摩格，而於曼陀羅中修內供養。黑行論師等多說內護摩。
+q: B0068 | 其義謂修自部母邑同摩摩格，而於曼陀羅中修內供養。
+see: meats-nectars, nectar-tasting
+
+=== torma
+after: four-sessions
+zh: 施食
+alt: 食子；朵瑪
+bo: gtor ma
+sa: bali
+en: torma; ritual cake offering
+def: 以麥粉等做成之供食，供養本尊、護法、地神或施予餓鬼等；分廣、中、略三法。
+plain: 藏傳佛教裡常見的錐形麵食供品就是“朵瑪”。修完本尊後，要用它來供養本尊、護法，或布施給鬼神，以結善緣、消除障礙。
+exp: 宗喀巴：施食儀軌雖有多種，然《結合經》及《四座經金剛空行》意趣相符；並說廣、中、略三種施食法，“此是生起次第施食儀軌”。
+q: B0068 | 施食儀軌雖有多種，然《結合經》及《四座經金剛空行》意趣相符。
+q: B0068 | 此是生起次第施食儀軌，圓滿次第，不動智慧方便
+see: four-sessions, homa
+
+=== ganacakra
+after: torma
+zh: 會供
+alt: 會供輪；薈供
+bo: tshogs kyi 'khor lo
+sa: gaṇacakra
+en: feast gathering; gaṇacakra
+def: 密咒行者聚會，以飲食等觀為甘露而供養本尊、勇父空行並共同受用之儀軌；兼為守護三昧耶、積集資糧之法。
+plain: 修行者聚在一起，把食物飲品觀想成甘露，先供佛菩薩和空行，再大家一起享用，是一種集體的修持與聚會。密戒規定會供時不得爭吵。
+exp: 宗喀巴於曼陀羅供養處說：薩惹哈及慧鎧師等多說此處亦獻會供。
+q: B0068 | 薩惹哈及慧鎧師等多說此處亦獻會供。
+tr: tshogs 義為“聚、資糧”，故有“會供”“薈供”兩譯。
+see: torma, inner-offering
+
+=== between-sessions
+after: four-sessions
+zh: 中間瑜伽
+alt: 座間瑜伽；行住瑜伽
+bo: thun mtshams kyi rnal 'byor
+sa: —
+en: yoga between sessions
+def: 正修座次以外之一切時中（飲食、睡眠、行住等）仍保持天慢與清淨見之修持；含養身修食法、供養諸天等。
+plain: 打坐結束不等於修行結束。吃飯時觀想把食物供給心中的本尊，睡覺時觀想融入光明，走路時觀想自己是本尊、環境是壇城——這些合稱“座間瑜伽”，目的是讓修行貫穿整天。
+exp: 宗喀巴《密宗道次第廣論》卷十九列“結行：養身修食法、修天供養法”與“中間之瑜伽”諸科；並說持祥師以四瑜伽攝生起次第時未攝中間瑜伽。
+q: B0068 | 此中未攝中間瑜伽，修習資糧護輪加行及生所依，亦非四瑜伽中所攝。
+see: four-sessions, divine-pride
+
+=== armor
+after: protection-wheel
+zh: 披甲
+alt: 披甲尊；鎧甲
+bo: go cha
+sa: kavaca
+en: armoring
+def: 於身之六處或諸處安立種子字或諸尊作為甲冑，以護持修行者不受違緣侵擾之修法。
+plain: 觀想在自己身上的幾個部位放置本尊或咒字，好像穿上一套盔甲，以防外在或內在的干擾。
+exp: 宗喀巴引勝樂之法：以施食、護輪、誦咒、修披甲尊、著六莊嚴自住天慢等息除魔礙。
+q: B0068 | 此依勝樂說以施食，護輪、誦咒、修披甲尊、請白諸尊、著六莊嚴自住天慢
+see: protection-wheel
+
+=== four-levels
+after: subtle-yoga
+zh: 生起次第四位
+alt: 初發業、略降少智、略得智自在、智得自在
+bo: las dang po pa, ye shes cung zad babs pa, ye shes la cung zad dbang thob pa, ye shes la dbang thob pa
+sa: ādikarmika, …
+en: four levels of generation-stage practitioners
+def: 依生起次第之熟練程度所分之四位：初發業者、智慧略降者、於智略得自在者、於智得自在者；能於微細點中修圓滿曼陀羅並能收放者，始為第三位。
+plain: 修生起次第的人分四個程度：剛開始的“初學者”；觀想開始有點清楚的；能在極小的一點中觀出整個壇城並收放自如的；以及完全純熟的。宗喀巴說，在微小的一點中觀整個壇城，是第三階段以後才做得到的。
+exp: 宗喀巴：於微細標幟或微細點中修能所依圓滿曼陀羅，非初發業、略降少智二位所修，第三位中始能修此；於微細曼陀羅能令收放，說為得少智自在。
+q: B0068 | 以於眼等所立諸天能須臾現，立為第三位故，於微細曼陀羅能令收放，說為得少智自在故。
+tr: 四位之梵語僅 ādikarmika（初發業）為常見，餘從略。
+see: subtle-yoga, generation-stage
+
+=== calm-abiding-gen
+after: four-levels
+zh: 生起次第之止
+alt: 生起次第之奢摩他
+bo: bskyed rim gyi zhi gnas
+sa: śamatha
+en: calm abiding in the generation stage
+def: 以本尊身或細點為所緣，修得心一境堅固之奢摩他；格魯派主張初次第時必須修成，唯明顯與天慢而無堅住，不能真實對治凡庸境執。
+plain: 光把本尊觀得清楚還不夠，還要能穩穩地、長時間專注在上面而不散亂，這種專注力就是“止”。宗喀巴認為，在生起次第中就必須修成真正的“止”，否則後面的圓滿次第無從談起。
+exp: 宗喀巴：於粗細能所依曼陀羅圓滿明顯、心得調柔，定須獲得奢摩他；初次第時次定當修正奢摩他，及以細點瑜伽而修。
+q: B0068 | 其於粗細能所依曼陀羅圓滿明顯心得調柔，定須獲得奢摩他故。以是初次第時，次定當脩正奢摩他，及以細點瑜伽而修。
+see: clear-appearance, divine-pride, subtle-yoga
+
+=== self-front-generation
+after: svabhava-mantra
+zh: 自生・前生
+alt: 自起、對生；自前一體／自前別異
+bo: bdag bskyed / mdun bskyed
+sa: —
+en: self-generation / front-generation
+def: 觀想自身為本尊稱自生；於面前（或曼陀羅、瓶中）觀想本尊稱前生。修曼陀羅時有自前不異與自前別異二派修法。
+plain: “自生”是把自己觀成本尊；“前生”是在面前觀出一位本尊來供養、祈請。灌頂、火供等儀式常兩者都用。有的傳承觀想自己和面前的本尊是同一位，有的則分開觀想，宗喀巴認為兩種都有依據，不必執一。
+exp: 宗喀巴：持祥論師亦以自前不異而修；答日迦跋與莎惹哈則說自與前異修曼陀羅，故不應執唯一。宗喀巴並於事行部考辨“自起”之有無。
+q: B0068 | 持祥論師於《札拏曼陀羅儀軌》，亦以自前不異而修
+q: B0068 | 答日迦跋與莎惹哈，則說自與前異修曼陀羅，故不應執唯一。
+see: deity-yoga, kriya
+
+=== conviction-attention
+after: calm-abiding-gen
+zh: 勝解作意
+alt: 信解；增上勝解
+bo: mos pa yid la byed pa
+sa: adhimuktimanaskāra
+en: imaginative attention; attention of belief
+def: 尚未現量證得而以強烈信解、想像方式作意其對象（如勝解自身為天、勝解生樂）；道位初期諸修多屬此。
+plain: 在還沒真正證到之前，先用堅定的想像和信念去“當作是這樣”來修，例如“相信並想像自己就是本尊”“想像生起大樂”。這不是自欺，而是讓心逐步熟悉，最終轉為真實的體證。
+exp: 宗喀巴說：現證真實之時是無作之俱生；未現證時但以勝解作意悟入真實，是有作之俱生。克主杰說灌頂時以勝解作意為下限。
+q: B0068 | 未現證時，但以勝解作意悟入真實，是有作之俱生
+see: deity-yoga, sahaja, abhiseka

@@ -2,7 +2,7 @@
 
 `../格鲁派密续名相辞汇.pdf` 由本目录生成。
 
-- `data/01_general.txt` … `11_texts.txt`：十一部共 154 条的条目数据。每条的 `q:` 行是 CBETA 引文，`qs:` 行是梵文引文。
+- `data/01_*.txt` … `11_*.txt`：初版十一部 154 条；`21_*.txt` … `25_*.txt`：第二版增补条目（含第十二部“人物与传承”），以 `after:` 指定插入位置；`patch_plain_*.txt`：为初版条目补写的“白话”解说及补充引文。全书 12 部 329 条。每条的 `q:` 行是 CBETA 引文，`qs:` 行是梵文引文。
 - `tools/build.py`：解析条目，逐条在原典电子全文中检索引文；找不到即报错。CBETA 的册、页、栏、行由程序按命中位置生成。
 - `tools/render.py`、`style.css`、`front.html`、`back.html`：生成 HTML（正文转简体，引文保留 CBETA 原文）。
 - `tools/pdf.js`：用 Chromium（Playwright）输出 PDF；`pagemap.py` 从 PDF 书签读回页码，填入目录。
@@ -14,3 +14,4 @@
    - `python3 tools/dsbc.py 723 src/dsbc_723.txt` 下载《密集》，`dsbc.py 737` 下载《明炬论》第十一品。
    - GRETIL 上的 Pañcakrama、Sekoddeśa、Guhyasamājamaṇḍalavidhi 纯文本，以原文件名放入 `src/`。
 2. 运行 `python3 tools/build.py`，输出各类引文的核验数量；有任何不符时列出并以非零状态退出。
+3. 运行 `python3 tools/versecheck.py`，在梵文原文中定位每条梵文引文，打印实际品、偈号，供与条目所标偈号比对。

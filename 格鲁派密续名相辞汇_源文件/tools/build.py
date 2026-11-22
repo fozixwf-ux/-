@@ -94,7 +94,7 @@ def sk_check(key, quote):
     return all(sk_norm(x) in _sk_cache[fn] for x in segs)
 
 # ---------- parse entries ----------
-FIELDS = ['zh', 'alt', 'bo', 'sa', 'en', 'def', 'exp', 'q', 'qs', 'ref', 'tr', 'see']
+FIELDS = ['zh', 'alt', 'bo', 'sa', 'en', 'def', 'plain', 'exp', 'q', 'qs', 'ref', 'tr', 'see', 'after']
 def parse_file(path):
     sections = []; cur_sec = None; entries = []
     cur = None; field = None
@@ -107,25 +107,56 @@ def parse_file(path):
         if line.startswith('#INTRO '):
             cur_sec['intro'] = line[7:]; continue
         if line.startswith('=== '):
-            cur = {'id': line[4:].strip(), 'q': [], 'qs': [], 'ref': [], 'tr': [], 'exp': []}
+            cur = {'id': line[4:].strip(), 'q': [], 'qs': [], 'ref': [], 'tr': [], 'exp': [], 'plain': []}
+            if cur_sec is None:
+                cur_sec = {'num': 'PATCH', 'title': '', 'intro': '', 'entries': []}; sections.append(cur_sec)
             cur_sec['entries'].append(cur); field = None; continue
         if cur is None or not line.strip():
             continue
-        m = re.match(r'^(zh|alt|bo|sa|en|def|exp|q|qs|ref|tr|see):\s?(.*)$', line)
+        m = re.match(r'^(zh|alt|bo|sa|en|def|plain|exp|q|qs|ref|tr|see|after):\s?(.*)$', line)
+        LIST = ('q', 'qs', 'ref', 'tr', 'exp', 'plain')
         if m:
             field, val = m.group(1), m.group(2)
-            if field in ('q', 'qs', 'ref', 'tr', 'exp'): cur[field].append(val)
+            if field in LIST: cur[field].append(val)
             else: cur[field] = val
         else:  # continuation
-            if field in ('q', 'qs', 'ref', 'tr', 'exp'): cur[field][-1] += line.strip()
+            if field in LIST: cur[field][-1] += line.strip()
             elif field: cur[field] += line.strip()
     return sections
 
 def main():
     files = sorted(f for f in os.listdir(DATA) if f.endswith('.txt'))
-    sections = []
-    for f in files: sections += parse_file(DATA + f)
+    raw = []
+    for f in files: raw += parse_file(DATA + f)
     errors = []; ids = {}
+    # merge sections with same number; place entries with 'after'; apply patches
+    sections = []; bynum = {}; pending = []; patches = []
+    for sec in raw:
+        if sec['num'] == 'PATCH': patches += sec['entries']; continue
+        if sec['num'] not in bynum:
+            bynum[sec['num']] = {'num': sec['num'], 'title': sec['title'], 'intro': sec['intro'], 'entries': []}
+            sections.append(bynum[sec['num']])
+        for e in sec['entries']:
+            if e.get('after'): pending.append((sec['num'], e))
+            else: bynum[sec['num']]['entries'].append(e)
+    for _ in range(5):
+        rest = []
+        for num, e in pending:
+            lst = bynum[num]['entries']
+            pos = next((k for k, x in enumerate(lst) if x['id'] == e['after']), None)
+            if pos is None: rest.append((num, e)); continue
+            k = pos + 1
+            while k < len(lst) and lst[k].get('after_chain') == e['after']: k += 1
+            e['after_chain'] = e['after']; lst.insert(k, e)
+        pending = rest
+    for num, e in pending: errors.append(f'{e["id"]}: after-target {e["after"]} not found in section {num}')
+    sections.sort(key=lambda x: int(x['num']))
+    allmap = {e['id']: e for s_ in sections for e in s_['entries']}
+    for pch in patches:
+        if pch['id'] not in allmap: errors.append(f'patch for unknown id {pch["id"]}'); continue
+        tgt = allmap[pch['id']]
+        for fld in ('plain', 'exp', 'q', 'qs', 'tr', 'ref'):
+            tgt[fld] = tgt.get(fld, []) + pch.get(fld, [])
     # numbering
     for s in sections:
         for k, e in enumerate(s['entries'], 1):
@@ -137,6 +168,7 @@ def main():
         for e in s['entries']:
             for fld in ('zh', 'bo', 'en', 'def'):
                 if fld not in e: errors.append(f'{e["id"]}: missing {fld}')
+            if not e.get('plain'): errors.append(f'{e["id"]}: missing plain')
             e['bo_uni'] = ' / '.join(conv.toUnicode(w.strip()) for w in e.get('bo', '').split(' / ')) if e.get('bo') else ''
             e['q_out'] = []
             for q in e['q']:
