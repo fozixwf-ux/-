@@ -1,0 +1,217 @@
+#SECTION 8 母續圓滿次第：大樂、四喜與手印
+#INTRO 母續特重“空品慧分”之樂空無別智。本部收大樂、俱生、四喜、四剎那、四手印及勝樂、喜金剛圓滿次第之相關名相，並附那洛六法。
+
+=== mahasukha
+zh: 大樂
+alt: 俱生大樂；妙樂
+bo: bde ba chen po
+sa: mahāsukha
+en: great bliss
+def: 由風入住融於中脈、拙火溶菩提心降至摩尼而不外洩所生之俱生樂；以之為能證空性之心，即無上瑜伽所謂“方便”。
+exp: 克主杰說：無上續通詮之“方便”即大樂俱生，“智慧”即通達一切法無自性之智；凡無上續定以此二無別為所詮。宗喀巴說：此大樂非身之樂受，亦非以樂受為因所生之無分別定，而是以通達無性之正見為親因、繫界不漏為增上緣所生之通達真實妙樂（時輪不變樂）。
+q: B0057 | 其方便者。謂大樂俱生智慧。謂通達一切諸法無自性智。
+q: B0068 | 是以通達諸法無性正見為親因緣，繫界不漏為增上緣，所生通達真實之妙樂也。
+tr: 法尊譯“大樂”“妙樂”。英譯 great bliss。
+see: sahaja, bliss-emptiness, four-joys, immutable-bliss
+
+=== sahaja
+zh: 俱生
+alt: 俱生智；俱生喜；俱生妙智
+bo: lhan cig skyes pa / lhan skyes ye shes
+sa: sahaja; sahajajñāna
+en: innate; connate; simultaneously arisen (wisdom)
+def: 與生俱有、本然之義；在圓滿次第專指菩提心降至摩尼頂端而未外洩時所生、與空性見結合之第四喜（俱生喜）及其智。
+exp: 宗喀巴說：所觀察之四喜生或不生，係指如第三灌頂時所生者，是菩提心至摩尼中未外出時之俱生歡喜。又說三智究竟清淨、智與真實同成一味之勝義智，方是“俱生”之究竟義。
+q: B0068 | 是菩提心至摩尼中未外出時，俱生歡喜。
+q: B0068 | 彼論說三智者，意謂即彼三智究竟清淨，滅盡微細二取，智與真寔同成一味之勝義智，是為俱生
+tr: 英譯 innate、connate、simultaneously born。
+see: four-joys, mahasukha
+
+=== four-joys
+zh: 四喜
+alt: 四歡喜；喜、勝喜、殊勝喜（離喜）、俱生喜
+bo: dga' ba bzhi: dga' ba, mchog dga', khyad dga', lhan skyes kyi dga' ba
+sa: ānanda, paramānanda, viramānanda, sahajānanda
+en: four joys
+def: 拙火溶化頂上菩提心依次降至喉、心、臍、密處（摩尼）時所生之四種樂：喜、勝喜、殊勝喜（離喜）、俱生喜；第四俱生喜為證空之大樂智。逆次上提而固者為逆四喜。
+exp: 法護譯《喜金剛》釋四喜：一者喜，少分妙樂有進求故；二者勝喜，漸令增勝；三者離喜，厭離諸根息除貪染；四者俱生喜，一切平等真實觀想故。宗喀巴說時輪隨念支：由猛利火力溶菩提心，從頂降注摩尼中間引生四喜，其第四俱生喜即不變妙樂三摩地支。《灌頂略說》則以菩提心自頂髻降至眉間、喉、心、臍、密處乃至金剛摩尼之次第配四喜（時輪系統）。
+q: T0892 | 一者喜，謂於此先行，少分妙樂有進求故；二者勝喜，於此相應，漸令增勝說妙樂故；三者離喜，於此妙樂，厭離諸根息除貪染，無眾生可喜愛故；四者，俱生喜，一切平等真實觀想故。
+q: B0068 | 由隨念時猛利火力溶菩提心，從頂降注摩尼中間引生四喜，其第四俱生喜，即不變妙樂三摩地支故。
+qs: SU 80–81 | śukrāgamanamānandamuṣṇīṣādūrṇṇāpaṅkaje / kaṇṭhe hṛdi paramānandaṃ viramānandaṃ tato bhavet // vividhaṃ ramaṇaṃ nābhau guhyapadme yadāgatam / guhyādvajramaṇiṃ yāvat sahajānandamacyutam
+tr: viramānanda 法護譯“離喜”，藏譯 khyad dga'（殊勝喜），二者取義不同：vi-rama 可解為“離”或“殊勝”，格魯派從藏譯。第三、第四之次第，印度諸家有異說（如《喜金剛》系統有以俱生居第三者），格魯派以俱生喜為第四。
+see: four-moments, sahaja, four-empties, tummo
+
+=== four-moments
+zh: 四剎那
+alt: 種種、異熟、揉（觀察）、離相；莊嚴、果報、作觀、離相（古譯）
+bo: skad cig ma bzhi: sna tshogs, rnam smin, rnam nyed, mtshan nyid bral
+sa: vicitra, vipāka, vimarda, vilakṣaṇa
+en: four moments
+def: 《喜金剛》系統配合四喜之四種剎那：種種、異熟、揉（觀察）、離相；離相剎那對應俱生喜。
+exp: 法護譯《喜金剛》列四剎那為“莊嚴、果報、作觀、離相”，與四歡喜、四聖諦等並舉。格魯派於喜金剛圓滿次第及四喜之排序討論中涉及此名。
+q: T0892 | 如是次第有四剎那，謂：莊嚴、果報、作觀、離相。
+tr: vimarda 法護譯“作觀”，藏譯 rnam par nyed pa（揉、搓）。古今譯名差異大，宜並列梵藏。
+see: four-joys
+
+=== bliss-emptiness
+zh: 樂空無別
+alt: 樂空雙運；深顯無別；二諦無別
+bo: bde stong dbyer med
+sa: —
+en: indivisibility of bliss and emptiness
+def: 大樂之心即是證空性之心，樂與空不分離；為無上瑜伽一切續之正所詮，亦是成佛之親因。
+exp: 宗喀巴說：圓滿次第究竟要旨，或名二諦無別，或名深顯無別、樂空無別；無別之義即能成佛之親因。克主杰說無上續所詮之“㖶鋄”（e vaṃ）二字即表樂空無別。
+q: B0068 | 是故圓滿次第究竟要旨，或名二諦無別，或名深顯無別，樂空無別。無別之義，即能成佛之親因。
+q: B0057 | 總其一切無上續部正所詮說「樂空無別。」即是「㖶鋄」二字所詮表義。
+tr: “㖶鋄”即 evaṃ（如是）。英譯 union of bliss and emptiness。
+see: evam, mahasukha, union
+
+=== evam
+zh: 㖶鋄（E VAṂ）
+alt: 如是；誒棒
+bo: e waM
+sa: evaṃ
+en: E VAṂ
+def: 經首“如是（我聞）”之二字，在無上瑜伽中表樂空無別：E 表空性（慧、三角法生），VAṂ 表大樂（方便）。
+exp: 克主杰分三：果位之 E VAṂ（E 字三角表法生中之宮殿，VAṂ 表金剛持及眷屬）；道位之 E VAṂ（釋樂、釋空、釋樂空不別）；並以龍猛《菩提心釋》之空性為咒中空見，主張此空性唯是中觀應成之見。
+q: B0057 | 初者「㖶」字三角。詮表三角法生之中。有由佛智所成宮殿及座。「鋄」字所詮。謂金剛持及諸眷屬。
+tr: 法尊音譯“㖶鋄”；“煙鋄”為同文另處之異寫（CBETA 照錄）。
+see: bliss-emptiness
+
+=== four-mudras
+zh: 四手印
+alt: 四印：大印、智印、三昧耶印、業印
+bo: phyag rgya bzhi
+sa: caturmudrā
+en: four seals (mudrās)
+def: 依三理炬論及智稱（Jñānakīrti）之說，按根器配四種“印”：上上根修大印，上中根修智印，上下根許三昧耶印及業印。
+exp: 宗喀巴詳引三理炬論、智稱論師之說後，評曰：入密咒之上機多於初次第圓滿後導入第二次第，圓滿次第堅穩時多於爾世成佛，故“中根許智印，下根許三昧耶印”等亦難安立，諸智者應當觀察。翻譯時宜區分：瑜伽部之“四印”（大印、三昧耶印、法印、羯磨印）為手印修法，與此處明妃意義之印不同。
+q: B0068 | 上中根者，雖能厭行諸庸常境，然未斷除貪等分別，不能趣入勝義智海，故為彼說修行智印。
+q: B0068 | 故說於中根者聽許智印，於下根聽許三昧耶印等，亦難安立。故諸智者，於此等義，應當觀察。
+see: karmamudra, jnanamudra, mahamudra
+
+=== karmamudra
+zh: 業印
+alt: 羯磨印；業手印；外印
+bo: las kyi phyag rgya
+sa: karmamudrā
+en: action seal; action consort
+def: 圓滿次第中所依之實際明妃（外印），為引生四喜、令風入中脈之外緣；與觀想之智印相對。
+exp: 宗喀巴說：心遠離智之外緣須依明妃乃能生起，然須先依內緣調柔脈與空點。克主杰說：現今灌頂時不宜依真實明妃，唯觀想智印。依業印者須具足三昧耶，否則犯粗罪。
+q: B0068 | 若上品貪而無廣大證真實慧，除此，非餘所能住心，為說業印。
+q: B0068 | 則亦當了知行者與業印，或行者與智印，或行者與空色明妃，明了想為本尊父母入
+tr: 法尊亦作“羯摩印”。英譯 action seal、karmamudrā。
+see: four-mudras, jnanamudra, gross-infractions
+
+=== jnanamudra
+zh: 智印
+alt: 智手印；觀想明妃
+bo: ye shes kyi phyag rgya
+sa: jñānamudrā
+en: wisdom seal; imagined consort
+def: 以觀想所成之明妃；用於灌頂（現時以智印傳慧智灌頂）及生起、圓滿次第中引生四喜。
+exp: 宗喀巴說：生起次第時說與智印等至引生四喜有多種，故唯得瓶灌頂者堅固修生起次第亦得生起四喜；若謂依智印不能生四喜，則與“依智印而得第三灌頂”相矛盾。
+q: B0068 | 若修生起次第得堅固者，依止智印不能引生四喜，則彼無間傳受四種灌頂補特伽羅，先未曾修諸天瑜伽，依止智印而傳第三灌頂，應有不能生四喜失
+q: B0057 | 現在不宜真實智慧。唯當觀想由師長賜以智印。
+see: karmamudra, wisdom-init, four-mudras
+
+=== mahamudra
+zh: 大手印
+alt: 大印
+bo: phyag rgya chen po
+sa: mahāmudrā
+en: great seal
+def: 多義名相：（一）無上瑜伽中指大樂俱生智（克主杰）；（二）四印之一、上上根所修之法無我智與大悲一味；（三）指本尊身相（“色相名大印”）；（四）佛果之別名。
+exp: 克主杰釋《金剛幔》“大印善和合”：大印謂此中大樂俱生智，由轉入真實而與空和合。宗喀巴引智稱論師：慧力羸弱者不堪修大印，佛為饒益彼，假以大印之名稱金剛薩埵等色相。格魯派大手印以班禪洛桑卻吉堅贊《格魯噶舉大手印根本頌·勝者道》（dge ldan bka' brgyud rin po che'i phyag chen rtsa ba rgyal ba'i gzhung lam）為代表，主張其究竟須依中觀應成見與無上瑜伽圓滿次第。
+q: B0057 | 大印者。謂此中大樂俱生智。彼於何和合。謂由轉入真實門中而善和合。
+q: B0068 | 不堪修大印，佛為饒益彼，假以大印名，金剛薩埵等，色相名大印。
+tr: 須依上下文判讀，不可一律等同噶舉派“大手印”之修法體系。
+see: four-mudras, mahasukha
+
+=== seven-limbs
+zh: 七支和合
+alt: 七支結合；和合七支；具足七支
+bo: kha sbyor yan lag bdun
+sa: saptāṅga
+en: seven features of union (of the resultant state)
+def: 果位報身（雙運金剛持）所具之七種特性：受用圓滿、和合、大樂、無自性、悲心遍滿、利他相續不斷、無滅。唯無上瑜伽部具“和合”支。
+exp: 宗喀巴說下三部無以貪為道之殊勝方便，故不說七支中之和合支。第四灌頂所表為“具足七支大印大金剛持”；克主杰以七支結合位等同果續、無學雙運。七支之通行列舉源自印度語自在稱（Vāgīśvarakīrti）。
+q: B0068 | 由下三部無有如是以貪為道殊勝方便，故亦未說彼七支中和合之支。
+q: B0068 | 現起具足七支大印天身，即是第四灌頂。
+tr: 法尊譯“七支和合”“七支結合”；克主杰論作“七支給合”（底本用字）。
+see: union-no-more-learning, fourth-init, vajradhara
+
+=== consort
+zh: 明妃
+alt: 慧；印；佛母
+bo: rig ma / gzungs ma / yum
+sa: vidyā; prajñā; mudrā
+en: consort; knowledge-woman
+def: 與本尊或行者和合之女性（實際或觀想）；在灌頂與圓滿次第中為引生大樂之所依。“慧”（prajñā）之稱表其為智慧之象徵。
+exp: 宗喀巴說：心遠離智之外緣須依明妃，然須先修內緣；並說“喜依不具足三昧耶明妃”犯粗罪。在本尊修法中，明妃為佛母（yum），表智慧。
+q: B0068 | 心遠離智之外緣，雖如前引「一切幻事中」等，要依明妃乃能生起。然須先依內緣，修調柔脈與空點之殊勝方便。
+qs: PK 2.5ab | prajñopāyasamāyogānniṣpannamupalabdhakam
+tr: 法尊多譯“明妃”；英譯 consort。
+see: karmamudra, jnanamudra
+
+=== heruka
+zh: 嘿嚕嘎
+alt: 黑茹迦；飲血尊
+bo: he ru ka / khrag 'thung
+sa: heruka
+en: Heruka
+def: 母續（尤其勝樂、喜金剛）忿怒主尊之通稱；勝樂金剛亦稱“吉祥嘿嚕嘎”。
+exp: 宗喀巴釋盧伊巴頌“室利無二智，黑表離因等，茹字離集合，迦表無所住”，以字義訓嘿嚕嘎（he-ru-ka）。克主杰述身曼陀羅灌頂時師長觀想與“根本嘿嚕迦”及“內嘿嚕迦”相合。
+q: B0068 | 室利無二智，黑表離因等，茹字離集合，迦表無所住。
+q: B0057 | 自觀想與「根本嘿嚕迦」及「內嘿嚕迦」相合。
+tr: 法尊譯“黑茹迦”“嘿嚕迦”。藏譯 khrag 'thung 意為“飲血”。
+see: cakrasamvara, dakini
+
+=== cakrasamvara
+zh: 勝樂
+alt: 勝樂金剛；上樂；輪律儀；吉祥嘿嚕嘎
+bo: 'khor lo bde mchog
+sa: Cakrasaṃvara; Saṃvara
+en: Cakrasaṃvara
+def: 母續之首；格魯派傳承以盧伊巴（Lūipa）、黑行（Kṛṣṇācārya）、金剛鈴（Ghaṇṭāpa）三派為主，其圓滿次第多依鈴派五次第與黑行派。
+exp: 克主杰說“母續勝樂為上”，因其廣說之生起、圓滿及事業為餘母續所無。宗喀巴說鈴論師攝勝樂圓滿次第為五次第，其第五不思議次第為圓滿之主。
+q: B0057 | 父續集密為上。母續勝樂為上。
+q: B0068 | 鈴論師攝勝樂圓滿次第為五次第，其第五不思議次第，即此所說，故是圓滿之主。
+tr: “勝樂”譯 bde mchog（saṃvara 解為 su-ṃvara“勝樂”）；梵語 saṃvara 亦可解為“律儀”，故有“輪律儀”之譯。
+see: mother-tantra, heruka, body-mandala, twenty-four-places
+
+=== twenty-four-places
+zh: 二十四境
+alt: 二十四處；二十四聖地
+bo: yul nyer bzhi / gnas nyer bzhi
+sa: caturviṃśati pīṭhāḥ
+en: twenty-four places
+def: 勝樂系統中外在之二十四聖地，及與之相應之身內二十四脈（住頂等二十四處，為身、語、意脈）；身曼陀羅即以之安立二十四勇父空行。
+exp: 宗喀巴引《律生經》：“脈處與諸境，數為二十四。”並說三十二脈中除三旋母等五脈及左右中三脈，餘二十四脈住頂間等二十四處，是為身語意脈。
+q: B0068 | 於三十二脈中，除三旋母等最後五脈與左右中三脈，所餘二十四脈，住頂間等二十四處，是為身語意脈。
+tr: pīṭha、upapīṭha 等細分詳見勝樂續（Gray 2007）。
+see: cakrasamvara, body-mandala, nadi
+
+=== dakini
+zh: 空行母
+alt: 空行；瑜伽母；勇識瑜伽母
+bo: mkha' 'gro ma
+sa: ḍākinī
+en: ḍākinī; sky-goer
+def: 女性之密咒成就者或智慧尊，母續曼陀羅之主要眷屬；與勇父（dpa' bo, vīra/ḍāka）相對。
+exp: 宗喀巴說守護所受律儀須請師長及勇識瑜伽母作證。母續又名“空行母續”。
+q: B0068 | 以請師長及勇識瑜伽母作證，守護所受律儀，不可少故。
+tr: 藏譯 mkha' 'gro 意為“行於虛空者”。法尊譯“勇識”即勇父（dpa' bo）。
+see: heruka, mother-tantra
+
+=== naro-six
+zh: 那洛六法
+alt: 那若六法；深道那洛六法
+bo: nA ro chos drug
+sa: —
+en: Six Dharmas (Yogas) of Nāropa
+def: 源自帝洛巴、那洛巴，經瑪爾巴傳入西藏之母續圓滿次第修法集成；以拙火為根本，含幻身、夢、光明、中有、遷識、奪舍等。
+exp: 宗喀巴有專論《深道那洛六法引導次第·具三信》（zab lam nā ro'i chos drug gi sgo nas 'khrid pa'i rim pa yid ches gsum ldan），以勝樂、喜金剛等母續與密集聖派之圓滿次第會通解釋六法。諸家對“六”之開合不同。
+ref: 英譯 Mullin 1996（Tsongkhapa's Six Yogas of Naropa）。《密宗道次第廣論》未專章講說六法，本條無法尊譯本直接引文。
+tr: “遷識”（'pho ba）指臨終將意識遷往淨土或善趣之法；“奪舍”（grong 'jug）指將意識遷入他人屍身之法。
+see: tummo, illusory-body, death-clear-light, antarabhava

@@ -1,0 +1,145 @@
+#SECTION 11 續典、本尊與釋續方法
+#INTRO 格魯派以密集、勝樂、大威德（怖畏金剛）為三大本尊，並依月稱《明炬論》之“六邊四理”等方法解釋續義。本部收主要續典與本尊之名，以及釋續之法相。
+
+=== guhyasamaja
+zh: 密集
+alt: 集密；祕密集會；密集金剛
+bo: gsang ba 'dus pa
+sa: Guhyasamāja
+en: Guhyasamāja
+def: 父續之首，格魯派圓滿次第總軌之所依；根本續十七品加後續（第十八品），釋續有《金剛鬘》《集智金剛》《密意授記》《四天女請問》等。
+exp: 《密集》第十八品訓名：身語意三名為“密”（guhya），“集”（samāja）謂聚合，即一切佛之名稱。克主杰說：集密廣說之生起、圓滿、事業，諸餘父續皆未說，故父續集密為上。宗喀巴所傳以聖派三十二尊不動金剛（Akṣobhyavajra）為主。
+q: B0057 | 如集密經廣說之生起次第。圓滿次第。及事業等。諸餘父續。皆未說故。
+q: B0068 | 言金剛者，謂從毘盧乃至妙害明王三十二尊。
+qs: GST 18.24 | trividhaṁ kāyavākcittaṁ guhyamityabhidhīyate|samājaṁ mīlanaṁ proktaṁ sarvabuddhābhidhānakam
+tr: 法尊譯“集密”；宋施護譯《一切如來金剛三業最上祕密大教王經》（T885）即其漢譯本。
+see: father-tantra, arya-tradition, uttaratantra
+
+=== hevajra
+zh: 喜金剛
+alt: 歡喜金剛；呼金剛；大悲空智金剛
+bo: kye'i rdo rje / dgyes pa rdo rje
+sa: Hevajra
+en: Hevajra
+def: 母續之一；根本續二品（二觀察，brtag gnyis），釋續有《金剛幕》《三補札》等。薩迦道果之所依，格魯派亦傳其生圓二次第。
+exp: 宗喀巴說喜金剛圓滿次第收為三灌頂道之修法，詳見毘嚩跋《道果》及持其教授之歷代智者；並述種比跋之春點猛利瑜伽。他派以喜金剛為“無二續”，格魯派判為母續。
+q: B0068 | 歡喜金剛圓滿次第，收為三灌頂道，修習之理，如毘嚩跋大瑜伽師所造《道果宗要》
+q: T0892 | 有四歡喜，謂：喜、勝喜、離喜、俱生喜等。
+tr: 宋法護譯《佛說大悲空智金剛大教王儀軌經》（T892）即《喜金剛》本續。法尊譯“歡喜金剛”。
+see: mother-tantra, nondual-tantra, four-joys
+
+=== yamantaka
+zh: 大威德
+alt: 怖畏金剛；閻曼德迦；紅、黑閻摩敵
+bo: rdo rje 'jigs byed / gshin rje gshed
+sa: Vajrabhairava; Yamāntaka
+en: Vajrabhairava; Yamāntaka
+def: 文殊之忿怒相，格魯派三大本尊之一；克主杰列紅、黑閻曼德迦續為父續類。
+exp: 宗喀巴依熱譯師（Rwa lo）所傳之大威德十三尊為格魯派核心修法之一，常與密集聖派圓滿次第合修。
+q: B0057 | 如黑紅閻曼德迦經毘盧遮那幻網經。即無上幻網。（因幻網有多種故）金剛心莊嚴經等。是父續類攝之續。
+tr: 法尊譯“閻曼德迦”（yamāntaka，閻魔之敵）。
+see: father-tantra
+
+=== uttaratantra
+zh: 後續・根本續・釋續
+alt: 根本續；後續；後後續；釋續（共與不共）
+bo: rtsa rgyud / rgyud phyi ma / bshad rgyud
+sa: mūlatantra / uttaratantra / vyākhyātantra
+en: root tantra / subsequent tantra / explanatory tantra
+def: 根本續為一部續之主體；後續、後後續增補根本續未盡之義；釋續專釋根本續，分不共釋續（只釋一續）與共釋續（兼釋多續）。
+exp: 克主杰述喜金剛之釋續：不共釋續為《金剛幔》（金剛幕），共同釋續為《三補札》；《集密》之第十八品即其後續。事部亦有後續、後後續之別：後續為愛樂內三摩地之勝機說，後後續為愛樂外事之下機說。
+q: B0057 | 不共之釋續金剛幔中。有「最勝密歡喜。」共同釋續三補札中。俱有「如是我聞」與「最勝密歡喜。」
+q: B0057 | 此有一後續及一後後續。其後續者。為諸愛樂內三摩地瑜伽。最勝所化機說。
+tr: 法尊譯《金剛幔》《金剛幕》並見，皆指 rdo rje gur（Vajrapañjara）。
+see: guhyasamaja, six-alternatives
+
+=== six-alternatives
+zh: 六邊
+alt: 六邊際；六重解釋
+bo: mtha' drug
+sa: ṣaṭkoṭi
+en: six alternatives (six parameters)
+def: 解釋續文之六種邊際：了義與不了義、有密意與無密意（密意語與非密意語）、如聲與不如聲；源自釋續《集智金剛》，月稱《明炬論》據以逐句解釋《密集》。
+exp: 《明炬論》各品之疏解即名“六邊釋”（ṣaṭkoṭivyākhyā）。《灌頂略說》亦說時輪以六邊清淨（ṣaṭkoṭibhiḥ śuddham）。例：《明炬論》釋《密集》第十一品“於山間”等句：作實際山間等處修靜慮解，為不了義；作女身等解，為了義。
+qs: PU 11 | idamanantaroktaṃ dhyānasamuccayaṃ … kārya karaṇīyam| neyārthaḥ
+qs: PU 11 | dhyānasamuccayaṃ kāryamiti nītārthaḥ
+qs: PU 11 | pradīpodyotanaṭīkāyamekādaśapaṭale ṣaṭkoṭivyākhyā
+qs: SU 6 | evaṃ ṣaṭkoṭibhiḥ śuddhaṃ vajrayogaiścaturvidhaiḥ
+tr: 英譯 six alternatives、six parameters。“邊”（koṭi, mtha'）指解釋之可能性，非“極端”。
+see: four-modes, sandhyabhasa, definitive-mantra
+
+=== four-modes
+zh: 四理
+alt: 四種解釋；字義、共義、隱義、究竟義
+bo: tshul bzhi: tshig don, spyi don, sbas don, mthar thug gi don
+sa: akṣarārtha, samastāṅga, garbhin, kolika
+en: four modes (of explanation)
+def: 解釋續文之四層意義：字義（依字面）、共義（與顯教共通之義）、隱義（隱含之生起次第、貪道、世俗諦等）、究竟義（光明、雙運等）；與六邊並稱“六邊四理”。
+exp: 源自《集智金剛》，經月稱《明炬論》引用；宗喀巴於《明炬論》注疏及《五次第明燈》中加以闡發。本條無法尊譯本直接引文。
+tr: kolika 一詞之義諸家解說不一，藏譯 mthar thug（究竟）。英譯 literal, general, hidden, ultimate meaning。
+ref: Thurman 2010；Broido, M. 1988, “Killing, Lying, Stealing and Adultery: A Problem of Interpretation in the Tantras”（in Lopez ed., Buddhist Hermeneutics）。
+see: six-alternatives
+
+=== sandhyabhasa
+zh: 密意語
+alt: 隱語；祕密語；意趣語
+bo: dgongs pa'i skad
+sa: sandhyābhāṣā; sandhābhāṣā
+en: intentional language; coded language
+def: 續部中以表面意義隱藏真實義之語言；須依釋續與師長口授方能了解。為“六邊”中“有密意”之一邊。
+exp: 《五次第》第一次第於引《密集》“鼻端觀芥子”等句後說：此是密意語，並引《四天女請問》釋續解其真義（風真實）。《明炬論》於《密集》各句後標“sandhyābhāṣā”。
+qs: PK 1.12ab | iti sandhābhāṣeyamasya vajrapadasya nirdeśamāha caturdevīvyākhyātantre
+qs: PU 11 | sarvatathāgatamantrasamayatattvavidyāpuruṣottamapaṭalaḥ| sandhyābhāṣā
+tr: sandhyā 讀作“黃昏”而譯“暮光語”（twilight language）之說，學界已多不取；藏譯 dgongs pa（意趣）支持“意圖語”之解。
+see: six-alternatives, definitive-mantra
+
+=== definitive-mantra
+zh: 了義・不了義（密咒）
+alt: 了義咒；了義與不了義
+bo: nges don / drang don
+sa: nītārtha / neyārtha
+en: definitive / interpretable (meaning)
+def: 密咒解釋中，直詮圓滿次第光明等究竟義者為了義，須引導至他義（如生起次第、共通義）者為不了義；宗喀巴以金剛念誦為“了義咒”。
+exp: 宗喀巴說所誦真言雖有無邊，但辨咒有了義、不了義；了義咒即是金剛念誦。並說根本經中若說生起次第，則於彼金剛句可作了、不了義二種解釋。
+q: B0068 | 但辨咒有了義不了義說。了義咒即是金剛念誦
+q: B0068 | 彼根本經若時說有生起次第，則於彼金剛句，可作了不了義二種解釋
+qs: PU 11 | dhyānasamuccayaṃ kāryamiti nītārthaḥ
+tr: 密咒解釋中之了義、不了義與顯教《解深密經》之判教意義不同。
+see: six-alternatives, vajra-recitation
+
+=== seven-ornaments
+zh: 七莊嚴
+alt: 《明炬論》七莊嚴
+bo: rgyan bdun
+sa: saptālaṅkāra
+en: seven ornaments
+def: 月稱《明炬論》解釋《密集》所依之七種解釋綱要（源自釋續《集智金剛》），六邊、四理即在其中。宗喀巴屢引《解七莊嚴論》說續之聞思修次第。
+exp: 宗喀巴引《解七莊嚴論》：諸瑜伽續皆現為三續——因續、方便續、果續；並說先以聞慧聞知文續，次以思慧學文義相屬，後以修力先學生起次第、後學圓滿次第。
+q: B0068 | 《解七莊嚴論》云：「諸瑜伽續中，皆現為三續，智說為因續，方便續果續。」
+q: B0068 | 《解七莊嚴論》云：「先應由聞慧，聞知於文續，次乃以思慧，學文義相屬。」
+tr: 七莊嚴之完整列舉見《明炬論》卷首及宗喀巴之注疏，本表未逐項錄出。
+see: six-alternatives, four-modes, three-continua
+
+=== tsongkhapa-ngagrim
+zh: 密宗道次第廣論
+alt: 密咒道次第廣論；勝遍主大金剛持道次第開顯一切密要論
+bo: sngags rim chen mo / rgyal ba khyab bdag rdo rje 'chang chen po'i lam gyi rim pa gsang ba kun gyi gnad rnam par phye ba
+sa: —
+en: Great Treatise on the Stages of Mantra; Great Exposition of Secret Mantra
+def: 宗喀巴（1357–1419）總攝四部密續道次第之鉅著，格魯派密教之根本論典；法尊法師漢譯二十二卷。
+exp: 法尊譯本分十四品：第一品總明顯密差別（卷一至二），第二至四品明事、行、瑜伽三部（卷三至六）；無上瑜伽部自第五品（卷六）起，明承事與修地、預備、曼陀羅、入壇灌頂（第五至十品，卷六至十五），第十一品明須二次第雙運（卷十五至十六），第十二品明生起次第（卷十七至十九），第十三、十四品明圓滿次第及道果（卷二十至二十二）。
+q: B0068 | 原名　勝徧主大金剛持道次第開顯一切密要論宗喀巴大師造法尊法師譯
+ref: 英譯：Hopkins 1977（第一品）；Yarnall 2013（第十一至十二品）。
+see: khedrup-rgyud-sde, mantrayana
+
+=== khedrup-rgyud-sde
+zh: 密續總建立廣釋
+alt: 續部總建立；密宗道次第論（法尊譯名）
+bo: rgyud sde spyi'i rnam par gzhag pa rgyas par brjod
+sa: —
+en: Extensive Explanation of the General Presentation of the Tantra Sets
+def: 克主杰（mkhas grub dge legs dpal bzang, 1385–1438）所撰四部密續總論；法尊譯為《密宗道次第論》五卷，太虛作序。
+exp: 太虛序說此論原名“續部總建立廣釋”，法尊所譯為略論。此論破“無上續分父、母、無二三續”之說，為格魯派判攝之重要依據。
+q: B0057 | 密宗道次第，原名續部總建立廣釋，西藏克主大師造，世苑漢藏院法尊教授譯。
+ref: 英譯 Lessing & Wayman 1968。
+see: tsongkhapa-ngagrim, nondual-tantra

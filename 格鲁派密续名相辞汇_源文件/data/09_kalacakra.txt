@@ -1,0 +1,144 @@
+#SECTION 9 時輪圓滿次第：六支瑜伽
+#INTRO 格魯派判時輪為母續。其圓滿次第為六支瑜伽，以空色身與不變大樂為所證，宗喀巴於《密宗道次第廣論》卷二十“時輪派之圓滿次第”中立“空色身與不變妙樂，等於龍猛派之幻身光明”之會通。
+
+=== kalacakra
+zh: 時輪
+alt: 時輪金剛；吉祥時輪
+bo: dus kyi 'khor lo
+sa: Kālacakra
+en: Kālacakra; Wheel of Time
+def: 以《時輪略續》（Laghukālacakratantra）及其釋《無垢光》（Vimalaprabhā）為根本之無上瑜伽母續；分外時輪（世界、曆算）、內時輪（身之脈風）、別時輪（修道）三分。
+exp: 克主杰列時輪為母續。宗喀巴說時輪派圓滿次第所得為樂空無別：自身現為空色欲天父母，由隨愛力自心趣入二取空之真實而得不變樂。克主杰並撰有時輪專著，為格魯派時輪傳承之要典。
+q: B0057 | 勝樂歡喜金剛時輪幻頂座大印點。佛平等和合等。是為母續。
+q: B0068 | 此派空色身與不變妙樂，等於龍猛派之幻身光明，已如前說。
+tr: 法尊譯《時輪大疏》即《無垢光》。外、內、別（phyi, nang, gzhan）三時輪之分為時輪通義。
+see: six-yogas, empty-form, immutable-bliss, kalacakra-seven
+
+=== six-yogas
+zh: 六支瑜伽
+alt: 六加行；六支；金剛瑜伽六支
+bo: sbyor ba yan lag drug
+sa: ṣaḍaṅgayoga
+en: six-branched yoga; six-limbed yoga
+def: 收攝（別攝）、靜慮、命力、執持、隨念、三摩地六支；時輪派以之為圓滿次第全體，《密集後續》則以之為“勝承事”。
+exp: 宗喀巴說六支數量決定：佛果有身語意三，故別攝、靜慮成佛身，命力、執持成佛語，隨念、三摩地成佛意。次第決定：三摩地支須依隨念，隨念須依執持，執持須依命力，命力須依別攝、靜慮修治中脈。並說拏熱巴解《集密後續》之六加行依《明炬論》，解《灌頂略說》之六加行則依時輪。
+q: B0068 | 何故圓滿次第安立六支非多非少？以所證佛果有身語意三，故能修之圓滿次第亦唯六支。
+q: B0068 | 總之，由初二支成辦金剛身之因色，修治中脈。由第三支令左右風，入於所淨中脈。由第四支持所入風，不令出入。由第五支依執持修三印隨一，溶菩提心任持不洩而修不變妙樂。
+qs: GST 18.140 | pratyāhārastathā dhyānaṁ prāṇāyāmo'tha dhāraṇā|anusmṛtiḥ samādhiśca ṣaḍaṅgo yoga ucyate
+tr: 法尊譯：別攝、靜慮、命力、執持、隨念、三摩地。“六支”與生起次第之“六支”（《金剛幕續》生起次第六支）同名異義。
+see: pratyahara, dhyana-kc, prana-yama, dharana, anusmrti, samadhi-kc, kalacakra
+
+=== pratyahara
+zh: 收攝
+alt: 別攝；個別收攝
+bo: so sor sdud pa
+sa: pratyāhāra
+en: individual withdrawal
+def: 六支之第一：十根不向各自之境轉，收攝於內，於中脈中修見煙等空色之相。
+exp: 《密集》第十八品定義：十根於各自所行一切處收攝，名為別攝。宗喀巴說：由別攝修成十一種相，次以靜慮堅固，於風略得堪能，左右脈風自動欲入中脈。
+q: B0068 | 謂由別攝修成十一種相，次以靜慮堅固，於風略得堪能，左右脈風自動欲入中脈。
+qs: GST 18.141 | daśānāmindriyāṇāntu svavṛttisthānāntu sarvataḥ|pratyāhāramiti proktamāhāra pratipattaye
+tr: 宗喀巴此處作“十一種相”，與《灌頂略說》所列十相（見“十相”條）開合不同。
+see: six-yogas, ten-signs, empty-form
+
+=== dhyana-kc
+zh: 靜慮
+alt: 禪定支
+bo: bsam gtan
+sa: dhyāna
+en: meditative stabilization (concentration)
+def: 六支之第二：於別攝所見之空色專注堅固，具尋、伺、喜、樂、一心五支。
+exp: 《密集》第十八品說靜慮有尋、伺、喜、樂、一境性五支。宗喀巴說別攝、靜慮二支令空色未生令生、已生令固，成佛之相好身之因。
+q: B0068 | 謂由別攝靜慮二支，於前所說空色，未生令生已生令固，成相好莊嚴之佛身。
+qs: GST 18.143 | vitarkaṁ ca vicāraṁ ca prītiścaiva sukhaṁ tathā|cittasyaikāgratā caiva pañcaite dhyānasaṁgrahāḥ
+see: six-yogas, pratyahara
+
+=== prana-yama
+zh: 命力
+alt: 運風；調息；命勤
+bo: srog rtsol
+sa: prāṇāyāma
+en: vitality-stopping; wind-yoga
+def: 六支之第三：遮止左右脈之風，令攝入中脈而堅固不動。
+exp: 宗喀巴說：命力瑜伽攝令左右脈風入於中脈；若未生十一種相或未固，應策勵修初二支；已堅固則應修命力。遮左右風、趣入中脈堅固不動，命力功能即圓滿。
+q: B0068 | 如是遮左右風，趣入中脈堅固不動，命力功能由此圓滿，此後應修執持
+qs: GST 18.147 | pañcavarṇaṁ mahāratnaṁ prāṇāyāmamiti smṛtam
+tr: srog rtsol 直譯“命勤”；法尊譯“命力”。英譯 vitality-stopping、breath control。
+see: six-yogas, enter-abide-dissolve
+
+=== dharana
+zh: 執持
+alt: 持風；持
+bo: 'dzin pa
+sa: dhāraṇā
+en: retention
+def: 六支之第四：持已入中脈之風安住不動、不令出入，並令融入諸輪之明點處。
+exp: 宗喀巴說：於中脈中堅穩安住非命力之果，要由執持方成辦；生隨念要由執持於中脈中持風不動，以此力燃猛利火溶諸界。
+q: B0068 | 以於中脈堅穩安住非命力之果，要由執持方成辦故。
+qs: GST 18.148 | svamantra hṛdaye dhyātvā prāṇabindugataṁ nyaset|nirudhya cendriyaṁ ratnaṁ dhārayan dhāraṇā smṛtam
+see: six-yogas, anusmrti
+
+=== anusmrti
+zh: 隨念
+alt: 憶念支
+bo: rjes dran
+sa: anusmṛti
+en: subsequent mindfulness; recollection
+def: 六支之第五：由執持之力燃拙火，溶菩提心降注而生四喜；並觀自身為空色之欲天父母（大印）。
+exp: 宗喀巴引《勝樂上疏》：由任持力於臍輪燃猛利火，瑜伽師自見大印離一切障猶如鏡影，放無邊光明雲，名隨念支。
+q: B0068 | 由任持力，於臍輪間然猛利火，修瑜伽師自見大印離一切障猶如鏡影，放無邊際佛光明雲，光輪莊嚴，說此名隨念支。
+qs: GST 18.152 | vibhāvya yadanusmṛtyā tadākārantu saṁsmaret|anusmṛtiriti jñeyā pratibhāso'tra jāyate
+see: six-yogas, samadhi-kc, four-joys
+
+=== samadhi-kc
+zh: 三摩地支
+alt: 三摩地；等持支
+bo: ting nge 'dzin
+sa: samādhi
+en: concentration (branch)
+def: 六支之第六：以空色欲天父母之身，由隨愛力得不變妙樂，心入能取所取二空之真實，身心雙運；究竟時盡粗色蘊，身成空色金剛身，心成不變樂。
+exp: 宗喀巴引《勝樂上疏》：三摩地者，謂由隨愛欲天所得不變妙樂，即此一心離能所取。並說：由第六支……展轉增上，最後永盡一切粗色蘊等，身成空色金剛之身，心成不變妙樂，證得雙運之身。
+q: B0068 | 三摩地者，謂由隨愛欲天所得不變妙樂，即此一心離能所取，諸佛說名三摩地支。
+qs: GST 18.153cd–154ab | saṁhṛtya piṇḍayogena bimbamadhye vibhāvanam||jhaṭiti jñānaniṣpattiḥ samādhiriti saṁjñitaḥ
+see: six-yogas, immutable-bliss, empty-form
+
+=== empty-form
+zh: 空色
+alt: 空色身；空影像
+bo: stong gzugs
+sa: śūnyatābimba; śūnyarūpa
+en: empty form
+def: 時輪派所修所證之色：非由極微所成、離粗色而於空中如鏡中影現之身相；道位為煙等空色，究竟轉依為相好莊嚴之空色金剛身，等同聖派之幻身。
+exp: 宗喀巴說此經以“樂為無得，空色為有得”；道位煙等空色上上轉依，成一切種相好莊嚴之身。《灌頂略說》說：閉目、開目於空中所見之影像，如夢中所見，應恆修彼影像。
+q: B0068 | 以是道位烟等空色上上轉依，成一切種，相好莊嚴之身。
+q: B0068 | 是故此經說樂為無得，空色為有得。
+qs: SU 27 | pihitāpihitanetrābhyāṃ śūnye yannānukalpitam / dṛśyate svapnavad bimbaṃ tad bimbaṃ bhāvayet sadā
+tr: 英譯 empty form、form of emptiness。
+see: immutable-bliss, illusory-body, ten-signs
+
+=== immutable-bliss
+zh: 不變大樂
+alt: 不變妙樂；不動樂
+bo: mi 'gyur ba'i bde ba chen po
+sa: akṣarasukha; acyutasukha
+en: immutable great bliss
+def: 菩提心降至金剛端而繫界不漏（不變壞）所生、以通達無性之正見為親因之妙樂；時輪以之為法身之因，等同聖派之光明。
+exp: 宗喀巴釋：名“不變”者，非謂因緣不能生，是以界向外洩名為變壞，故繫界不漏名為不變。此樂非身樂受，亦非以樂受為因之無分別定。時輪以二萬一千六百剎那之不變樂盡二萬一千六百業風。
+q: B0068 | 上曾屢說界向外洩名為變壞，故是繫界不漏名為不變。
+qs: SU 81cd | guhyādvajramaṇiṃ yāvat sahajānandamacyutam
+qs: SU 112 | dvyayutadvyaṣṭaśataiḥ śvāsairakṣarakṣaṇabhakṣitaiḥ
+tr: akṣara 兼“不變”與“字”二義，時輪中多取“不變”。
+see: mahasukha, empty-form, breath-21600
+
+=== ten-signs
+zh: 十相
+alt: 煙等十相；空色十相
+bo: rtags bcu
+sa: daśa nimittāni
+en: ten signs
+def: 時輪收攝、靜慮支所現之十種空色之相：煙、陽焰、螢火、燈、熾焰、月、日、羅睺（黑暗）、閃電（迦羅）、大明點；其後現一切種影像之光明。
+exp: 《灌頂略說》第二十六偈列：煙、陽焰、螢火、燈、焰、月、日、暗、迦羅、大明點，以及光明之一切影像（viśvabimba）。宗喀巴引時輪：“地入水中水入火……空成十相相轉成”。
+q: B0068 | 地入水中水入火，火入風中風入空，空成十相相轉成，一切無盡勝安樂
+qs: SU 26 | dhūmamarīcikhadyotadīpajvālendubhāskaraiḥ / tamaḥ kalā mahābindurviśvabimbaṃ prabhāsvaram
+tr: 十相之次第以煙居首，與密集、勝樂“陽焰為首”之次第不同。
+see: pratyahara, empty-form, death-process

@@ -1,0 +1,164 @@
+#SECTION 2 灌頂與成熟
+#INTRO 灌頂為“能成熟”（smin byed）之門，令相續成為修習二次第之法器。格魯派無上瑜伽部以四灌頂為定數，並以四灌頂配二次第道與四身之果。
+
+=== abhiseka
+zh: 灌頂
+alt: 授權（現代俗譯，不宜）；阿毘詵迦
+bo: dbang bskur
+sa: abhiṣeka; seka
+en: initiation; empowerment; consecration
+def: 由具德金剛阿闍黎依儀軌，於弟子相續中淨除垢障、安立修道與證果之功能，令成修持相應續道之法器的儀軌及其所生之證受。
+exp: 訓釋：梵語 abhiṣeka 含“灌注”“洒淨”“洗淨”之義（宗喀巴引《三補札》第七）。藏語 dbang bskur 字面為“授予權能”，指令弟子於所修之道“得自在”。克主杰強調：灌頂之體性為弟子相續中實生或勝解之樂空智；若連勝解作意亦無，則不能立為已得灌頂。
+exp: 宗喀巴指出：所謂“得灌頂即於此道得自在”，意為得灌頂後於彼道之聞思得自在，非謂得灌頂當下即可修一切上道；如得時輪灌頂後不能即修三摩地支。
+q: B0068 | 成器瓶灌頂，注洒淨自在。此是續次第，以教所訓釋。」此謂成就法器，及如灌注、洒淨、洗淨之狀，故名灌頂。
+q: B0068 | 所說得此灌頂，能於此道得自在者，意謂得彼灌頂無間，於彼諸道聞思而得自在，非說得彼灌頂無間，即可修彼諸道。
+tr: 英譯 initiation 與 empowerment 並行；“empowerment”較貼近藏文 dbang。漢語宜用“灌頂”，“傳法”“授權”皆不精確。
+ref: 克主杰《密宗道次第論》卷五論灌頂體性；Lessing & Wayman 1968, ch. 4。
+see: four-initiations, vase-init, mandala
+
+=== mandala
+zh: 曼陀羅
+alt: 壇城；壇場；輪圍；曼荼羅（唐密）
+bo: dkyil 'khor
+sa: maṇḍala
+en: maṇḍala
+def: 本尊所依之宮殿與能依之諸尊聚合之輪圍；灌頂所依有彩粉曼陀羅、布繪曼陀羅、身曼陀羅等，修法中有所依（宮殿）與能依（諸尊）曼陀羅之別。
+exp: 藏譯 dkyil 'khor 意為“中心與周圍”。《密集》第十八品別說三種密義曼陀羅：婆伽（bhaga，明妃蓮花）、菩提心、身。克主杰說：瓶灌頂於彩繪或布繪曼陀羅中得，時輪則決定須於彩繪（彩粉）曼陀羅灌頂；祕密灌頂於世俗菩提心曼陀羅中得。
+exp: 宗喀巴說身曼陀羅等雖修法有異，所成之能所依曼陀羅並無不同。
+q: B0068 | 故三種曼陀羅，僅是修為能所依曼陀羅之事有異，其所修成之曼陀羅則無不同。
+q: B0057 | 故於時輪决定須於彩繪曼陀羅灌頂。
+qs: GST 18.99 | bhagaṁ maṇḍalākhyātaṁ bodhicittaṁ ca maṇḍalam|dehaṁ maṇḍalamityuktaṁ triṣu maṇḍalakalpanā
+tr: 法尊多作“曼陀羅”，亦作“壇”。“彩粉曼陀羅”（rdul tshon gyi dkyil 'khor）法尊譯“彩繪”，“布繪曼陀羅”（ras bris kyi dkyil 'khor）。
+see: abhiseka, body-mandala, support-supported
+
+=== four-initiations
+zh: 四灌頂
+alt: 四種灌頂
+bo: dbang bzhi
+sa: caturabhiṣeka
+en: four initiations
+def: 無上瑜伽部所傳灌頂決定為四：瓶灌頂、祕密灌頂、慧智灌頂（智慧灌頂）、第四灌頂；依次為修生起次第、幻身、光明、雙運之法器，並植化身、報身、法身、自性身四身之種子。
+exp: 克主杰依修道次第說灌頂之數量次第：先以生起次第成熟相續，須瓶灌頂；次修身、語、心遠離乃至生起不淨幻身，須祕密灌頂；次以整持、隨滅二靜慮令幻身入光明，現證勝義光明，須第三灌頂；從勝義光明逆起證有學雙運乃至無學雙運，須第四灌頂。
+exp: 宗喀巴並辨：灌頂時、瓶灌頂道（生起次第）時、祕密灌頂道（風、拙火）時、第三灌頂道（光明）時、第四灌頂道（有學雙運）時，各有四喜，應善分別。
+q: B0057 | 無上續所傳灌頂。决定唯四。子初瓶。子二密。子三智慧。子四第四灌頂。
+q: B0057 | 故傳四灌頂。令植四身種子之灌法與得法。最為重要。
+q: B0068 | 故於初灌頂時四喜，瓶灌頂道生起次第時之四喜，密灌頂道風及猛利等時所生四喜，第三灌頂道光明時所生四喜，第四灌頂道有學雙運時所生四喜（或名四空），應善分別。
+tr: 克主杰論中法尊譯第三灌頂為“智慧灌頂”，宗喀巴論中多譯“慧智灌頂”（shes rab ye shes kyi dbang），宜統一作“慧智灌頂”。
+see: vase-init, secret-init, wisdom-init, fourth-init, four-bodies
+
+=== vase-init
+zh: 瓶灌頂
+alt: 寶瓶灌頂
+bo: bum pa'i dbang
+sa: kalaśābhiṣeka
+en: vase initiation
+def: 四灌頂之第一，以瓶水等儀軌授予，令弟子成為修習生起次第之法器，並安立果位成辦化身之功能。
+exp: 依密集派，瓶灌頂有十一：共同之明灌頂五（水、冠、金剛、鈴、名）與不共之金剛阿闍黎灌頂等，加上三灌頂共十四，與《金剛鬘》“一灌頂一地”十四地相配。訓釋：一切瓶灌頂皆有瓶水隨行，故名。
+q: B0057 | 若依集密派。則瓶灌頂有十一。及上三灌頂。共有十四。
+q: B0057 | 訓釋者。由於彼一切。皆有瓶水隨行。故名瓶灌頂。
+q: B0057 | 故由瓶灌頂。於修依諸部之生起次第及諸支分。悉得自在。成彼法器。於果位四生之中。安立成辦化身之功能也。
+see: four-initiations, vidya-init, acarya-init
+
+=== vidya-init
+zh: 明灌頂
+alt: 五明灌頂；弟子灌頂
+bo: rig pa'i dbang lnga
+sa: pañca vidyābhiṣekāḥ
+en: five knowledge (awareness) initiations
+def: 瓶灌頂中共同之五種灌頂：不動佛水灌頂、寶生佛冠灌頂、彌陀佛金剛（杵）灌頂、不空成就佛鈴灌頂、毘盧佛名灌頂；由佛眼等明妃執瓶而灌，能安立對治無明之明智功能，故名“明灌頂”。
+exp: 各別作用：水灌頂洗除障垢；冠灌頂安立無見頂相與部主印定之功能；金剛灌頂安立無分別智意密之功能；鈴灌頂安立宣說八萬四千法門語密之功能；名灌頂安立“某某如來”德號之功能。另有花鬘灌頂，雖不計入十一數而決定所須。
+q: B0057 | 其「不動佛水灌頂。寶生佛冠灌頂。彌陀佛金剛灌頂。不空成就佛鈴灌頂。毘盧佛名灌頂」之五。又名「明灌頂。」以佛眼等明妃執瓶為灌頂故。
+tr: rig pa 於此譯“明”（vidyā），指明咒、明妃之“明”，非大圓滿之“明覺”。
+see: vase-init, acarya-init
+
+=== acarya-init
+zh: 金剛阿闍黎灌頂
+alt: 阿闍黎灌頂；不退灌頂
+bo: rdo rje slob dpon gyi dbang / phyir mi ldog pa'i dbang
+sa: vajrācāryābhiṣeka
+en: vajra master initiation; irreversible initiation
+def: 瓶灌頂中不共之灌頂，授金剛、鈴、印三種三昧耶，令弟子堪為他人講說、灌頂等一切金剛阿闍黎事業，並植不退轉於無上菩提之殊勝種子。
+exp: 宗喀巴釋“不退灌頂”：如十地不退菩薩受十方諸佛授三界法王灌頂，此灌頂亦令弟子堪為眾生說無量法，故名；亦以能生不退之殊勝種子而名。宗喀巴明斥“以祕密、慧智等三灌頂為阿闍黎灌頂”之說。
+q: B0068 | 為令弟子從今時始決定了知，為證清淨雙運菩提應精進故，授金剛三昧耶。
+q: B0068 | 譬如十地不退菩薩，十方諸佛為授灌頂，如是此及三三昧耶，亦是諸佛與自師長，為令與諸有情說無量法成就阿闍黎故，於三界法王位而授灌頂，故名為阿闍黎灌頂
+tr: “阿闍黎”即 ācārya（slob dpon）。
+see: vase-init, samaya
+
+=== secret-init
+zh: 祕密灌頂
+alt: 密灌頂
+bo: gsang ba'i dbang
+sa: guhyābhiṣeka
+en: secret initiation
+def: 四灌頂之第二，弟子嘗受師長父母等至所化之菩提心甘露而得；令於圓滿次第之身遠離、語遠離、心遠離與世俗幻身之修習得自在，並安立果位成就圓滿報身之功能。
+exp: 克主杰說：於現今時機，師長依智印，以觀想力化諸尊為菩提心甘露置弟子舌端；利根者實生大樂，非利根者亦須觀想大樂與空見相合。其作用為加持脈與發語之風，故於語遠離、幻身之道得自在。訓釋：由嘗祕密而得灌頂，故名。
+q: B0057 | 訓釋名者。謂由嘗祕密而得灌頂。故名祕密灌頂。
+q: B0057 | 最後果位。能立唯從發語之脈息。成就圓報身之功能也。
+q: B0068 | 由大無名合，受用入內身，爾時生正智，猶如童女樂。
+tr: 法尊譯“祕密灌頂”“密灌頂”並用。英譯 secret initiation。
+see: four-initiations, illusory-body, speech-isolation
+
+=== wisdom-init
+zh: 慧智灌頂
+alt: 智慧灌頂；第三灌頂；般若智灌頂
+bo: shes rab ye shes kyi dbang
+sa: prajñājñānābhiṣeka
+en: wisdom-knowledge initiation
+def: 四灌頂之第三，依明妃（現時唯觀想智印）引生四喜，以俱生樂與空性見相合；令弟子成修光明次第之法器，並安立果位成就俱生法身之功能。
+exp: 克主杰說：現今不宜依真實明妃，唯觀想由師長賜以智印；以勝解堅固作意引四喜樂、與空性正見相合為下限，否則不能安立為得此灌頂。其作用為淨治一切境界現為樂空自性之垢障。
+q: B0057 | 現在不宜真實智慧。唯當觀想由師長賜以智印。
+q: B0057 | 成修第四光明次第之法器。安立果位能成俱生法身之功能也。
+tr: “慧”（shes rab）此處指明妃（prajñā），“智”（ye shes）指依之所生俱生智，故譯“慧智灌頂”較“智慧灌頂”精確。
+see: four-initiations, four-joys, clear-light, karmamudra
+
+=== fourth-init
+zh: 第四灌頂
+alt: 句義灌頂；語表灌頂；詞灌頂
+bo: dbang bzhi pa / tshig dbang
+sa: caturthābhiṣeka
+en: fourth initiation; word initiation
+def: 四灌頂之第四，師長以第三灌頂所生之樂空勝解為喻，以語詞開示其所表之雙運，令弟子成修有學、無學雙運之法器。
+exp: 宗喀巴引語傳之規：由第三灌頂所說俱生智如勝義菩提心之苗芽，相續修習至障盡，現起具足七支之大印天身，即是第四灌頂之所詮。克主杰說第四灌頂之上更無灌頂，以所得果無更究竟故。
+q: B0068 | 即彼慧智菩提心芽，由善修習，令彼增長。成就無障真實一切諸法不思議性，具足七支大印大金剛持自性，說為第四灌頂。
+q: B0057 | 以所得果無更究竟。故第四灌頂上。飭無灌頂。
+tr: tshig dbang 法尊於克主杰論中譯“語表灌頂”；“句義灌頂”為通行譯名。
+see: four-initiations, union, seven-limbs
+
+=== kalacakra-seven
+zh: 如童入位七灌頂
+alt: 時輪七灌頂
+bo: byis pa 'jug pa'i dbang bdun
+sa: saptābhiṣeka (bālānām avatāraṇam)
+en: seven initiations in the pattern of childhood
+def: 時輪續特有之七種灌頂（水、冠、繒帶、金剛鈴杵、禁行、名、隨許），依序配合孩童成長之次第，令弟子成修時輪生起次第之法器。
+exp: 宗喀巴指出：時輪“水至隨許七灌頂”與他續不同；由此七灌頂成修生起次第之法器。時輪另有上四灌頂、上上四灌頂及金剛阿闍黎大主灌頂。克主杰並指出犯根本罪後還淨須重入灌頂，時輪不可但傳最勝灌頂而不傳七灌頂。
+q: B0068 | 傳授水至隨許七灌頂法，與餘經不同者，謂由此七灌頂，成修生起次第法器
+q: B0057 | 故於時輪决定須於彩繪曼陀羅灌頂。故云「立壇而惠施。」
+qs: SU 8 | ādau saptābhiṣeko yo bālānāmavatāraṇam
+qs: SU 10 | udakaṃ mukuṭaḥ paṭṭo vajraghaṇṭā mahāvratam / nāmānujñāsamāyuktaḥ sekaḥ saptavidho nṛpa
+tr: byis pa 'jug pa 直譯“如兒童入”，英譯 seven initiations in the pattern of childhood。
+ref: Dalai Lama, Tsong-ka-pa & Hopkins 1985（The Kalachakra Tantra: Rite of Initiation）。
+see: abhiseka, kalacakra
+
+=== anujna
+zh: 隨許
+alt: 許可；開許；隨許灌頂
+bo: rjes gnang
+sa: anujñā
+en: permission; subsequent permission; authorization
+def: 由師長授予修持某一本尊、持誦其咒之許可儀軌；非完整灌頂，不能代替灌頂。
+exp: 宗喀巴說：若未於四部隨一曼陀羅受灌頂，不可唯依隨許法而修諸尊、授諸咒。時輪七灌頂之第七亦名隨許，與一般隨許法不同。
+q: B0068 | 若未於四部隨一曼陀羅而受灌頂，不可唯依隨許法而修諸尊及授諸咒。
+tr: 藏地俗稱 rjes gnang 為“小灌頂”，學術上不宜等同 dbang。
+see: abhiseka
+
+=== flower-toss
+zh: 投花
+alt: 擲花；花鬘灌頂
+bo: me tog dor ba / me tog phreng ba'i dbang
+sa: —
+en: casting the flower
+def: 入壇時弟子蒙眼向曼陀羅投花，視花落於何尊以決定其本尊與所屬部族，繼以花鬘繫弟子頂之灌頂。
+exp: 宗喀巴說：由投花所中如來自性，顯現弟子本性清淨之種性；師以花鬘繫弟子首，弟子與本尊相見，本尊即攝受弟子。克主杰說花鬘灌頂雖未計入十一瓶灌頂，然決定所須。
+q: B0068 | 由彼投花所中如來自性，顯現決定弟子性淨種性。師取花鬘繫弟子首，弟子與彼本尊相見，本尊即當攝受弟子，故傳花鬘灌頂。
+see: abhiseka, vase-init

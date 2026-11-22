@@ -1,0 +1,108 @@
+#SECTION 3 三昧耶與律儀
+#INTRO 灌頂之後須守護三昧耶與律儀，此為咒道之基礎。宗喀巴另有專論《密咒戒釋·成就穗》（gsang sngags kyi tshul khrims kyi rnam bshad dngos grub kyi snye ma），《密宗道次第廣論》中凡涉戒相多指歸該論（法尊譯稱《根本罪釋》）。
+
+=== samaya
+zh: 三昧耶
+alt: 誓言；誓句；三摩耶
+bo: dam tshig
+sa: samaya
+en: pledge; commitment; samaya
+def: 受灌頂者所應決定奉行、不可違越之誓約；廣義含十四根本墮、粗罪之防護及五部三昧耶等一切密咒學處。
+exp: 宗喀巴於阿闍黎灌頂中釋金剛三昧耶：“是金剛持決定應行，執持金剛不可違越。”同理，鈴三昧耶、印三昧耶亦各有其“不可違越”之義。他並強調一切根本三昧耶中，師長三昧耶最為重要。
+exp: 宗喀巴並指出：若不相續憶持空性正見，智吉祥《除二邊論》說犯意三昧耶；《十四根本罪》第十一亦屬此類。
+q: B0068 | 三昧耶者，是金剛持決定應行，執持金剛不可違越。
+q: B0068 | 總於一切學處，諸於根本三昧耶中，唯師長三昧耶最為重要
+qs: GST 18.70cd–71ab | lokācāravinirmuktaṁ yaduktaṁ samayasambaram||pālanaṁ sarvavajraistu mantracaryeti kathyate
+tr: 法尊多音譯“三昧耶”；藏文 dam tshig 字面為“神聖之語（誓言）”。英譯 pledge、commitment。與“律儀”（sdom pa）連用時，律儀指所防護之戒體，三昧耶指應守之誓句。
+see: mantra-vow, root-downfalls
+
+=== mantra-vow
+zh: 密咒律儀
+alt: 持明律儀；咒律儀；金剛乘戒
+bo: sngags kyi sdom pa / rig 'dzin gyi sdom pa
+sa: vidyādharasaṃvara; mantrasaṃvara
+en: tantric vow; vow of a knowledge-bearer (vidyādhara)
+def: 於灌頂時依受五部律儀等儀軌而生起之密咒不共戒體；須觀待灌頂而生，但不必觀待具受一切灌頂。
+exp: 克主杰比喻：如比丘戒觀待白四羯磨，主要律儀完備時即生；密咒律儀亦須灌頂儀軌主要部分圓滿時方生。受戒時須隨師後誦，與師齊誦或先誦皆不生戒。密咒律儀為三律儀之最上者。
+q: B0057 | 故生密咒律儀。雖定觀待灌頂。然非觀待具受一切灌頂。
+q: B0057 | 又受戒時。若與師齊誦。或較師先誦。無著菩薩等皆說不能生戒。故當隨師後誦。
+see: three-vows, five-family-vows, samaya
+
+=== three-vows
+zh: 三律儀
+alt: 三種律儀；三戒
+bo: sdom pa gsum
+sa: trisaṃvara
+en: three vows
+def: 別解脫律儀、菩薩律儀、密咒（持明）律儀。格魯派主張密咒行者應具三律儀而修，密咒律儀為最勝。
+exp: 宗喀巴引《金剛頂經》：出家者正住三律儀，在家者若堪受別解脫，亦當具三律儀而修。
+q: B0068 | 若是出家者，正住三律儀，別解脫菩薩，持明律第一。
+q: B0068 | 若在家身堪受別解脫者，亦當具三律儀而修。
+tr: “持明律”即 rig 'dzin gyi sdom pa（vidyādharasaṃvara）。
+see: mantra-vow
+
+=== five-family-vows
+zh: 五部律儀
+alt: 五部三昧耶；五佛部律儀
+bo: rigs lnga'i sdom pa
+sa: pañcakulasaṃvara
+en: vows of the five (Buddha) families
+def: 配合五如來部所受之密咒律儀與三昧耶；為阿闍黎不共律儀，瑜伽部與無上瑜伽部共有，事行二部所無。
+exp: 宗喀巴據《鬘論》等說：皈依及發菩提心為四部共律儀；五部律儀為阿闍黎不共律儀。唯受菩薩律儀而未受五部律儀者，只可傳弟子灌頂；俱受二律儀者，方可傳金剛阿闍黎灌頂。克主杰說：令密咒不共戒新生或還淨者，至少須受金剛阿闍黎以下灌頂，並三返受取五部律儀。
+q: B0068 | 此說皈依為先發菩提心，是共律儀。五部律儀是阿闍黎不共律儀。
+q: B0068 | 是故阿闍黎戒，為瑜伽與無上瑜伽兩部共有，不共事行
+q: B0057 | 其受五部律儀。先無密咒不共戒。能令新生。坯能還淨者。最下須具受金剛阿闍黎以下灌頂。三返受取五部律儀乃能如是。
+tr: 引文“坯能還淨”之“坯”字疑訛（CBETA 照錄底本）。
+see: mantra-vow, acarya-init
+
+=== root-downfalls
+zh: 十四根本墮
+alt: 十四根本罪；十四他勝罪
+bo: rtsa ba'i ltung ba bcu bzhi
+sa: caturdaśa mūlāpattayaḥ
+en: fourteen root downfalls (root infractions)
+def: 密咒律儀之十四種根本罪，犯之即失密咒戒體；格魯派依印度《金剛乘根本墮略集》（Vajrayānamūlāpattisaṃgraha）之列舉。
+exp: 通行次第：一、輕毀金剛阿闍黎；二、違越善逝教；三、瞋恚金剛兄弟而說其過；四、捨棄對有情之慈；五、捨棄願行菩提心；六、毀謗自他宗派之法；七、於未成熟者宣說祕密；八、輕毀自蘊（五佛體性）；九、於本性清淨之法（空性）起疑；十、於應調伏之惡人恆常起慈（能調而不調）；十一、於離名言等之法（空性）起分別；十二、令具信有情退失信心；十三、不依所得之三昧耶物；十四、輕毀女人（慧之自性）。
+exp: 宗喀巴引《師長五十論》：灌頂成器後即應受持讀誦十四根本罪。克主杰說犯根本罪須重入曼陀羅等以還淨；守護根本罪者，縱於現生未能修道，或經七生或十六生決定成佛。
+q: B0068 | 《師長五十論》云：「次授真言等，成為正法器，十四根本罪，應讀誦受持。」
+q: B0068 | 《十四根本罪》中亦云：「於離名等法，分別名十一。」
+q: B0057 | （諸山是七之代名。謂對未成熟之人。宣說密法。是第七罪。）
+tr: 法尊譯“根本罪”“他勝罪”（pārājika 對譯）。末條引文為法尊譯本括號內注文，乃以“諸山”（ri, 隱語作“七”）指第七根本墮，非克主杰正文。英譯 root downfall、root infraction。
+ref: 宗喀巴《密咒戒釋·成就穗》，英譯 Sparham 2005（Tantric Ethics）。
+see: samaya, gross-infractions, guru-fifty
+
+=== gross-infractions
+zh: 粗罪
+alt: 八粗罪；支分罪
+bo: sbom po / sbom po'i ltung ba
+sa: sthūlāpatti
+en: gross infractions; secondary downfalls
+def: 次於根本墮之密咒支分罪；犯之不失戒體，但損減其力，須依還淨法懺除。
+exp: 藏地通說瓶灌頂之三昧耶為守護十四根本及八粗罪。粗罪數目印度諸師開合不同（不空足說“六粗罪”，藏地通行“八粗罪”）。宗喀巴明舉其一：依止不具足三昧耶之明妃，犯粗罪。詳細列舉見宗喀巴《密咒戒釋·成就穗》。
+q: B0068 | 瓶灌頂之三昧耶者，藏地智者，謂護十四根本及八粗罪。
+q: B0068 | 以說「喜依不具足三昧耶明妃」犯粗罪故
+q: B0068 | 次應傳與事行部等，共同律儀及無上瑜伽部十四他勝六粗罪等。
+see: root-downfalls, restoration
+
+=== restoration
+zh: 還淨
+alt: 恢復律儀；懺淨
+bo: phyir bcos / slar gso ba
+sa: —
+en: restoration (of vows)
+def: 犯三昧耶後依懺悔、重入曼陀羅自受灌頂等方法恢復戒體之法。
+exp: 克主杰：若犯粗等小罪，當無間懺悔；若犯根本重罪，當自入壇等令還淨。宗喀巴引《時輪大疏》說住七灌頂或瓶灌頂、密灌頂時犯根本罪者，須重入曼陀羅還淨，並強調須至心悔前防後。
+q: B0057 | 若犯粗等小罪。當無間懺悔。若犯根本重罪。當自入壇等。仍令還淨。
+see: root-downfalls, gross-infractions
+
+=== guru-fifty
+zh: 事師五十頌
+alt: 師長五十論；上師五十法
+bo: bla ma lnga bcu pa
+sa: Gurupañcāśikā
+en: Fifty Verses on the Guru
+def: 印度馬鳴（Aśvaghoṣa，藏傳歸屬）所造，規定弟子依止金剛阿闍黎之學處的偈頌；格魯派列為密咒學處之首要典籍。
+exp: 宗喀巴有釋論《弟子所願悉圓滿》（slob ma'i re ba kun skong）。其中規定灌頂成器後即應授十四根本罪。宗喀巴在《密宗道次第廣論》亦說：一切根本三昧耶中唯師長三昧耶最為重要。
+q: B0068 | 《師長五十論》云：「次授真言等，成為正法器，十四根本罪，應讀誦受持。」
+tr: 法尊譯《師長五十論》，通行漢譯《事師五十頌》。
+see: root-downfalls, samaya

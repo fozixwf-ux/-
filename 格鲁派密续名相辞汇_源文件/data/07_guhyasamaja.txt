@@ -1,0 +1,268 @@
+#SECTION 7 父續圓滿次第：密集聖派之五次第
+#INTRO 格魯派圓滿次第以密集聖派（龍猛師資）為綱，依龍樹《五次第》（Pañcakrama）、聖天《攝行炬論》（Caryāmelāpakapradīpa）、月稱《明炬論》（Pradīpoddyotana）而立，宗喀巴專著《五次第明燈》（rim lnga rab tu gsal ba'i sgron me）詳釋之，《密宗道次第廣論》卷二十為其綱要。
+
+=== arya-tradition
+zh: 聖派
+alt: 龍猛派；龍猛師資派
+bo: 'phags lugs
+sa: —
+en: Ārya tradition (of Guhyasamāja)
+def: 依龍猛（Nāgārjuna）、聖天（Āryadeva）、月稱（Candrakīrti）、龍智（Nāgabodhi）等所傳之《密集》解釋系統；格魯派以之為一切無上瑜伽圓滿次第之總軌。
+exp: 宗喀巴說聖派教典辭義古奧，極難明了；修心要者先當勤修第一次第、生身遠離，次當善巧命力金剛念誦，要以修風為主，因餘派風、點等瑜伽之所為，此派亦能成辦。
+q: B0068 | 惟是聖派（龍猛派）教典，辭義古奧，極難明了。
+q: B0068 | 次當善巧命力金剛念誦，要以修風為主。
+see: jnanapada-tradition, five-stages
+
+=== jnanapada-tradition
+zh: 智足派
+alt: 佛智足派
+bo: ye shes zhabs lugs
+sa: —
+en: Jñānapāda tradition (of Guhyasamāja)
+def: 依佛智足（Buddhaśrījñānapāda）受文殊口授《曼殊室利口授》所成之《密集》另一解釋系統；以深顯無二之智為圓滿次第主旨，立咒身、智身之分。
+exp: 宗喀巴說此派在天竺曾出無量有智行者，“成大車軌道光如日月”；其圓滿次第以大印如幻天身與入真實之心和合不離、深顯不二之智為主旨，與聖派之二諦雙運實質相同。
+q: B0068 | 此說大印如幻天身與入真實之心，和合不離深顯不二之智，為圓滿次第之主旨，生起次第之天身為咒身，圓滿次第之天身為智身。
+see: arya-tradition, mantra-body
+
+=== five-stages
+zh: 五次第
+alt: 五相；聖派五次第
+bo: rim pa lnga
+sa: pañcakrama
+en: five stages
+def: 龍樹《五次第》所立圓滿次第之五階：金剛念誦（語遠離）、心清淨（心遠離）、自加持（幻身）、樂現覺（光明、現證菩提）、雙運。格魯派依《攝行論》前加身遠離，亦說為六次第。
+exp: 宗喀巴引《五次第》第一次第“由得風真實，漸入咒真實……住雙運等持，更無可學者”，並配：金剛誦即語遠離，緣自心即心遠離，加持幻身即世俗諦，實際光明即證菩提，無二智即雙運。他強調次第決定：後若無前，前者不生。
+q: B0068 | 金剛誦或名語遠離，緣自心或名心遠離。加持幻身或名世俗諦，實際光明或名證菩提，無二智即雙運，故成五相。
+qs: PK 1.4–1.6 | vāyutattvānupūrveṇa mantratattvaṃ samāviśet | mantranidhyaptimāgamya vajrajāpaḥ suśikṣyate || vajrajāpasthito mantrī cittanidhyaptimāpnuyāt | mayopamasamādhistho bhūtakoṭyāṃ samāviśet || bhūtakoṭeḥ samuttiṣṭhannadvayajñānamāpnuyāt | yuganadvasamādhistho na kiñcicchakṣate punaḥ
+tr: 梵本五品名：vajrajāpakrama、sarvaśuddhiviśuddhikrama（又名 anuttarasandhi）、svādhiṣṭhānakrama、abhisambodhikrama、yuganaddhakrama。法尊譯《五次第論》。
+ref: 宗喀巴《五次第明燈》，英譯 Thurman 2010；Kilty 2013。
+see: body-isolation, speech-isolation, mind-isolation, illusory-body, clear-light, union
+
+=== body-isolation
+zh: 身遠離
+alt: 身寂；身金剛三摩地
+bo: lus dben
+sa: kāyaviveka
+en: physical isolation; body isolation
+def: 生起次第究竟後，以通達空性之智現為天身，觀身之蘊、界、處等一切分為百部等諸尊，以遠離凡庸身之顯現與執著的圓滿次第初階。
+exp: 宗喀巴說：從種子等生為天身是第一次第；以通達諸法性空真實一味之智現為天身大密金剛持之一部，從此出生三部、五部乃至百部，以此三摩地淨庸常慢而修天身即身遠離，故名身金剛三摩地。二者所斷庸慢雖同，能斷則大異。
+q: B0068 | 以此身遠離三摩地淨庸常慢而修天身即身遠離。依此密意故說身遠離，為身金剛三摩地。此與生起次第，所斷庸慢雖同，而能斷則大異。
+tr: dben pa 譯“遠離”（viveka），非“寂靜”。英譯 physical isolation、isolation of body。
+see: five-stages, speech-isolation, ordinary-appearance
+
+=== speech-isolation
+zh: 語遠離
+alt: 語寂；金剛念誦次第；語金剛三摩地
+bo: ngag dben
+sa: vāgviveka
+en: verbal isolation; speech isolation
+def: 以金剛念誦等於發語之根本風得自在，解開心間脈結、令風入住融於中脈之圓滿次第第二階。
+exp: 宗喀巴說：咒有了義、不了義；了義咒即金剛念誦，故於語之根本風得自在，唯稱讚金剛念誦為語金剛三摩地，一切念誦此最究竟。由此風力，能任持引導界等。
+q: B0068 | 但辨咒有了義不了義說。了義咒即是金剛念誦，故於語根本風能得自在，亦唯稱讚金剛念誦。為語金剛三摩地，一切念誦此最究竟。
+see: vajra-recitation, five-stages, mind-isolation
+
+=== vajra-recitation
+zh: 金剛念誦
+alt: 金剛誦；金剛唸誦
+bo: rdo rje'i bzlas pa
+sa: vajrajāpa
+en: vajra recitation
+def: 隨順出、入、住三時之風，與嗡、阿、吽三字之無聲念誦結合，令風調柔並入中脈之瑜伽；《五次第》第一次第。
+exp: 宗喀巴說能自在風之瑜伽續部雖多，聖派此處唯取金剛念誦。《五次第》第一次第名“金剛念誦次第”，以風真實、咒真實為次第。宗喀巴於風之段並說五風配五部之輪轉，“依金剛念誦語金剛而說”。
+q: B0068 | 能自在風之瑜伽，續部雖亦說有多種，此處唯取金剛念誦。
+qs: PK 1.1 | vajrajāpakramaṃ vakṣye yogatantrānusārataḥ
+qs: GST 15.5 | kulānāṁ sarvamantrāṇāṁ kāyavākcittalakṣaṇam|mantrajāpaṁ praghoṣātha vajrajāpamudāharan
+tr: 法尊“金剛誦”“金剛念誦”並用。英譯 vajra repetition、vajra recitation。
+see: speech-isolation, prana
+
+=== mind-isolation
+zh: 心遠離
+alt: 心寂；心清淨；意金剛三摩地；緣自心
+bo: sems dben
+sa: cittaviveka
+en: mental isolation; mind isolation
+def: 依內緣（風、拙火）與外緣（明妃）令風融入心間，次第生起明、增、近得三空智，乃至喻光明之圓滿次第第三階；為生起幻身之前提。
+exp: 宗喀巴說修成幻身須先生起心遠離三空智；結合外印燃猛利火溶菩提心，任持不墜，滅八十自性分別，生三空智，證得意金剛三摩地，此後乃生幻身。外緣須依明妃，然須先依內緣調柔脈與空點。
+q: B0068 | 修成如是幻身，須先生起心遠離三空智。
+q: B0068 | 生三空智證得意金剛三摩地，此後乃得生起幻身。
+tr: 《五次第》第二品名 sarvaśuddhiviśuddhi（一切清淨之清淨），法尊引作“緣自心”。英譯 mental isolation。
+see: five-stages, four-empties, example-clear-light, illusory-body
+
+=== illusory-body
+zh: 幻身
+alt: 自加持；世俗諦；如幻身
+bo: sgyu lus
+sa: māyādeha; māyākāya
+en: illusory body
+def: 三空智之後，唯由逆起之三心（明、增、近得）及其所乘之風所成，行者自身現為金剛薩埵之微細身；為佛色身之不共同類因。
+exp: 宗喀巴說：其幻身者，謂三空後，唯由逆起三心與風，自身現為金剛薩埵之身。並嚴辨：生起次第中觀天身如虹、了知如幻，乃至於芥子量中現起曼陀羅，皆非幻身；幻身要由究竟第一次第及身遠離、於語遠離得風自在、修心遠離引生三空智後方生。幻身是入光明之不共方便，非“幻執垢”。
+q: B0068 | 其幻身者，謂三空後，唯由逆起三心與風，自身現為金剛薩埵之身。
+q: B0068 | 由見幻身是入光明不共方便，故令生起。幻身非幻執垢
+qs: PK 3.19 | tadeva vāyusaṃyuktaṃ vijñānatritayaṃ punaḥ | jāyate yogināṃ mūrttirmāyādehastaducyate
+tr: 英譯 illusory body 為定譯。“幻身”易被誤讀為“觀身如幻”之顯教修法，宗喀巴特予破斥，翻譯時宜加注。
+see: self-blessing, impure-illusory-body, pure-illusory-body, mind-wind, five-stages
+
+=== self-blessing
+zh: 自加持
+alt: 自加持次第；自加持定
+bo: bdag byin gyis brlab pa
+sa: svādhiṣṭhāna
+en: self-blessing; self-consecration
+def: 《五次第》第三次第之名，即幻身；詮世俗諦之見，與光明（勝義諦）合為因果差別之二諦。
+exp: 《五次第》說：自加持次第名為見世俗諦，唯依師恩可得；得之則即生成佛無疑。宗喀巴引：“自加持正定，及以光明處，以因果差別，宣說為二諦，由加持次第，乃得真光明，是故金剛師，先說自加持。”
+q: B0068 | 自加持正定，及以光明處，以因果差別，宣說為二諦，由加持次第，乃得真光明，是故金剛師，先說自加持。
+qs: PK 3.10 | svādhiṣṭhānakramo nāma saṃvṛteḥ satyadarśanam | gurupādaprasādena labhyate tacca nānyathā
+qs: PK 3.13 | svādhiṣṭhānasamādhiśca prabhāsvarapadaṃ tathā | satyadvayamiti khyātaṃ phalahetuviśeṣataḥ
+see: illusory-body, clear-light, union
+
+=== illusory-similes
+zh: 幻身之喻
+alt: 鏡像、虹、水月等喻
+bo: sgyu lus kyi dpe
+sa: —
+en: similes for the illusory body
+def: 《五次第》以鏡中影像、虹霓、水中月等喻幻身：如鏡像而具足肢分、如虹之諸色、如水月之周遍。宗喀巴明言此喻指風心所成之身，非僅指覺身無骨肉而明澈無礙。
+exp: 宗喀巴辨：生起次第時亦能修天身明了顯現、清淨無礙如虹，故若僅以此義釋諸喻，則與生起次第無別；諸喻專指唯從風心自身現為金剛薩埵之身。
+q: B0068 | 由鏡中影像，應了知幻身，諸色如虹霓，周徧等水月。
+q: B0068 | 非說僅覺自身非骨肉等粗體，明了顯現清淨無礙如水月等。
+qs: PK 3.23 | darpaṇapratibimbena māyādehaṃ ca lakṣayet | varṇān indrāyudheneva vyāpitvamudakendunā
+see: illusory-body
+
+=== impure-illusory-body
+zh: 不淨幻身
+alt: 不清淨幻身
+bo: ma dag pa'i sgyu lus
+sa: —
+en: impure illusory body
+def: 心遠離喻光明之後所起、尚未斷煩惱障之幻身；須以整持、隨滅二靜慮收入光明而淨化之。
+exp: 克主杰說：先以身、語遠離引左右脈風入住融於中脈，次引明增得三及喻光明心遠離，其後乃生唯從心息所成之不清淨幻身；次以整持、隨滅二靜慮令此幻身入光明而清淨之，方能生起現證空性之勝義光明。
+q: B0057 | 彼後乃生唯從心息所成不清淨之幻身。
+q: B0057 | 次以持總隨懷二種靜慮。令彼不清淨之幻身。入光明定而清淨之。方能生起現證空性勝義光明。
+tr: 克主杰論法尊譯“持總”“隨懷”，宗喀巴論譯“整持”“隨壞”，皆 ril 'dzin / rjes gzhig 之譯。
+see: illusory-body, pure-illusory-body, piṇḍagraha
+
+=== pure-illusory-body
+zh: 清淨幻身
+alt: 淨幻身
+bo: dag pa'i sgyu lus
+sa: —
+en: pure illusory body
+def: 現證義光明後從光明逆起時所成之幻身，與勝義光明同體俱轉，即有學雙運之身；已斷煩惱障。
+exp: 克主杰說：從勝義光明逆流起時，身成清淨幻身，意為勝義光同體俱轉，證得有學雙運。克主杰並述佛陀成道：中夜三空漸滅、證一切空勝義光明，從此而起清淨幻身。
+q: B0057 | 從勝義光明逆流起時。身成清淨幻身。意為勝義光同體俱轉。證得有學雙運。
+q: B0057 | 至中夜分。三空漸滅。證一切空勝義光明。從此而起清淨幻身。
+see: impure-illusory-body, union-learner, meaning-clear-light
+
+=== example-clear-light
+zh: 喻光明
+alt: 譬喻光明；比喻光明
+bo: dpe'i 'od gsal
+sa: —
+en: example clear light
+def: 心遠離究竟時所證、以義總（概念）方式通達空性之光明；為義光明之“喻”，由此逆起不淨幻身。
+exp: 克主杰以“譬喻光明心遠離”總稱心遠離之究竟位。第四灌頂亦以第三灌頂所生之樂空勝解“為喻”，開示所表之雙運。
+q: B0057 | 次引明長得三。及譬喻光明心遠離。
+q: B0057 | 謂如第三灌頂時。明了觀想。樂空譬喻光明。同時俱轉。
+tr: 英譯 example clear light、metaphoric clear light。
+see: meaning-clear-light, mind-isolation, clear-light
+
+=== meaning-clear-light
+zh: 義光明
+alt: 勝義光明；實際光明；現證菩提
+bo: don gyi 'od gsal
+sa: —
+en: meaning clear light; actual clear light
+def: 幻身收入光明後，以極細光明心現量、新證空性之光明；即《五次第》第四“現證菩提（樂現覺）次第”，其時入見道而斷煩惱障。
+exp: 宗喀巴說：須入四空以後微細二相畢竟淨之光明，須淨三心境相乃能入此，故是現量親證；不變妙樂可於見道前得，光明則從現證聖諦方得安立。
+q: B0068 | 光明則從現證聖諦方得安立，以說清淨三心，微細二相亦清淨故。
+q: B0068 | 實際光明或名證菩提
+qs: PK 4.19cd | anantabhūtaṃ tvathavāntabhūtaṃ tat sarvaśūnyaṃ pravadanti santaḥ
+tr: 英譯 meaning clear light、actual clear light。
+see: example-clear-light, abhisambodhi, pure-illusory-body
+
+=== abhisambodhi
+zh: 現證菩提
+alt: 樂現覺；現證菩提次第；實際
+bo: mngon par byang chub pa
+sa: abhisambodhi
+en: manifest enlightenment
+def: 《五次第》第四次第之名，即義光明；行者入於實際（bhūtakoṭi，一切空），現證勝義。
+exp: 《五次第》第四品名“現證菩提次第”（abhisambodhikrama），說以整持、隨滅二法入實際。克主杰述佛陀成道亦以“開示現證菩提之次第”為第三灌頂後之修。
+q: B0068 | 實際光明或名證菩提
+qs: PK 4.25 | prāptopadeśakaḥ śiṣyo dvidhā yogamathābhyaset | piṇḍagrāhakrameṇaiva tathā caivānubhedataḥ
+tr: “樂現覺”為漢地部分譯本用名，宜標注為第四次第之異名。
+see: meaning-clear-light, piṇḍagraha, anubheda
+
+=== piṇḍagraha
+zh: 整持
+alt: 全持；持總
+bo: ril 'dzin
+sa: piṇḍagrāha
+en: holding the body entirely; global absorption
+def: 收入光明之二種靜慮之一：從頭頂、足下二端漸收至心間，入於實際（光明）。
+exp: 宗喀巴引《五次第》：“從頭乃至足，直至於心間，行者入實際，說名為整持。”
+q: B0068 | 從頭乃至足，直至於心間，行者入實際，說名為整持
+qs: PK 4.26 | śirasaḥ pādato cāpi yāvaddhṛdayamāgataḥ | bhūtakoṭiṃ viśed yogī piṇḍagrāha iti smṛtaḥ
+see: anubheda, impure-illusory-body
+
+=== anubheda
+zh: 隨滅
+alt: 隨壞；隨懷
+bo: rjes gzhig
+sa: anubheda
+en: subsequent dissolution
+def: 收入光明之另一靜慮：先將動、不動（情、器）收入光明，後將自身亦收入光明。
+exp: 宗喀巴引《五次第》並喻：如鏡上之氣漸漸消散，瑜伽師如是數數入實際；並說此隨壞次第與《口授論》所說相同。
+q: B0068 | 先攝動非動，令入於光明，後自身亦爾，是隨壞次第。
+qs: PK 4.27 | sthāvaraṃ jaṅgamaṃ caiva pūrvaṃ kṛtvā prabhāsvaram | paścāt kuryāt tathātmānam anubhedakramo hyayam
+see: piṇḍagraha
+
+=== union
+zh: 雙運
+alt: 雙入；和合；無二智
+bo: zung 'jug
+sa: yuganaddha
+en: union
+def: 世俗諦之幻身與勝義諦之光明二者，非一有一無各別存在，而同時和合為一智身之位；分有學雙運與無學雙運。
+exp: 宗喀巴引《五次第》：“世俗與勝義，了知各別分，何者正和合，說彼為雙運。”“此如彼次第，自加持光明，唯此二和合，是雙運次第。”並說：身現自加持之清淨虹身，心成勝義真實一味之智，二者同時和合。雙運之前須有光明，光明之前須有幻身。
+q: B0068 | 世俗與勝義，了知各別分，何者正和合，說彼為雙運。
+q: B0068 | 此謂身現自加持之清淨虹身，心成勝義真實一味之智，此二非是一有一無各別存在，謂得同時和合智身。
+qs: PK 5.2 | saṃsāro nirvṛtiśceti kalpanādvayavarjanāt | ekībhāvo bhaved yatra yuganaddhaṃ taducyate
+tr: 英譯 union、integration、coalescence。
+see: union-learner, union-no-more-learning, five-stages
+
+=== union-learner
+zh: 有學雙運
+alt: 學位雙運
+bo: slob pa'i zung 'jug
+sa: —
+en: union of a learner
+def: 從義光明逆起成清淨幻身、與勝義光明同體俱轉而尚未盡斷所知障之雙運位；為佛位身心最勝親因。
+exp: 克主杰：其身唯從最極微細之心息成就真實虹體金剛身，與現證空性之勝義光明心同時俱轉，名有學雙運。宗喀巴說：若於近果位之有學位不修此或類此之最勝圓滿次第，必不能證究竟果。
+q: B0057 | 證得如是身心同體之雙運者。名「有學雙運。」
+q: B0068 | 有學雙運心身，是彼佛位心身最勝親因，即是殊妙圓滿次第。
+see: union, union-no-more-learning, pure-illusory-body
+
+=== union-no-more-learning
+zh: 無學雙運
+alt: 雙運金剛持；七支和合位
+bo: mi slob pa'i zung 'jug
+sa: —
+en: union of no more learning
+def: 有學雙運相續修習，盡斷所知障所得之佛果：心恆住真實，身成相好莊嚴之究竟身，具足七支和合；即果續、持金剛位。
+exp: 宗喀巴說無學位時心既恆住真實，身亦成就相好莊嚴之究竟身。克主杰以持金剛位、無學雙運、七支結合位三者同義，為果續。
+q: B0068 | 此於無學位時，心既恒住真實，身亦成就相好莊嚴之究竟身。
+q: B0057 | 由其如是同類相續之修習果位能得順彼行相。無學雙運。具足七支給合之寶位。
+tr: 引文“七支給合”之“給”，依文意當作“結”（CBETA 照錄底本）。
+see: union-learner, seven-limbs, vajradhara
+
+=== mantra-body
+zh: 咒身・智身
+alt: 咒身與智身
+bo: sngags kyi sku / ye shes kyi sku
+sa: mantrakāya / jñānakāya
+en: mantra body / wisdom body
+def: 智足派所立：生起次第由心所修之天身名咒身；圓滿次第由風心實成之天身名智身。智身又分略得智自在之幻身、住德相之有學雙運身、如實之果身。
+exp: 宗喀巴引《解脫點論》及其釋，並說咒身、智身之建立亦是聖派所共許。
+q: B0068 | 如是建立咒身智身，亦是聖派之所共許。
+see: jnanapada-tradition, illusory-body

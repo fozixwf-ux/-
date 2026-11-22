@@ -1,0 +1,296 @@
+#SECTION 4 二次第總說與生起次第
+#INTRO 無上瑜伽部之道總攝為生起、圓滿二次第。本部收二次第總名及生起次第諸名相，主要依據宗喀巴《密宗道次第廣論》卷十六至十九（明生起次第品）。
+
+=== two-stages
+zh: 二次第
+alt: 生圓二次第
+bo: rim pa gnyis
+sa: kramadvaya
+en: two stages
+def: 生起次第與圓滿次第。無上瑜伽部一切道，決定攝為此二；須先以生起次第成熟相續，次修圓滿次第。
+exp: 《密集》第十八品“依二次第說法”為格魯派立二次第之根本教證。宗喀巴說二次第之數量決定，在於所得果有共、勝二種悉地；次第決定，在於未以生起次第成熟相續，則不生能入勝道之圓滿次第。他引《五次第》“善住生次第，欲得滿次第，佛說此方便，次第如梯隥”。
+exp: 宗喀巴並破二種偏執：唯修生起次第即可成佛，或不須生起次第唯修圓滿次第即可成佛。
+q: B0068 | 諸佛說正法，皆依二次第謂生起次第，及圓滿次第。
+q: B0068 | 要由生起次第成熟相續，乃生圓滿次第，若未以此成熟，圓滿次第雖有少分可生，然必不生能入勝道圓滿次第。
+qs: GST 18.83 | kramadvayamupāśritya vajriṇāṁ tatra deśanā|kramamautpattikaṁ caiva kramamautpannakaṁ tathā
+qs: PK 1.2 | upāyaścaiṣa saṃbuddhaiḥ sopānamiva nirmitaḥ
+tr: 梵本作 autpattika-krama／autpannaka-krama；他處亦作 utpattikrama／utpannakrama、niṣpannakrama、saṃpannakrama。藏譯 bskyed rim／rdzogs rim。
+see: generation-stage, completion-stage
+
+=== generation-stage
+zh: 生起次第
+alt: 施設次第；假瑜伽；第一次第；初次第
+bo: bskyed rim
+sa: utpattikrama
+en: generation stage; creation stage
+def: 以分別心增上勝解、隨順生、死、中有三者而修，從種子字、日月座、標幟等次第生起所依宮殿與能依天身之瑜伽；為成熟圓滿次第之相續而修。
+exp: 宗喀巴釋名：生起次第之天身由心施設、由心生起，非由大種所生，故又名“施設次第”“假瑜伽”；圓滿次第之天身由風心實成，非心假造，故名“真瑜伽”“非施設次第”。生起次第須修至究竟，然唯生起次第不能成佛，猶如乘筏渡河，筏但為抵達彼岸之方便。
+exp: 克主杰訓釋：由分別假設、以內心假想生起所修之次第，故名生起次第。宗喀巴並指出：若以字形、標幟等方便表示引生拙火、空點等瑜伽而作成熟相續之最勝因，唯無上部有之；就此義而言，生起次第非下三部所有。
+q: B0068 | 生起次第，或曰施設次第，或假瑜伽，皆是第一次第之名。圓滿次第，曰非施設次第，曰真瑜伽，皆是第二次第之名。
+q: B0068 | 生起次第，從音韻諸字及所生日月，或從種子及標幟等方便，自身生為完具天身。唯是由心生起假設。
+q: B0057 | 生起次第之訓釋。謂由是分別假設。或以內心假想生起。所修次第。故立彼名。
+qs: GST 18.30ab | utpattikramasambandhaṁ sevāvajravidhiścatuḥ
+tr: 英譯 generation stage 與 creation stage 並行。“施設次第”（brtags pa'i rim pa）法尊譯，指“由心安立”。
+ref: 宗喀巴《密宗道次第廣論》第十一至十二品（生起次第），英譯 Yarnall 2013。
+see: two-stages, completion-stage, raft-simile, purification-basis
+
+=== completion-stage
+zh: 圓滿次第
+alt: 究竟次第；非施設次第；真瑜伽；第二次第
+bo: rdzogs rim
+sa: utpannakrama; niṣpannakrama; saṃpannakrama
+en: completion stage
+def: 不觀待分別假立，直緣自身本有之脈、風、明點，令風入、住、融於中脈而修，以生起樂空無別之智並由風心實成天身之瑜伽。
+exp: 克主杰訓釋有二：一、直緣自身生時已有之脈息空點，為令諸息入住融於中脈而修，故名圓滿；二、修本來性空之空性與扼身要所發樂智二者不離，故名圓滿。宗喀巴說圓滿次第依音韻字等所表之義，由二界（白紅菩提）及風息調柔之力，現證明、增、近得三智，由此唯從風心現起幻身，非心假造。
+q: B0057 | 圓滿次第者。謂不觀待分別假立。直緣自身生時已有脈息空點。為念諸息入住融化於中脈故所修次第。故名圓滿次第。
+q: B0068 | 圓滿次第，則依音韻諸字及日月等所表法義，由於二界及風息等調柔之力，現證明相增長近得三智，由此增上唯從風心現起幻身。如此完具天身，非是由心施設假造。
+qs: GST 18.66ab | niścitya yogato mantrī niṣpannakramayogataḥ
+tr: “二界”（khams gnyis）指白紅菩提心。英譯 completion stage 為定譯，亦有 perfection stage。
+see: two-stages, generation-stage, enter-abide-dissolve, illusory-body
+
+=== raft-simile
+zh: 筏喻
+alt: 船筏喻
+bo: gzings kyi dpe
+sa: —
+en: simile of the raft
+def: 喻生起次第為度越凡常境執、抵達圓滿次第之船筏；船筏但為渡河之方便，到岸後之飲食須另以方便成辦。
+exp: 宗喀巴引《金剛空行》所說筏喻，說明生起次第須修至究竟，然唯生起次第猶非圓滿；成辦圓滿次第之空與天身等受用，須另修風、空點等瑜伽。
+q: B0068 | 如是欲受圓滿次第飲食，有凡常境執水於中間隔，不能受用，當依生起次第船筏，度越凡常境執彼岸。
+see: generation-stage
+
+=== purification-basis
+zh: 所淨事・能淨道・淨果
+alt: 所淨、能淨、淨果；淨治三事
+bo: sbyang gzhi / sbyong byed / sbyangs 'bras
+sa: —
+en: basis of purification, purifier, and result of purification
+def: 修二次第之架構：所淨事為凡庸之生、死、中有（以具六界之瞻部洲胎生人身為準），能淨道為隨順其相之二次第，淨果為法、報、化三身。
+exp: 克主杰破“生起次第淨生有、圓滿次第淨死有”及“生起次第淨四生”等說，立自宗：二次第皆以生、死、中有為所淨事。宗喀巴於卷十八詳配：集資糧如造受生之業；修空性如死有；表中有之種子字入日月座間，如中有入於父母赤白二渧；主尊身相圓滿如出胎；從父母生諸尊如生子女。
+q: B0057 | 自宗。謂生起圓滿二法。皆須以生。死。中有。為所淨事。而修諸道。故天竺智者論中皆。說「是依瞻部洲人胎生。具六界者。」
+q: B0068 | 此如先造受胎生業，死後成辦中有。次彼中有入母胎中，後產生已娶妻生子女等。隨順此法而修生起次第。
+tr: “具六界者”（khams drug ldan pa）指具地、水、火、風、脈、明點（或另一說之骨、髓、精）之人身，為無上瑜伽即身成佛所依身。
+see: three-bodies-path, basis-three-bodies, generation-stage
+
+=== three-bodies-path
+zh: 三身轉為道用
+alt: 三身為道；帶三身入道
+bo: sku gsum lam du khyer ba
+sa: —
+en: taking the three bodies into the path
+def: 生起次第中，以隨順死有之修空性為法身道，隨順中有之種子字（或光聚）為報身道，隨順生有之天身生起為化身道，將果位三身取為道用。
+exp: 宗喀巴說：初次第時須修三身為道，法身為道須修空，故生起次第亦必修空性；淨治死有須修空。並引寂靜論師以三三摩地配自性（法身）、受用、化身三身之說。
+q: B0068 | 又於初次第時，須修三身為道，法身為道，須修空故。又於生有死有中有三所淨事皆須淨治，淨治死有須修空故。
+tr: 格魯派生起次第儀軌（如密集、大威德、勝樂）皆以“死有轉為法身道、中有轉為報身道、生有轉為化身道”為綱。英譯 bringing the three bodies to the path。
+see: purification-basis, basis-three-bodies, three-samadhis
+
+=== divine-pride
+zh: 天慢
+alt: 本尊慢；佛慢
+bo: lha'i nga rgyal
+sa: garva
+en: divine pride; divine identity
+def: 於所觀本尊之身，堅定自認“我即是此尊”之勝解；用以對治凡庸執著（庸常慢）。
+exp: 宗喀巴引《金剛手灌頂經》：若自成天身、意無疑惑而修天慢，於行住坐臥一切時中常不搖動，乃名具足菩薩戒行密咒門者。他並強調唯有明顯與天慢猶非滿足，須進得堅固安住（止），方能真實對治凡常境執。
+q: B0068 | 若時行菩薩行行密咒門，自成天身，意無疑惑而修天慢，若行若住若坐，一切時中常不搖動。
+q: B0068 | 故唯轉成殊勝明顯以及天慢猶非滿足，須能堅固安住。
+qs: GMV 118ab | samādhitaḥ samutthāya garvaṃ patyuḥ samudvahan
+tr: “慢”（nga rgyal）此處非煩惱之慢，而是以空性為基礎之“本尊自認”。梵文 garva 之用例見燈作賢（Dīpaṅkarabhadra）《密集曼陀羅儀軌》：“從定起已，持主之慢”。英譯 divine pride、divine identity。
+see: clear-appearance, ordinary-appearance, deity-yoga
+
+=== clear-appearance
+zh: 明顯
+alt: 明相；明了顯現
+bo: gsal snang
+sa: —
+en: clear appearance; vivid appearance
+def: 於所修所依、能依曼陀羅諸尊之身相明了顯現；與天慢並為生起次第之二大要。
+exp: 宗喀巴說生起次第時須修奢摩他，以細點瑜伽等法令粗細能所依曼陀羅圓滿明顯，心得調柔；唯數數作意令行相明顯，而不得堅穩安住，猶如因愛、怖而生之明顯，不能真實對治凡常境執。
+q: B0068 | 若唯數數作意修習行相，雖生明顯，然不能得堅穩安住，如脩愛怖所起明顯。
+tr: 注意 gsal snang 法尊多譯“明顯”，與圓滿次第“明、增、得”之“明”（snang ba）不同。
+see: divine-pride, subtle-yoga
+
+=== ordinary-appearance
+zh: 庸常顯現與庸常執著
+alt: 凡常分別；庸常慢；凡庸執
+bo: tha mal gyi snang ba dang zhen pa
+sa: —
+en: ordinary appearances and ordinary conceptions
+def: 視自身與外境為凡庸之顯現及執為凡庸之分別；生起次第之所斷。格魯派依智足派諸釋，以“庸常分別”指我、我所執。
+exp: 宗喀巴於卷十八辨析：藏、印諸師或以“庸常分別”為“不現天相唯現常相之分別”，此非智足之義；《他伽那釋》等明說庸常分別即分別我、我所，為三有苦之根本。修曼陀羅輪行相之心，與彼取相相違，故能為對治。
+q: B0068 | 庸常分別，謂分別我我所。
+q: B0068 | 此中滅庸凡慢，自心現為面臂端嚴之天，即三昧耶薩埵。
+tr: 英譯 ordinary appearance / ordinary conception。
+see: divine-pride, clear-appearance
+
+=== samayasattva
+zh: 三昧耶薩埵
+alt: 三昧耶尊；誓言尊；誓句薩埵
+bo: dam tshig sems dpa'
+sa: samayasattva
+en: commitment being; pledge being
+def: 行者以觀想所生起之本尊身（或其種子字），滅除庸凡慢、自心現為面臂端嚴之天；為智慧薩埵所融入之所依。
+exp: 宗喀巴引《教授穗》訓釋“三昧耶”：梵語 sam-eti（正往）與 mīlati（攝還）——以其體性中具無二智，智慧薩埵能正往還，故名；“薩埵”謂能饒益有情。另有天身與種子字皆為三昧耶薩埵、或唯種子為三昧耶薩埵二說。
+q: B0068 | 當俱修三昧耶薩埵，此中滅庸凡慢，自心現為面臂端嚴之天，即三昧耶薩埵。
+q: B0068 | 三昧耶者，梵語「三梅底」為正往，「彌拉底」為攝還。
+tr: 法尊譯“三昧耶薩埵”“三昧耶尊”並用；“誓言尊”為現代通行意譯。
+see: jnanasattva, samadhisattva
+
+=== jnanasattva
+zh: 智慧薩埵
+alt: 智尊；智薩埵；智慧尊
+bo: ye shes sems dpa'
+sa: jñānasattva
+en: wisdom being; gnosis being
+def: 從自性處召請、融入三昧耶薩埵之實際本尊（佛之智身）；修法中須勝解二者平等一味、下至極微合雜無異。
+exp: 宗喀巴引《攝真實經》：三昧耶尊之眼等與智慧尊之眼等，下至極微皆應合雜無異，故當堅固勝解平等一味。召智尊後多傳水灌頂並以部主印定。宗喀巴於卷三考辨事部、行部有無“入智尊”之法。
+q: B0068 | 三昧耶尊之眼等，與智慧尊之眼等，下至極微皆應合雜無異。故當堅固勝解平等一味。
+tr: 另有“三重薩埵”中位於本尊心間之智慧薩埵（亦稱 ye shes sems dpa'），指心間之小尊，與此處“召入之智尊”同名異義，須依上下文區分。
+see: samayasattva, samadhisattva
+
+=== samadhisattva
+zh: 三摩地薩埵
+alt: 定薩埵；三重薩埵之最內者
+bo: ting nge 'dzin sems dpa'
+sa: samādhisattva
+en: concentration being
+def: “三重薩埵”之最內層：位於本尊（三昧耶薩埵）心間智慧薩埵心中之種子字或標幟。
+exp: 三重薩埵（sems dpa' sum brtsegs）：外為三昧耶薩埵（本尊身），中為其心間之智慧薩埵，內為智慧薩埵心間之三摩地薩埵（種子字）。宗喀巴說《密集》修行支之“咒主”即三重薩埵；智足派細點瑜伽亦於智薩埵心中標幟上修三摩地薩埵。
+q: B0068 | 咒謂嗡等，主謂三重薩埵。
+q: B0068 | 點瑜伽者，智足師弟說於自身智薩埵心中標幟上脩三摩地薩埵，初發業者亦修彼事。
+see: samayasattva, jnanasattva, subtle-yoga
+
+=== three-samadhis
+zh: 三三摩地
+alt: 三種三摩地；三瑜伽
+bo: ting nge 'dzin gsum
+sa: —
+en: three concentrations (samādhis)
+def: 總攝生起次第之三支：初加行（sbyor ba dang po）、曼陀羅最勝王（dkyil 'khor rgyal mchog）、事業最勝王（las rgyal mchog）。
+exp: 依無上部釋：初加行為化起曼陀羅諸尊之主尊父母三摩地（方便智慧和合無二故名加行）；從二尊菩提心化出諸尊、安立各處、壇輪圓滿，名勝曼陀羅王；其後諸尊作事業、淨佛土等，為勝業王。寂靜論師等以三者配自性身（法身）、受用身、化身。
+q: B0068 | 若依無上部釋三三摩地，初加行者，謂化起曼陀羅諸尊之主尊父母三摩地。
+q: B0068 | 勝曼陀羅王立為受用身。彼住本處而各放出諸天，往十方界饒益有情，故勝業王立為化身。
+tr: 法尊譯“勝曼陀羅王”“勝業王”；通行譯“壇城最勝王”“事業最勝王”。英譯 initial preparation, supreme king of maṇḍalas, supreme king of activities。
+see: four-branches, four-yogas, three-bodies-path
+
+=== four-branches
+zh: 四支（承事、近修、修行、大修行）
+alt: 承事修行四支；親近、近成就、成就、大成就
+bo: bsnyen sgrub yan lag bzhi: bsnyen pa, nye ba'i sgrub pa, sgrub pa, sgrub pa chen po
+sa: sevā, upasādhana, sādhana, mahāsādhana
+en: four branches of approach and achievement
+def: 《密集》所說總攝生起次第之四支：承事、近修、修行、大修行。龍猛派以之配生起次第前後諸瑜伽，智足派則於主尊、明妃、勝曼陀羅諸尊別配四支。
+exp: 依《明炬論》：從修空性至生宮殿為承事；從修日輪等至身圓滿生大印形為近修；加持身語意、成三重薩埵為修行；勝曼陀羅與勝事業能廣大利他為大修行。《密集後續》又說“共由四金剛，勝由六支分”：四支為共承事，六支瑜伽為勝承事。
+q: B0068 | 一切瑜伽續，瑜伽師恆讚，承事法第一，第二為近修，修行是第三，大修行第四。
+qs: GST 18.135 | sevāvidhānaṁ prathamaṁ dvitīyamupasādhanam|sādhanaṁ tu tṛtīyaṁ vai mahāsādhanaṁ caturthakam
+qs: GST 18.138ab | ebhirvajracatuṣkeṇa sevāsāmānyasādhanam
+tr: bsnyen pa 法尊譯“承事”，亦譯“親近”（漢語“閉關念誦”之“近修”實指此支）。英譯 approximation, near achievement, achievement, great achievement。
+see: three-samadhis, four-yogas, six-yogas
+
+=== four-yogas
+zh: 四瑜伽
+alt: 瑜伽、隨瑜伽、善瑜伽、大瑜伽
+bo: rnal 'byor bzhi: rnal 'byor, rjes su rnal 'byor, shin tu rnal 'byor, rnal 'byor chen po
+sa: yoga, anuyoga, atiyoga, mahāyoga
+en: four yogas
+def: 依《札拏經》（Ḍākārṇava）等父續所說，以四聚總攝生起次第：瑜伽（因金剛持之三摩地）、隨瑜伽（果金剛持）、善瑜伽（壇輪圓滿）、大瑜伽（加持、召入智尊、灌頂、供讚等）。
+exp: 宗喀巴說：持祥論師之配法未攝中間瑜伽及資糧、護輪、生所依等；四瑜伽亦可配下、中、上三品之修力。
+q: B0068 | 初修謂瑜伽，第二隨瑜伽，第三善瑜伽，第四大瑜伽。
+tr: atiyoga 法尊譯“善瑜伽”，他譯“極瑜伽”。此“四瑜伽”與寧瑪九乘之“阿努瑜伽”“阿底瑜伽”同名異義。
+see: four-branches, three-samadhis
+
+=== protection-wheel
+zh: 守護輪
+alt: 護輪
+bo: srung 'khor
+sa: rakṣācakra
+en: protection wheel; protective circle
+def: 生起次第加行中為除違緣所修之金剛墻、幕、網、火鬘等護圍；分共護輪與殊勝護輪（十輻輪及十忿怒明王）。
+exp: 宗喀巴說共護輪：從囕字生日輪，其上吽字生羯磨杵，放光如劫火，結成金剛墻、幕、蓋、箭網，外圍火鬘。殊勝護輪則修十輻黃輪，轂中修吽明王，十輻上修十明王。
+q: B0068 | 共護輪者，謂從囕字出生日輪，彼上吽字生羯摩杵，杵臍吽字莊嚴。從彼放光猶如劫火，其杵各股體皆熾然。
+see: generation-stage
+
+=== support-supported
+zh: 所依能依曼陀羅
+alt: 能所依曼陀羅；宮殿與諸尊
+bo: rten dang brten pa'i dkyil 'khor
+sa: —
+en: supporting and supported maṇḍala
+def: 所依曼陀羅為佛宮殿（及其下之元素、須彌等基座），能依曼陀羅為安住其中之主尊與眷屬諸尊；生起次第依次生起二者。
+exp: 宗喀巴說龍猛派以承事修行四支總攝一切能依所依瑜伽；生起次第究竟時，能於芥子量之細點中圓滿現起能所依曼陀羅，明了堅固，然此仍非幻身。
+q: B0068 | 以是生起次第究竟，於細點位，雖能於一芥子量中，圓滿現起能所依曼陀羅，明了堅固，然非幻身。
+see: mandala, subtle-yoga
+
+=== subtle-yoga
+zh: 細點瑜伽
+alt: 微細瑜伽；細相瑜伽；點瑜伽
+bo: phra mo'i rnal 'byor / thig le'i rnal 'byor
+sa: sūkṣmayoga
+en: subtle yoga; yoga of the subtle drop
+def: 生起次第中於微細標幟或微細點中觀修圓滿能所依曼陀羅之瑜伽；用以成就奢摩他、遮止沉掉並令風息內住，為趣入圓滿次第之橋樑。
+exp: 宗喀巴辨：於微細點中修圓滿曼陀羅，非初發業與略降少智二位所修，須第三位（得少智自在）方能修；初發業者修點瑜伽，則為遣除修勝曼陀羅時之沉掉。並引如來金剛：於臍、心等處修細字細點，能遮命風向外轉，故亦名“命力”。
+q: B0068 | 於微細標幟或微細點中，脩能所依圓滿曼陀羅者，非初發業略降少智二位所修。第三位中始能修此
+q: B0068 | 由於臍處修細音韻瑜伽，或於心等修習點等瑜伽靜慮，能遮命向外轉，故名命力。
+tr: 粗分生起次第（rags pa'i rnal 'byor）與細分生起次第（phra ba'i rnal 'byor）之分即依此。
+see: clear-appearance, samadhisattva, prana-yama
+
+=== body-mandala
+zh: 身曼陀羅
+alt: 身壇城
+bo: lus dkyil
+sa: dehamaṇḍala
+en: body maṇḍala
+def: 將行者自身之脈、界、蘊、處等觀修為曼陀羅諸尊與宮殿之修法；勝樂金剛鈴派以之灌頂，密集亦有身曼陀羅而無依之灌頂。
+exp: 克主杰說：身曼陀羅灌頂依金剛鈴師軌，阿闍黎自觀與“根本嘿嚕迦”及“內嘿嚕迦”相合，令弟子入師長身分所修宮殿、投花入師長心中；集密雖有身曼陀羅而無於彼之灌頂。《密集》第十八品以“身”為三種密義曼陀羅之一。
+q: B0057 | 此於身曼陀羅灌頂法。是依金剛鈴師軌。若集密法。雖有身曼陀羅。而無於彼之灌頂也。
+qs: GST 18.99 | dehaṁ maṇḍalamityuktaṁ triṣu maṇḍalakalpanā
+see: mandala, cakrasamvara
+
+=== svabhava-mantra
+zh: 娑跋嚩真言
+alt: 自性清淨咒；空性咒
+bo: swa bhA wa'i sngags
+sa: oṃ svabhāvaśuddhāḥ sarvadharmāḥ svabhāvaśuddho 'ham
+en: svabhāva mantra (mantra of natural purity)
+def: 生起天輪之前誦以憶念空性之真言，意為“一切法自性清淨，我亦自性清淨”；為生起次第中修空性（法身為道）之要。
+exp: 宗喀巴據此論證生起次第時亦須修空：密咒乘無量經中，於生現品天輪之前皆說先修“娑跋嚩”等真言，此真言即詮無我勝義。另有“嗡 修尼亞達 嘉那 班雜 梭巴瓦 阿瑪構杭”（śūnyatā 真言）同類。
+q: B0068 | 又密咒乘《無量經》中，於生現品天輪之前，皆說先修「娑跋嚩」等真言，真言，即無我勝義故。
+tr: 梵文咒句為通行形式，各儀軌略有出入。
+see: three-bodies-path, generation-stage
+
+=== four-sessions
+zh: 四座瑜伽
+alt: 四座；日修四座
+bo: thun bzhi'i rnal 'byor
+sa: —
+en: four-session yoga
+def: 每日於早晨、日中、下午、夜間四時修持生起次第之規；初座廣修一切儀軌，餘座可略。
+exp: 宗喀巴引《喜金剛現說尊長》等經及諸論多說日修四座，並引毳衣大師：初座廣修一切儀軌，日中、下午座間可自化光明為吽字再生能所依曼陀羅。
+q: B0068 | 言四座加持次第者，謂於早晨、日中、下午、夜間。
+see: generation-stage
+
+=== four-activities
+zh: 四種事業
+alt: 息增懷誅；四業
+bo: phrin las bzhi / las bzhi: zhi ba, rgyas pa, dbang, drag po
+sa: śāntika, pauṣṭika, vaśya, ābhicārika
+en: four activities: pacifying, increasing, controlling, wrathful
+def: 息災、增益、愛敬（懷攝）、降伏四種事業成就；為修二次第所得下品悉地，亦為護摩、念誦等之所為。
+exp: 宗喀巴說修二次第及諸行之果有三：最上成佛，中品得八大悉地，下品成就息災等四種事業。並說若已於一曼陀羅專精念誦，但於彼天瑜伽略為變改，即可修作延壽增慧等事，不須別求教授。《五次第》亦說息災等一切事業皆當如虹而修。
+q: B0068 | 修二次第以及諸行之果有三，最上成佛，中品獲得八大悉地，下品成就息災、增益、愛敬、降伏四種事業。
+qs: PK 3.30 | śāntikaṃ pauṣṭikaṃ cāpi tathā vaśyābhicārikam | ākarṣaṇādi yat sarvaṃ kuryād indrāyudhopamam
+tr: 法尊譯“愛敬”（vaśya），他譯“懷愛”“敬愛”。
+see: siddhi, homa
+
+=== homa
+zh: 護摩
+alt: 火供；燒施
+bo: sbyin sreg
+sa: homa
+en: fire offering; burnt offering
+def: 依息、增、懷、誅等所為，觀修火神與本尊，以諸物投火供養之儀軌；用以圓滿念誦、彌補過失或成辦事業。
+exp: 宗喀巴引《五次第》：咒、印加行、曼陀羅、護摩、施食等一切事，常應如幻而行。格魯派念誦閉關圓滿後須修息災護摩以補闕。
+q: B0068 | 咒及印加行，曼陀羅等事，護摩施食事，常應如幻行。
+qs: PK 3.29 | mantramudrāprayogaṃ ca maṇḍalādivikalpanam | balihomakriryāṃ sarvāṃ kuryān māyopamāṃ sadā
+tr: 唐密音譯“護摩”；藏文 sbyin sreg 意為“施燒”。
+see: four-activities
