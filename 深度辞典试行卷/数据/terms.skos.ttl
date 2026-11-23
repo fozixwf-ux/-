@@ -1,0 +1,151 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix gl: <urn:gelug-glossary:deep:> .
+
+gl:scheme a skos:ConceptScheme ; skos:prefLabel "格魯派圓滿次第核心名相"@zh-Hant .
+
+gl:rdzogs-rim a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "圓滿次第"@zh-Hant , "རྫོགས་རིམ"@bo , "rdzogs rim / rdzogs pa'i rim pa"@bo-Latn ;
+  skos:altLabel "pariniṣpannayoga（《五次第》2.52 之用語）"@sa-Latn ;
+  skos:altLabel "completion stage"@en ;
+  skos:altLabel "perfection stage"@en ;
+  skos:definition "不觀待分別假立，直緣自身本有之脈、風、明點，令風入、住、融於中脈，由此所生之樂證空，並由風心實成天身之瑜伽。"@zh-Hant ;
+  skos:related gl:lus-dben ;
+  skos:related gl:rim-lnga ;
+  skos:related gl:gnad-bsnun .
+
+gl:rim-lnga a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "五次第・六次第"@zh-Hant , "རིམ་པ་ལྔ"@bo , "rim pa lnga / rim pa drug"@bo-Latn ;
+  skos:altLabel "pañcakrama"@sa-Latn ;
+  skos:altLabel "five stages"@en ;
+  skos:altLabel "six stages"@en ;
+  skos:definition "龍樹《五次第》所立金剛念誦（語遠離）、心清淨（心遠離）、自加持（幻身）、樂現覺（光明）、雙運五次第；聖天《攝行炬論》前加身遠離為六。後者無前者則不生，次第決定。"@zh-Hant ;
+  skos:related gl:lus-dben ;
+  skos:related gl:ngag-dben ;
+  skos:related gl:sems-dben ;
+  skos:related gl:sgyu-lus ;
+  skos:related gl:od-gsal ;
+  skos:related gl:zung-jug .
+
+gl:lus-dben a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "身遠離"@zh-Hant , "ལུས་དབེན"@bo , "lus dben"@bo-Latn ;
+  skos:altLabel "kāyaviveka"@sa-Latn ;
+  skos:altLabel "body isolation"@en ;
+  skos:definition "以通達空性、與之無二之智現為天身，觀自身蘊、界、處等為一部乃至百部諸尊，以淨除庸常慢之圓滿次第初階。"@zh-Hant ;
+  skos:related gl:rdzogs-rim ;
+  skos:related gl:rim-lnga ;
+  skos:related gl:ngag-dben .
+
+gl:ngag-dben a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "語遠離（金剛念誦）"@zh-Hant , "ངག་དབེན"@bo , "ngag dben / rdo rje'i bzlas pa"@bo-Latn ;
+  skos:altLabel "vāgviveka; vajrajāpa"@sa-Latn ;
+  skos:altLabel "speech isolation"@en ;
+  skos:altLabel "vajra recitation"@en ;
+  skos:definition "於生起次第與身遠離究竟、已成天身之上，以金剛念誦於發語之根本風得自在，令風入住融於心間之圓滿次第。"@zh-Hant ;
+  skos:related gl:lus-dben ;
+  skos:related gl:sems-dben ;
+  skos:related gl:gnad-bsnun .
+
+gl:sems-dben a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "心遠離"@zh-Hant , "སེམས་དབེན"@bo , "sems dben"@bo-Latn ;
+  skos:altLabel "cittaviveka"@sa-Latn ;
+  skos:altLabel "mind isolation"@en ;
+  skos:definition "身遠離究竟、語遠離得風自在之後，以內緣（風）與外緣（手印）令風融入心間，次第生起明、增、近得三空智之圓滿次第；其究竟為喻光明。"@zh-Hant ;
+  skos:related gl:ngag-dben ;
+  skos:related gl:stong-bzhi ;
+  skos:related gl:dpe-don .
+
+gl:stong-bzhi a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "四空（空・極空・大空・一切空）"@zh-Hant , "སྟོང་པ་བཞི"@bo , "stong pa bzhi"@bo-Latn ;
+  skos:altLabel "śūnya"@sa-Latn ;
+  skos:altLabel "four empties"@en ;
+  skos:definition "粗分風心次第融攝時所現之四種心：明（空）、增（極空）、近得（大空），及其後之光明（一切空）。“空”指空去粗分分別與所乘之風，非即空性。"@zh-Hant ;
+  skos:related gl:sems-dben ;
+  skos:related gl:od-gsal ;
+  skos:related gl:gzhi-rim-lnga .
+
+gl:gzhi-rim-lnga a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "基位五次第"@zh-Hant , "གཞིའི་རིམ་ལྔ"@bo , "gzhi'i rim lnga"@bo-Latn ;
+  skos:altLabel "five stages at the time of the basis"@en ;
+  skos:definition "宗喀巴以道位五次第配凡夫生死之過程：風息出入為基位金剛念誦，死時三相為基位心遠離，死光明為基位光明（基位法身），中有身為基位幻身（基位報身），受生為基位化身。"@zh-Hant ;
+  skos:related gl:stong-bzhi ;
+  skos:related gl:sgyu-lus ;
+  skos:related gl:od-gsal ;
+  skos:related gl:rim-lnga .
+
+gl:sgyu-lus a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "幻身"@zh-Hant , "སྒྱུ་ལུས"@bo , "sgyu lus / sgyu ma'i sku"@bo-Latn ;
+  skos:altLabel "māyādeha"@sa-Latn ;
+  skos:altLabel "illusory body"@en ;
+  skos:definition "三空之後，唯由逆起之三心及其所乘之風——極細風心——自身現為金剛薩埵之身；其身之近取因為風，前心為俱有緣；其意之近取因為前心，風為俱有緣。"@zh-Hant ;
+  skos:related gl:sgyu-lus-dag ;
+  skos:related gl:od-gsal ;
+  skos:related gl:zung-jug ;
+  skos:related gl:rdzogs-rim ;
+  skos:related gl:gzhi-rim-lnga .
+
+gl:sgyu-lus-dag a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "不淨幻身・清淨幻身"@zh-Hant , "མ་དག་པའི་སྒྱུ་ལུས"@bo , "ma dag pa'i sgyu lus / dag pa'i sgyu ma'i sku"@bo-Latn ;
+  skos:altLabel "impure illusory body"@en ;
+  skos:altLabel "pure illusory body"@en ;
+  skos:definition "喻光明後逆起所成、未斷煩惱障者為不淨幻身；義光明後逆起所成、與勝義光明同體俱轉者為清淨幻身，即有學雙運之身。"@zh-Hant ;
+  skos:related gl:sgyu-lus ;
+  skos:related gl:dpe-don ;
+  skos:related gl:zung-jug ;
+  skos:related gl:spangs-rtogs .
+
+gl:od-gsal a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "光明（境光明・有境光明）"@zh-Hant , "འོད་གསལ"@bo , "'od gsal / yul gyi 'od gsal / yul can gyi 'od gsal"@bo-Latn ;
+  skos:altLabel "prabhāsvara"@sa-Latn ;
+  skos:altLabel "clear light"@en ;
+  skos:altLabel "object clear light"@en ;
+  skos:altLabel "subject clear light"@en ;
+  skos:definition "道位指三空清淨、微細二相亦淨之最細心；果位中，宗喀巴分具二清淨之境光明（無為法身）與有境光明（智慧法身、大樂身）。"@zh-Hant ;
+  skos:related gl:stong-bzhi ;
+  skos:related gl:dpe-don ;
+  skos:related gl:gzhi-rim-lnga ;
+  skos:related gl:zung-jug .
+
+gl:dpe-don a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "喻光明・義光明"@zh-Hant , "དཔེའི་འོད་གསལ"@bo , "dpe'i 'od gsal / don gyi 'od gsal"@bo-Latn ;
+  skos:altLabel "example clear light"@en ;
+  skos:altLabel "meaning clear light"@en ;
+  skos:definition "道位第四空中，以義總（概念）通達空性、其後成幻身者為喻光明；微細二相畢竟清淨、現量親證空性、其後成雙運身者為義光明。"@zh-Hant ;
+  skos:related gl:od-gsal ;
+  skos:related gl:sgyu-lus-dag ;
+  skos:related gl:sems-dben ;
+  skos:related gl:zung-jug .
+
+gl:ril-rjes a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "整持・隨滅"@zh-Hant , "རིལ་འཛིན"@bo , "ril 'dzin / rjes gzhig"@bo-Latn ;
+  skos:altLabel "piṇḍagrāha; anubheda"@sa-Latn ;
+  skos:altLabel "holding the body entirely"@en ;
+  skos:altLabel "subsequent destruction"@en ;
+  skos:definition "收入光明之二種靜慮：整持為自頂、自足同時收攝至心間；隨滅為先收器情世間、後收自身入光明。"@zh-Hant ;
+  skos:related gl:sgyu-lus ;
+  skos:related gl:od-gsal .
+
+gl:zung-jug a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "雙運（有學・無學）"@zh-Hant , "ཟུང་འཇུག"@bo , "zung 'jug / slob pa'i zung 'jug / mi slob pa'i zung 'jug"@bo-Latn ;
+  skos:altLabel "yuganaddha"@sa-Latn ;
+  skos:altLabel "union"@en ;
+  skos:altLabel "learner's union"@en ;
+  skos:altLabel "union of no-more-learning"@en ;
+  skos:definition "四空之後唯從逆起之風心所成之身，與現證空性之勝義光明心同時和合之位。有學位猶暫現任持異熟身相；究竟法身現前時轉為無學雙運之身。"@zh-Hant ;
+  skos:related gl:sgyu-lus ;
+  skos:related gl:od-gsal ;
+  skos:related gl:spangs-rtogs .
+
+gl:spangs-rtogs a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "斷之雙運・證之雙運（名目考）"@zh-Hant , "སྤངས་པའི་ཟུང་འཇུག"@bo , "spangs pa'i zung 'jug / rtogs pa'i zung 'jug"@bo-Latn ;
+  skos:altLabel "union of abandonment"@en ;
+  skos:altLabel "union of realization"@en ;
+  skos:definition "格魯派後期地道教本於有學雙運中所分之二名。逐詞通檢：宗喀巴《密宗道次第廣論》與《五次第明燈》二論中，二名皆未出現。"@zh-Hant ;
+  skos:related gl:zung-jug ;
+  skos:related gl:sgyu-lus-dag .
+
+gl:gnad-bsnun a skos:Concept ; skos:inScheme gl:scheme ;
+  skos:prefLabel "扼身要（聖派以心間為勝處）"@zh-Hant , "ལུས་ལ་གནད་དུ་བསྣུན་པ"@bo , "lus la gnad du bsnun pa"@bo-Latn ;
+  skos:altLabel "penetrating the vital points of the body"@en ;
+  skos:definition "緣自身之脈、風、明點等要處而修，令左右風入住融於中脈之總方法；依聖派，其勝處在心間脈輪中央。"@zh-Hant ;
+  skos:related gl:rdzogs-rim ;
+  skos:related gl:ngag-dben .

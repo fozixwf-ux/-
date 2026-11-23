@@ -1,0 +1,32 @@
+
+/* deep volume */
+.dentry{ border-top:.8pt solid var(--rule); padding:4mm 0 3mm; }
+.dentry + .dentry{ break-before:page; }
+.dhd{ display:flex; align-items:baseline; gap:3mm; flex-wrap:wrap; margin-bottom:1mm; }
+.dhd .no{ font-size:9pt; color:#fff; background:var(--accent); padding:0 1.8mm; border-radius:1mm; }
+.dhd .zh{ font-size:15pt; font-weight:700; }
+.dhd .bo{ font-size:15pt; color:var(--accent); }
+.eq .st{ font-size:7.8pt; color:var(--muted); margin-right:4mm; }
+table.conc{ border-collapse:collapse; font-size:8.4pt; margin:1.5mm 0 2mm; }
+table.conc th, table.conc td{ border:.4pt solid var(--rule); padding:.6mm 2.5mm; text-align:center; }
+table.conc th{ background:var(--soft); color:#5b4a33; font-weight:700; font-size:7.8pt; }
+table.conc td[lang="bo"]{ text-align:left; font-size:10pt; }
+.basis{ font-size:7.8pt; color:#6d5a7a; margin-left:1mm; font-weight:400; }
+.mt .lab{ background:#5b6e5a; }
+table.subt .bs{ font-size:7.8pt; color:var(--muted); }
+.layer{ margin:1.6mm 0 2mm; }
+.ltag{ display:inline-block; font-size:7.6pt; color:#fff; background:#5d6b7a; border-radius:.8mm; padding:0 1.2mm; margin-bottom:.8mm; }
+blockquote.boq .qt{ font-family:"Noto Serif Tibetan",serif; font-size:11pt; line-height:1.75; }
+.trn{ font-size:9pt; margin:-.6mm 0 1.4mm 3mm; color:#3d3a35; }
+.lab3{ display:inline-block; font-size:7.4pt; color:#6d5a7a; border:.5pt solid #6d5a7a; border-radius:.8mm; padding:0 1mm; margin-right:1.4mm; }
+.disp{ font-size:9pt; margin:1.6mm 0; }
+.disp ul{ margin:.8mm 0 .8mm 6mm; padding:0; }
+.disp .self{ margin:.6mm 0 0 3mm; }
+.disp .lab{ background:#7a4f1f; }
+.hist .lab{ background:#4f6a7a; }
+.open .lab{ background:#9a8f80; }
+.open{ font-size:8.8pt; color:var(--muted); }
+.toc .t3d{ font-size:10pt; margin:1mm 0 1mm 4mm; border-bottom:.4pt dotted var(--rule); }
+.note{ font-size:8.6pt; color:var(--muted); }
+.src blockquote cite{ display:inline; margin-left:2.5mm; white-space:nowrap; }
+.src blockquote{ margin-bottom:1.1mm; }

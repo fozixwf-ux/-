@@ -1,0 +1,150 @@
+@page { size: A4; margin: 20mm 17mm 18mm 17mm; }
+:root{
+  --ink:#1d1b18; --muted:#6b645a; --accent:#7a1f1f; --rule:#cdbfa8; --soft:#f6f1e7; --soft2:#faf7f1;
+}
+*{ box-sizing:border-box; }
+html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+body{ margin:0; color:var(--ink); background:#fff;
+  font-family:"Noto Serif","GL Noto Serif CJK SC","Noto Serif Tibetan",serif;
+  font-size:9.6pt; line-height:1.62; text-align:justify; }
+[lang="bo"], .bo{ font-family:"Noto Serif Tibetan","Tibetan Machine Uni",serif; }
+[lang="zh-Hant"]{ font-family:"Noto Serif","GL Noto Serif CJK TC",serif; }
+a{ color:inherit; text-decoration:none; }
+i, .sk{ font-style:italic; }
+
+/* cover */
+.cover{ height:250mm; display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center; break-after:page; border:1.2pt solid var(--rule); outline:4pt double var(--rule); outline-offset:-10pt; padding:20mm; }
+.c-top{ letter-spacing:.4em; color:var(--muted); font-size:10pt; margin-bottom:18mm; }
+.cover h1{ font-size:30pt; letter-spacing:.12em; margin:0 0 6mm; font-weight:700; color:var(--accent); }
+.c-sub{ font-size:13pt; line-height:1.8; margin-bottom:8mm; }
+.c-bo{ font-size:17pt; margin-bottom:8mm; }
+.c-en{ font-size:12pt; font-style:italic; margin-bottom:14mm; }
+.c-en span{ font-size:10pt; }
+.c-stat{ display:flex; gap:14mm; margin-bottom:14mm; }
+.c-stat div{ display:flex; flex-direction:column; }
+.c-stat b{ font-size:20pt; color:var(--accent); }
+.c-stat span{ font-size:9pt; color:var(--muted); }
+.c-note{ font-size:9pt; color:var(--muted); line-height:1.9; }
+
+/* front matter */
+.fm, .bib{ break-before:page; }
+h2{ font-size:15pt; color:var(--accent); border-bottom:1.2pt solid var(--accent); padding-bottom:2mm; margin:0 0 5mm; letter-spacing:.05em; }
+h3{ font-size:11pt; margin:5mm 0 2mm; }
+.fm p{ margin:0 0 2.4mm; text-indent:2em; }
+table.abbr{ border-collapse:collapse; width:100%; margin-bottom:3mm; font-size:9pt; }
+table.abbr td{ border-bottom:.5pt solid var(--rule); padding:1.3mm 2mm; vertical-align:top; }
+table.abbr td:first-child{ white-space:nowrap; font-weight:700; width:24mm; color:var(--accent); }
+
+/* toc */
+.toc{ break-before:page; }
+.toc .t1{ display:flex; justify-content:space-between; font-weight:700; margin-top:2.2mm; border-bottom:.5pt dotted var(--rule); }
+.toc .t2{ font-size:8.2pt; color:var(--muted); line-height:1.7; margin:0.6mm 0 1mm 4mm; text-align:left; }
+.toc .pg{ font-weight:400; }
+
+/* parts */
+.part{ break-before:page; }
+.part h2 .pn{ display:inline-block; margin-right:4mm; color:var(--muted); font-weight:400; }
+.intro{ background:var(--soft); border-left:3pt solid var(--accent); padding:2.5mm 4mm; margin:0 0 5mm; font-size:9.2pt; }
+
+/* entries */
+.entry{ border-top:.6pt solid var(--rule); padding:3mm 0 2.5mm; break-inside:auto; }
+.entry .hd{ display:flex; align-items:baseline; gap:3mm; flex-wrap:wrap; break-after:avoid; }
+.entry .no{ font-size:8.5pt; color:#fff; background:var(--accent); padding:0 1.6mm; border-radius:1mm; font-family:"Noto Sans","GL Noto Sans CJK SC",sans-serif; }
+.entry .zh{ font-size:13.5pt; font-weight:700; }
+.entry .hd .bo{ font-size:13pt; color:var(--accent); }
+.eq{ text-align:left; font-size:9pt; margin:1mm 0 1.2mm; line-height:1.55; break-after:avoid; }
+.eq .k{ display:inline-block; font-size:7.5pt; border:.5pt solid var(--muted); color:var(--muted); border-radius:.8mm; padding:0 .8mm; margin:0 1.2mm 0 0; line-height:1.3; font-style:normal; }
+.eq .wy, .eq .sk, .eq .en{ margin-right:4mm; }
+.eq .wy{ font-family:"Noto Serif",serif; }
+.alt{ font-size:9pt; color:var(--muted); margin-bottom:1mm; }
+.lab{ display:inline-block; font-size:7.8pt; font-weight:700; color:#fff; background:#8c7b62; border-radius:.8mm; padding:0 1.1mm; margin-right:1.6mm; line-height:1.45; font-family:"GL Noto Sans CJK SC",sans-serif; }
+.alt .lab{ background:#a99a83; }
+.def .lab{ background:var(--accent); }
+p{ margin:0 0 1.3mm; }
+.def{ font-weight:600; }
+.exp{ text-indent:0; }
+.src{ background:var(--soft2); border:.5pt solid var(--rule); border-radius:1mm; padding:1.8mm 3mm 1mm; margin:1.6mm 0 1.6mm; }
+.lab2{ font-size:7.8pt; font-weight:700; color:var(--accent); letter-spacing:.1em; margin-bottom:.8mm; font-family:"GL Noto Sans CJK SC",sans-serif; }
+blockquote{ text-align:left; margin:0 0 1.4mm; padding-left:3mm; border-left:1.5pt solid var(--rule); }
+blockquote .qt{ font-size:9.4pt; }
+blockquote cite{ display:block; font-style:normal; font-size:7.9pt; color:var(--muted); text-align:right; line-height:1.4; }
+blockquote.skq .qt{ font-style:italic; font-size:9pt; }
+.tr, .ref, .see{ font-size:8.8pt; }
+.tr .lab{ background:#5d6b7a; }
+.ref .lab{ background:#7d7d7d; }
+.see .lab{ background:#b9a98e; }
+.see a{ border-bottom:.4pt dotted var(--muted); }
+
+/* back matter */
+.bib ul{ margin:0 0 3mm; padding-left:6mm; font-size:9pt; text-align:left; }
+.bib li{ margin-bottom:1.2mm; }
+.index{ break-before:page; }
+.index .cols{ column-fill:auto; column-count:3; column-gap:7mm; font-size:8.6pt; line-height:1.55; }
+.index .ix{ display:block; overflow:hidden; break-inside:avoid; border-bottom:.3pt dotted #e3d9c6; }
+.index .ix a{ float:right; margin-left:2mm; }
+.index .ix a{ color:var(--accent); white-space:nowrap; }
+.index .wyx, .index .enx{ font-family:"Noto Serif",serif; }
+.index .skx{ font-style:italic; }
+.marker{ font-size:1px; color:#fff; line-height:0; display:block; height:0; overflow:hidden; }
+
+.index .ixbo{ font-family:"Noto Serif Tibetan",serif; font-size:8.6pt; color:#7a1f1f; }
+.index .w{ text-align:left; }
+.index.ix-wyx .cols{ column-count:2; }
+.plain{ background:#fbf6ec; border-left:2pt solid #c9a96a; padding:1mm 2.5mm; }
+.plain .lab{ background:#b0894a; }
+
+/* three-level toc */
+.toc .t1{ font-size:10pt; }
+.toc .t2{ display:flex; justify-content:space-between; font-size:9pt; color:var(--ink); font-weight:600; margin:1mm 0 .3mm 5mm; line-height:1.6; }
+.toc .t2 .pg{ color:var(--muted); }
+.toc .t3{ font-size:7.6pt; color:var(--muted); line-height:1.65; margin:0 0 1mm 10mm; text-align:left; }
+.toc .t3 a{ white-space:nowrap; }
+
+/* chapters */
+h3.chap{ font-size:12pt; color:var(--accent); border-bottom:.6pt solid var(--rule); padding-bottom:1mm; margin:7mm 0 2mm; break-after:avoid; }
+h3.chap .cn{ display:inline-block; min-width:12mm; color:var(--muted); font-weight:400; }
+
+/* entry extensions */
+.entry .kb{ font-size:7.8pt; color:var(--accent); border:.6pt solid var(--accent); border-radius:.8mm; padding:0 1.2mm; font-family:"GL Noto Sans CJK SC",sans-serif; }
+.entry.kaobian{ background:linear-gradient(to right, #faf4ea 0, #fff 18mm); }
+.meta{ font-size:8.4pt; color:var(--muted); margin:0 0 1mm; text-align:left; }
+.meta .mt{ display:inline-block; font-size:7.4pt; color:var(--muted); border:.5pt solid #b9a98e; border-radius:.8mm; padding:0 .9mm; margin-right:1.2mm; line-height:1.3; }
+.grid{ display:table; width:100%; border-collapse:collapse; margin:1.2mm 0 1.6mm; font-size:9pt; }
+.grid .gr{ display:table-row; }
+.grid .gk, .grid .gv{ display:table-cell; border-top:.4pt solid #e3d9c6; border-bottom:.4pt solid #e3d9c6; padding:.8mm 2mm; vertical-align:top; }
+.grid .gk{ width:20mm; white-space:nowrap; font-weight:700; color:#5b4a33; background:var(--soft); font-size:8.2pt; }
+table.subt{ width:100%; border-collapse:collapse; margin:1.4mm 0 1.8mm; font-size:8.6pt; text-align:left; }
+table.subt th{ font-size:7.8pt; font-weight:700; color:#5b4a33; background:var(--soft); border-bottom:.6pt solid var(--rule); padding:.6mm 1.6mm; }
+table.subt td{ border-bottom:.3pt solid #e3d9c6; padding:.6mm 1.6mm; vertical-align:top; }
+table.subt tr{ break-inside:avoid; }
+table.subt .sn{ width:5mm; color:var(--accent); }
+table.subt .szh{ font-weight:600; white-space:nowrap; }
+table.subt .sbo{ font-size:9pt; }
+table.subt .swy{ font-size:7.6pt; color:var(--muted); }
+table.subt .sk{ font-size:8.4pt; }
+.ed{ font-size:8.8pt; }
+.ed .lab{ background:#6d5a7a; }
+.index .ixg{ break-inside:auto; }
+.index .ixl{ font-weight:700; color:var(--accent); font-size:10pt; border-bottom:.5pt solid var(--rule); margin:2.2mm 0 1mm; break-after:avoid; font-family:"Noto Serif",serif; }
+.index .cols{ column-fill:balance; }
+.index .ix{ display:flex; justify-content:space-between; align-items:baseline; gap:2mm; overflow:visible; }
+.index .ix a{ float:none; order:2; margin-left:0; }
+.index .ix .w{ order:1; }
+
+/* group (編) level */
+.group1{ break-before:page; height:230mm; display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center; }
+.group1 .g1h{ font-size:24pt; color:var(--accent); letter-spacing:.12em; font-weight:700; margin:0 0 8mm; border:none; }
+.group1 .g1h .pn{ display:block; font-size:13pt; color:var(--muted); letter-spacing:.3em; font-weight:400; margin-bottom:4mm; }
+.group1 .g1intro{ max-width:120mm; font-size:10pt; color:var(--muted); line-height:1.9; text-align:left; }
+.g2tag{ font-size:8.5pt; color:var(--muted); letter-spacing:.15em; margin:0 0 1.5mm; }
+.toc .t0{ display:flex; justify-content:space-between; font-size:11pt; font-weight:700; color:var(--accent); margin-top:4mm; border-bottom:1pt solid var(--accent); }
+.toc .t0b{ font-size:9pt; color:var(--muted); font-style:italic; margin:2mm 0 0 2mm; }
+/* distribution map */
+.map{ break-before:page; }
+.mapnote{ font-size:9pt; color:var(--muted); margin-bottom:3mm; }
+.maph{ font-size:11.5pt; color:var(--accent); margin:4mm 0 1.5mm; }
+table.maptab{ width:100%; border-collapse:collapse; font-size:8.2pt; text-align:left; margin-bottom:3mm; }
+table.maptab th{ width:30mm; vertical-align:top; background:var(--soft); color:#5b4a33; font-weight:700; padding:1.2mm 2mm; border-bottom:.5pt solid var(--rule); }
+table.maptab td{ vertical-align:top; padding:1.2mm 2mm; border-bottom:.5pt solid var(--rule); line-height:1.75; }
+table.maptab tr{ break-inside:avoid; }
+table.maptab a{ white-space:nowrap; }
