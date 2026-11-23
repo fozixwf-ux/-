@@ -1,7 +1,9 @@
 
 /* deep volume */
 .dentry{ border-top:.8pt solid var(--rule); padding:4mm 0 3mm; }
-.dentry + .dentry{ break-before:page; }
+.dentry + .dentry{ margin-top:7mm; }
+.dhd, .eq, .alt, table.conc, .lab2, .ltag{ break-after:avoid; }
+.src blockquote, .trn, .disp, table.subt tr{ break-inside:avoid; }
 .dhd{ display:flex; align-items:baseline; gap:3mm; flex-wrap:wrap; margin-bottom:1mm; }
 .dhd .no{ font-size:9pt; color:#fff; background:var(--accent); padding:0 1.8mm; border-radius:1mm; }
 .dhd .zh{ font-size:15pt; font-weight:700; }
@@ -30,3 +32,10 @@ blockquote.boq .qt{ font-family:"Noto Serif Tibetan",serif; font-size:11pt; line
 .note{ font-size:8.6pt; color:var(--muted); }
 .src blockquote cite{ display:inline; margin-left:2.5mm; white-space:nowrap; }
 .src blockquote{ margin-bottom:1.1mm; }
+.cites{ break-before:page; }
+.cites h2{ font-size:14pt; color:var(--accent); border-bottom:.8pt solid var(--rule); padding-bottom:1mm; }
+table.ctab{ border-collapse:collapse; width:100%; font-size:7.8pt; }
+table.ctab th, table.ctab td{ border-bottom:.4pt solid var(--rule); padding:.6mm 1.4mm; text-align:left; vertical-align:top; }
+table.ctab th{ background:var(--soft); color:#5b4a33; }
+table.ctab td:nth-child(1), table.ctab td:nth-child(4){ white-space:nowrap; text-align:center; }
+table.ctab td:nth-child(2){ white-space:nowrap; }

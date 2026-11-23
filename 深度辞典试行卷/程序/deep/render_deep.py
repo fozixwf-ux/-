@@ -79,12 +79,26 @@ def entry(e):
     h.append('</article>')
     return ''.join(h)
 
+
+LANG = [('bo_cite', '藏'), ('zh_cite', '汉'), ('sa_cite', '梵')]
+def appendix():
+    rows = []
+    for e in E:
+        for L in e['layers']:
+            for f, lab in LANG:
+                if L.get(f):
+                    rows.append(f'<tr><td>{e["no"]}</td><td>{esc(S(e["zh"]))}</td><td>{esc(S(LAYER_TAG.get(L["layer"], L["layer"])))}</td><td>{lab}</td><td>{esc(S(L[f]))}</td></tr>')
+    return ('<section class="cites"><h2 id="cites">引文出处一览</h2>'
+            '<p class="note">本卷所引原文，依条目次第列其出处。藏文依宗喀巴全集与德格版电子本、汉文依 CBETA、梵文依所列校本电子本逐字比对。</p>'
+            '<table class="ctab"><thead><tr><th>条</th><th>名相</th><th>层</th><th>语</th><th>出处</th></tr></thead><tbody>'
+            + ''.join(rows) + '</tbody></table></section>')
+
 nq = {k: sum(1 for e in E for L in e['layers'] if L.get(f) ) for k, f in [('bo', 'bo_cite'), ('zh', 'zh_cite'), ('sa', 'sa_cite')]}
 front = open(os.path.join(HERE, 'front_deep.html'), encoding='utf8').read().replace('{{N_ENT}}', str(len(E))).replace('{{N_BO}}', str(nq['bo'])).replace('{{N_ZH}}', str(nq['zh'])).replace('{{N_SA}}', str(nq['sa']))
-toc = ['<nav class="toc"><h2 id="toc">目录</h2>'] + [f'<div class="t3d"><a href="#d-{e["id"]}">{e["no"]}　{esc(S(e["zh"]))}</a></div>' for e in E] + ['</nav>']
+toc = ['<nav class="toc"><h2 id="toc">目录</h2>'] + [f'<div class="t3d"><a href="#d-{e["id"]}">{e["no"]}　{esc(S(e["zh"]))}</a></div>' for e in E] + ['<div class="t3d"><a href="#cites">附　引文出处一览</a></div></nav>']
 css = open(BASE + 'tools/style.css', encoding='utf8').read() + open(os.path.join(HERE, 'deep.css'), encoding='utf8').read()
 doc = f'''<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><title>格鲁派圆满次第核心名相深度辞典</title><style>{css}</style></head><body>
-{front}{''.join(toc)}<main class="part">{''.join(entry(e) for e in E)}</main></body></html>'''
+{front}{''.join(toc)}<main class="part">{''.join(entry(e) for e in E)}</main>{appendix()}</body></html>'''
 open(os.path.join(HERE, 'out', 'deep.html'), 'w', encoding='utf8').write(doc)
 
 # ---------- exports ----------
