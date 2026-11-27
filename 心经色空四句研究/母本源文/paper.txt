@@ -1,267 +1,349 @@
 @title 空不在色外
 @subtitle ——“空即是色”的成立关系与无遮的界限
+
+@abs 摘　要：｜本文在月称（Candrakīrti）的解释框架内论证：“空即是色”所表达的，是所依个别化条件下的不离关系。反向谓述将自性之无系属于原先所论的缘生色，既不在色外另立空性，也不改变空性作为无遮的否定性质，亦不反证色法之有。论证分三层。文本层：《二万五千颂般若》两处以相即句回答“何以故”，一处说明色之空性非色、不具色之作用，一处说明色不空于空性、空性不在色外；严格同一与空性外在化两种解释均与之相违。义理层：属格“某法之空性”确定否定所关之法，具格“空于自性”确定所破；月称以空性为缘起的异名，所同一者为此色之依缘生起与此色之空性，而非色与空性两个词项；其“唯是无”（*abhāvamātra*）之说表明法性不另成实有。辩护层：无遮的判准在于否定本身是否引出替代性规定，“空即是色”所肯定者仅为空性与所依的关系；月称以诸见之止息为非有，反向谓述因此不使空性成为实有；以缘起证空，色法之有是论证的前提而非结论，不堕自性断灭并不蕴涵色法之有。瑜伽行派的三性配释、圆测的“异性相即”与窥基所载“色滅空亡”之难，作为同一经句的对照解释另行讨论。
+@kw 关键词：｜空即是色；《二万五千颂般若》；所依个别化；无遮；月称；空性之空
+
 @entitle Emptiness Is Not Elsewhere than Form: The Relation Expressed by “Emptiness Is Form” and the Limits of Non-implicative Negation
+@abs Abstract: ｜Within Candrakīrti’s interpretive framework, this article argues that “emptiness is form” expresses non-separation under basis-relative specification. The reverse predication anchors the absence of intrinsic nature (*svabhāva*) to the dependently arisen form under discussion: it posits no emptiness apart from form, leaves emptiness a non-implicative negation, and does not in turn establish the existence of form. The argument has three layers. Textually, the *Pañcaviṃśatisāhasrikā Prajñāpāramitā* twice uses the reciprocal clauses to answer “why?”: once to explain that the emptiness of form is not form and lacks its function, once to explain that form is not devoid of emptiness and emptiness is not elsewhere than form. Readings of the clauses as strict identity and readings that place emptiness outside form are thereby excluded. Doctrinally, the genitive (“the emptiness of a dharma”) fixes which dharma the negation concerns, and the instrumental (“empty of its own nature”) fixes what is negated. Candrakīrti treats emptiness as a name of dependent origination; what is identical is this form’s arising in dependence and this form’s emptiness, not form and emptiness as two terms. His account of the nature of things as mere absence (*abhāvamātra*) keeps emptiness from becoming a further entity. Defensively, a negation is non-implicative when the negation itself introduces no substitute determination, and “emptiness is form” affirms only the relation between emptiness and its basis. Since Candrakīrti holds that the cessation of views is not an existent, the reverse predication does not reify emptiness. In the proof of emptiness from dependent origination, the existence of form is a premise, not a conclusion; freedom from intrinsic annihilation does not entail that form exists. The Yogācāra assignment of the clauses to the three natures, Woncheuk’s “reciprocity of different natures,” and the objection recorded by Kuiji are treated as contrasting interpretations.
+@kw Keywords: ｜emptiness is form; *Pañcaviṃśatisāhasrikā*; basis-relative specification; non-implicative negation; Candrakīrti; emptiness of emptiness
 
-@label 摘要
-@abstract 本文在月称的解释框架下论证一个命题：“空即是色”所表达的，是所依限定下的不离。反向谓述把自性之无锚定在原先所论的缘生色上，既不在色外另立空性，也不改变空性作为无遮的否定性质，更不反过来证成色法之有。证据分三层。经文层：《二万五千颂般若》两处以相即句作“何以故”的答句，一处说明色之空性非色、不起色之作用，一处说明色不空于空性、空性不在色外；严格同一与空性外在化两种读法因此都被排除。义理层：属格“某法之空性”确定否定关于何法，具格“空于自性”确定所破；月称以空性为缘起的异名，同一的是此色之依缘而起与此色之空性，不是色与空性两个词项；又以“唯是无”（*abhāvamātra*）说明法性不另成实有。防御层：无遮的判准在于否定本身是否引出替代的规定，“空即是色”所肯定的只是空性与所依的关系；月称说诸见之止息不是有，反向谓述不使空性成为一个有；以缘起证空，色法之有是前提而非结论，不堕自性断灭推不出色法之有。瑜伽行派的三性配释、圆测的异性相即与窥基所载“色滅空亡”之难，作为同一经句的对照读法另论。
+@h1 1　引言
 
-@label 关键词
-@abstract 空即是色；《二万五千颂般若》；所依个别化；无遮；月称；空空
+《心经》“色即是空，空即是色”的义理困难，在《二万五千颂般若》（*Pañcaviṃśatisāhasrikā Prajñāpāramitā*，下称《二万五千颂》）的相应经文中更为显明。{{fn:本文所用梵文校本、汉文藏经的略语及引用方式，见文末“略语与版本”。}}该经先说色之空性非色、色之空性不具色之作用，继以“色与空性非相他异，色即空性，空性即色”为此二句的理由。若相即为严格同一，此理由即取消其所欲说明的差别。同经另一段又以“色即空性，空性即色”说明色不空于空性、空性不在色外。相即二句在一处为非同一的理由，在另一处为不离的理由。问题因此不在于是否承认色空不二，而在于相即如何同时容纳这两项规定。
 
-@label Abstract
-@abstract Within Candrakīrti’s interpretive framework, this article argues for a single thesis: “emptiness is form” expresses non-separation under basis-relative specification. The reverse predication anchors the absence of intrinsic nature (*svabhāva*) to the dependently arisen form under discussion. It posits no emptiness apart from form, leaves emptiness a non-implicative negation, and does not in turn establish the existence of form. The evidence comes in three layers. Textually, the *Pañcaviṃśatisāhasrikā* twice uses the reciprocal clauses to answer “why?”: once to explain that the emptiness of form is not form and does not perform its function, once to explain that form is not devoid of emptiness and emptiness is not elsewhere than form. Readings of the clauses as strict identity, and readings that place emptiness outside form, are both excluded. Doctrinally, the genitive (“the emptiness of a dharma”) fixes which dharma the negation concerns, and the instrumental (“empty of its own nature”) fixes what is negated. Candrakīrti treats emptiness as a name of dependent origination: what is identical is this form’s arising in dependence and this form’s emptiness, not form and emptiness as two terms. His account of the nature of things as mere absence (*abhāvamātra*) keeps emptiness from becoming a further entity. Defensively, a negation is non-implicative when the negation itself introduces no substitute determination, and “emptiness is form” affirms only the relation between emptiness and its basis. Candrakīrti holds that the mere cessation of views is not an existent, so the reverse predication does not make emptiness one. In the proof of emptiness from dependent origination, the existence of form is a premise, not a conclusion; freedom from intrinsic annihilation does not establish that form exists. The Yogācāra assignment of the clauses to the three natures, Woncheuk’s “reciprocity of different natures,” and the objection recorded by Kuiji serve as contrasting readings.
+另一困难涉及否定与肯定的关系。空性是否定：色之空性，即此色上自性之无。“空即是色”却以空性为主词，作肯定的谓述。此一谓述何以不由否定引出肯定之法，又何以不使空性本身成为实有？
 
-@label 略语与版本
-@ref ASBh　*Abhidharmasamuccayabhāṣya*. Ed. Nathmal Tatia. Tibetan Sanskrit Works Series 17. Patna, 1976. 标页。
-@ref Dutt　*Pañcaviṃśatisāhasrikā Prajñāpāramitā*. Ed. Nalinaksha Dutt. Calcutta Oriental Series 28. Calcutta, 1934. 标页、行（如 45.11 为第45页第11行）。
-@ref Kimura　*Pañcaviṃśatisāhasrikā Prajñāpāramitā* I-1, I-2. Ed. Takayasu Kimura. Tokyo: Sankibo Busshorin, 2007, 2009. 标分册与页（如 I-1: 64）。
-@ref Hṛd　*Prajñāpāramitāhṛdayasūtra*. In P. L. Vaidya, ed., *Mahāyāna-sūtra-saṃgrahaḥ*, Part 1. Buddhist Sanskrit Texts 17. Darbhanga: Mithila Institute, 1961. 本文所引一段，广本（*vistaramātṛkā*）在第98页；略本（*saṃkṣiptamātṛkā*）此段文字有异，另注。
-@ref MMK　Nāgārjuna, *Mūlamadhyamakakārikā*. 颂文依 Pras 所录。
-@ref Pras　Candrakīrti, *Prasannapadā*. In P. L. Vaidya, ed., *Madhyamakaśāstra of Nāgārjuna, with the Commentary: Prasannapadā by Candrakīrti*. Buddhist Sanskrit Texts 10. Darbhanga, 1960. 以所释颂号标位置。
-@ref TrBh　Sthiramati, *Triṃśikāvijñaptibhāṣya*. In Hartmut Buescher, *Sthiramati’s Triṃśikāvijñaptibhāṣya: Critical Editions of the Sanskrit Text and its Tibetan Translation*. Wien, 2007. 以所释颂及颂句标位置。
-@ref Vkn　*Vimalakīrtinirdeśa: A Sanskrit Edition Based upon the Manuscript Newly Found at the Potala Palace*. Ed. Study Group on Buddhist Sanskrit Literature. Tokyo: Taisho University Press, 2006. 标章、节。
-@ref T, X　《大正新脩大藏經》《卍新纂續藏經》。标册、经号、页、栏、行（如 T33, no. 1711, p. 546a5–6）。汉文据 CBETA 电子佛典，标点从 CBETA。
-@noindent 梵文引文据上列校本的电子转录（GRETIL）；分词与拟校在相关注释中说明。梵文的汉译，凡未注译者，均为笔者所译。文中所说“系词”，指汉译“即是”与梵文名词句中主词、述词的关系，梵文原句并无系动词。
+本文在月称的解释框架内回答上述二问，论证如下命题：“空即是色”所表达的，是所依个别化条件下的不离关系。反向谓述将自性之无系属于原先所论的缘生色；它不在色外另立空性，不改变空性作为无遮的否定性质，亦不反证色法之有。第2节据《二万五千颂》的两条理由链确定经文的限制条件；第3节据此排除四种解释模型；第4节以属格、具格及月称的法性说重构相即关系；第5、6节分别处理无遮与断见问题。瑜伽行派对同一经句的三性配释以及圆测、窥基的注释，于第7、8节作为对照。
 
-@h1 一、问题
+@h1 2　文本依据：《二万五千颂》的两条理由链
 
-“空即是色”的困难，在大品中比在《心经》中看得清楚。《二万五千颂般若》说色之空性不是色，又说色之空性不起色的作用，然后以“色与空性非相他异，色即空性，空性即色”作这两句的理由。相即若是严格同一，这个理由就取消了它要说明的差别。同一部经的另一段，又以“色即空性，空性即色”说明色不空于空性、空性不在色外。相即二句在一处为非同一作理由，在另一处为不离作理由。问题因此不在于承不承认色空不二，而在于相即怎样同时容纳这两项。
+@h2 2.1　第一理由链：相即与法相差别
 
-难处还有另一面。空性是否定：色之空性，是此色上自性之无。“空即是色”却以空性为主词，作肯定的判断。这一判断凭什么不从否定中引出一个肯定之法，又凭什么不把空性本身立为一个有？
+罗什译《摩诃般若波罗蜜经》（下称罗什译本）〈习应品〉作：
 
-本文在月称的解释框架下回答这两个问题，论证一个命题：“空即是色”所表达的是所依限定下的不离。反向谓述把自性之无锚定在原先所论的缘生色上；它不在色外另立空性，不改变空性作为无遮的否定性质，也不反过来证成色法之有。第二节由大品两段理由链确定经文的限制，第三节据此排除四种读法，第四节以属格、具格与月称的法性说重构这一关系，第五、六节回答无遮与断见两难。瑜伽行派以三性配释同一经句，圆测、窥基各有解释，第七、八节把它们作为对照。
+> 舍利弗！色空中無有色，受想行識空中無有識。舍利弗！色空故無惱壞相，受空故無受相，想空故無知相，行空故無作相，識空故無覺相。何以故？舍利弗！非色異空、非空異色，色即是空、空即是色，受想行識亦如是。舍利弗！是諸法空相，不生不滅、不垢不淨、不增不減。是空法非過去、非未來、非現在，是故空中無色，無受想行識……{{fn:T08, no. 223, p. 223a10–17。}}
 
-@h1 二、出处：大品中的理由链
-
-罗什译《摩诃般若波罗蜜经·习应品》中，这几句前后相连：
-
-> 舍利弗！色空中無有色，受想行識空中無有識。舍利弗！色空故無惱壞相，受空故無受相，想空故無知相，行空故無作相，識空故無覺相。何以故？舍利弗！非色異空、非空異色，色即是空、空即是色，受想行識亦如是。舍利弗！是諸法空相，不生不滅、不垢不淨、不增不減。是空法非過去、非未來、非現在，是故空中無色，無受想行識……{{fn:T08, no. 223, p. 223a10–17.}}
-
-传为罗什所译的《摩诃般若波罗蜜大明呪经》，自“色空故無惱壞相”至“是故空中無色”，与此文字相同（标点不计）。{{fn:T08, no. 250, p. 847c11–17。《心经》与 T223 的关系，参看 Jan Nattier, “The Heart Sūtra: A Chinese Apocryphal Text?” *Journal of the International Association of Buddhist Studies* 15, no. 2 (1992): 153–223。本文只用两本文字相同这一事实，不涉成立史。}}其中“何以故”之后的四句，是前文的解释。梵本的解释次第更为分明：
+传为罗什所译的《摩诃般若波罗蜜大明呪经》，自“色空故無惱壞相”至“是故空中無色”，与此文字相同（标点不计）。{{fn:T08, no. 250, p. 847c11–17。《心经》与罗什译本的关系，参看 Jan Nattier, “The Heart Sūtra: A Chinese Apocryphal Text?” *Journal of the International Association of Buddhist Studies* 15, no. 2 (1992): 153–223。本文仅取两本文字相同这一事实，不涉成立史。}}“何以故”以下四句是对前文的解释。梵本的解释次第更为明晰：
 
 > tat kasya hetoḥ? na hi kaścid dharmaḥ kvacid dharme samavasarati prakṛtiśūnyatām upādāya, tat kasya hetoḥ? tathā hi śāriputra yā rūpasya śūnyatā na tad rūpam, yā vedanāyāḥ śūnyatā na sā vedanā, … tat kasya hetoḥ? tathā hi yā rūpaśūnyatā na sā rūpayati, yā vedanāśūnyatā na sā vedayati, yā saṃjñāśūnyatā na sā saṃjānīte, yā saṃskāraśūnyatā na sābhisaṃskāroti, yā vijñānaśūnyatā na sā vijānāti, tat kasya hetoḥ? tathā hi śāriputra nānyad rūpam anyā śūnyatā, nānyā śūnyatā anyad rūpaṃ, rūpam eva śūnyatā śūnyataiva rūpam, …{{fn:Kimura I-1: 63–64；Dutt 45.09–46.03。省略号处为其余诸蕴的同型句。}}
+>> 何以故？以本性空故，无有一法与一法和合。何以故？舍利弗，色之空性非色，受之空性非受……何以故？色之空性不作色，受之空性不领受，想之空性不取像，行之空性不造作，识之空性不了别。何以故？舍利弗，色与空性非相他异，空性与色非相他异；色即空性，空性即色。
 
-何以故？以本性空故，无有一法与一法和合。何以故？舍利弗，色之空性非色，受之空性非受……何以故？色之空性不作色，受之空性不领受，想之空性不取像，行之空性不造作，识之空性不了别。何以故？舍利弗，色与空性非相他异，空性与色非相他异；色即空性，空性即色。
+下文以“不异二句”指 *nānyad rūpam anyā śūnyatā, nānyā śūnyatā anyad rūpam*，以“相即二句”指 *rūpam eva śūnyatā śūnyataiva rūpam*。经文连用四个 *tat kasya hetoḥ*（何以故），每一答句解释其前一句：不异与相即四句解释“色之空性不作色”等五句，后者又解释“色之空性非色”等五句。五句的主词皆为空性，阴性代词 *sā* 回指 *śūnyatā*；所否定的是各蕴之空性具有该蕴的性相与作用，而非某一色法于某一时刻恰未起某种作用。{{fn:罗什以“惱壞相”“受相”“知相”“作相”“覺相”译五蕴之作用（T08, no. 223, p. 223a11–12），玄奘作“變礙相”“領納相”“取像相”“造作相”“了別相”（T07, no. 220, p. 14a9–11）。月称释“名色”，说“rūpyata iti rūpam | bādhyata ity arthaḥ”（Pras ad MMK XXVI.2），可作“恼坏”一义的参照；*rūpayati* 的词法不由这些对应决定，本文的论证亦不依赖之。}}
 
-下文所说“不异二句”，指 *nānyad rūpam anyā śūnyatā, nānyā śūnyatā anyad rūpam*；“相即二句”，指 *rūpam eva śūnyatā śūnyataiva rūpam*。经文连用四个 tat kasya hetoḥ，每一问之后的答句解释它前面的一句。不异与相即四句处在末端，所解释的是“色之空性不作色”等五句；这五句又解释“色之空性非色”等五句。五句的主词都是空性：阴性代词 *sā* 回指 *śūnyatā*，所否定的是各蕴之空性具有该蕴的相应性相与作用，不是说某一色法在某一时刻恰好没有作某一动作。{{fn:罗什以“惱壞相”“受相”“知相”“作相”“覺相”译五蕴之作用（T08, no. 223, p. 223a11–12），玄奘作“變礙相”“領納相”“取像相”“造作相”“了別相”（T07, no. 220, p. 14a9–11）。月称释名色，说“rūpyata iti rūpam | bādhyata ity arthaḥ”（Pras ad MMK XXVI.2），可作“恼坏”一义的参照；*rūpayati* 的词法不由这些对应决定，本文的论证也不依赖它。}}
+若相即二句表示严格同一，即色与空性所指相同，述词在同一意义与条件下可以互换，则由“受之空性不领受”与“空性即受”，可得“受不领受”，解释项便取消了被解释项。关于某蕴的规定不能无条件转归其空性；相即二句既为此否定的理由，即不能是严格同一。
 
-相即二句若表示严格同一，也就是色与空性所指相同、述词在同一意义与条件下可以互换，那么由“受之空性不领受”与“空性即受”，便得到“受不领受”。解释取消了它要解释的东西。关于某蕴的相应规定，不能无条件地转归其空性；相即二句既被用作这一否定的理由，就不能是严格同一。
-
-紧接着，经文说：
+经文继而说：
 
 > śūnyatā śāriputra notpadyate na nirudhyate, na saṃkliśyate na vyavadāyate, na hīyate na vardhate, nātītā nānāgatā na pratyutpannā, yā ca īdṛśī na tatra rūpaṃ na vedanā na saṃjñā na saṃskārā na vijñānaṃ …{{fn:Kimura I-1: 64；Dutt 46.10–12（Dutt 作 nātītā nāgatā）。}}
+>> 舍利弗，空性不生不灭，不染不净，不减不增，非过去、非未来、非现在；如是者之中，无色、无受、无想、无行、无识。
 
-舍利弗，空性不生不灭，不染不净，不减不增，非过去、非未来、非现在；如是者之中，无色、无受、无想、无行、无识。
+相即之后，经文仍以不生不灭规定空性，并说空性之中无色。
 
-经文在说完相即之后，仍以不生不灭规定空性，仍说空性之中无色。
+@h2 2.2　第二理由链：相即与不离
 
-同一部经的另一段，理由链是这样的：
+同经另一段的理由链如下：
 
-> tat kasya hetoḥ/ prakṛtir asyaiṣā/ tathā hi śūnyatayā na rūpaṃ śūnyaṃ na vedanā na saṃjñā na saṃskārā na vijñānaṃ śūnyatayā śūnyaṃ nānyatra rūpāc chūnyatā … / tat kasya hetoḥ/ rūpam eva śūnyatā … śūnyataiva rūpaṃ … / tat kasya hetoḥ/ tathā hi nāmamātram idaṃ yad idaṃ bodhisattva iti/ … nāmamātram idaṃ rūpaṃ vedanā saṃjñā saṃskārāḥ vijñānam/ … tāni bodhisattvaḥ prajñāpāramitāyāṃ caran sarvanāmāni na samanupaśyati asamanupaśyan nābhiniviśate/{{fn:Kimura I-1: 53–54；Dutt 38.02–19。《集论释》所引经文在 na śūnyatayā 与相即二句之间多出 yā rūpasya śūnyatā na tad rūpam（ASBh 138），玄奘译第二会（T07, no. 220, p. 11c2–3）与无性释所引（T31, no. 1598, p. 405b15–17）也有“色空非色”；Dutt、Kimura 两本此处无此句。本文据两校本立论；在两种传本中，相即二句都处在理由的位置。}}
+> tat kasya hetoḥ/ prakṛtir asyaiṣā/ tathā hi śūnyatayā na rūpaṃ śūnyaṃ na vedanā na saṃjñā na saṃskārā na vijñānaṃ śūnyatayā śūnyaṃ nānyatra rūpāc chūnyatā … / tat kasya hetoḥ/ rūpam eva śūnyatā … śūnyataiva rūpaṃ … / tat kasya hetoḥ/ tathā hi nāmamātram idaṃ yad idaṃ bodhisattva iti/ … nāmamātram idaṃ rūpaṃ vedanā saṃjñā saṃskārāḥ vijñānam/ … tāni bodhisattvaḥ prajñāpāramitāyāṃ caran sarvanāmāni na samanupaśyati asamanupaśyan nābhiniviśate/{{fn:Kimura I-1: 53–54；Dutt 38.02–19。《阿毗达磨集论释》所引经文于 na śūnyatayā 与相即二句之间多出 yā rūpasya śūnyatā na tad rūpam（ASBh 138）；玄奘第二会（T07, no. 220, p. 11c2–3）与无性释所引（T31, no. 1598, p. 405b15–17）亦有“色空非色”。Dutt、Kimura 两本此处无此句。本文据两校本立论；在两种传本中，相即二句均处于理由的位置。}}
+>> 何以故？此是其本性。色不空于空性，受、想、行、识不空于空性；空性不在色外……何以故？色即空性……空性即色……何以故？所谓菩萨，唯是名……色、受、想、行、识，唯是名……菩萨行般若波罗蜜时，不见一切名；不见，故不执著。
 
-何以故？此是其本性。色不空于空性，受、想、行、识不空于空性；空性不在色外……何以故？色即空性……空性即色……何以故？所谓菩萨，唯是名……色、受、想、行、识，唯是名……菩萨行般若波罗蜜时，不见一切名；不见，故不执著。
+此处相即二句单独作答，所解释者为二句：色不空于空性，空性不在色外（“不空于空性”的读法见2.5节）。相即二句本身又以“唯是名”为理由，终于菩萨不见诸名、不见故不执著。{{fn:Dutt 38.11–19。其间“如幻”为“唯是名”的说明（tathā hi māyopamaṃ rūpaṃ … māyā ca nāmamātraṃ），位于相即句之上。Attwood 认为色空句由“色如幻”之喻改写而来（Jayarava Attwood, “Form is (Not) Emptiness: The Enigma at the Heart of the Heart Sutra,” *Journal of the Oxford Centre for Buddhist Studies* 13 (2017): 52–80）；本文仅讨论现存《二万五千颂》中相即句的解释功能，不涉成立史。}}第一理由链保留蕴与其空性在作用上的差别，第二理由链排除空性的外在化。二者合观，相即二句须同时满足两项条件：色之空性非色，亦不在色外。进一步的存在论结论，经文本身并未提供。两条理由链的结构见表1。
 
-这里相即二句单独作答，所解释的是两句：色不空于空性，空性不在色外。相即二句自身又由“唯是名”得到解释，最后归结于菩萨不见诸名、不见故不执著。{{fn:Dutt 38.11–19。其间“如幻”是“唯是名”的说明（tathā hi māyopamaṃ rūpaṃ … māyā ca nāmamātraṃ），位于相即句之上。Attwood 认为色空句由“色如幻”之喻改写而来（Jayarava Attwood, “Form is (Not) Emptiness: The Enigma at the Heart of the Heart Sutra,” *Journal of the Oxford Centre for Buddhist Studies* 13 (2017): 52–80）；本文只讨论现存大品中相即句的解释功能，不涉成立史。}}第一段保留蕴与其空性在作用上的差别，这一段排除空性的外在化。两段合起来，相即句须同时满足两项：色之空性不是色，也不在色外。存在论上的进一步结论，经文本身不提供。
+@caption 表1　《二万五千颂》两条理由链的结构
+@table 1300,3000,2000,2726 cllll
+| 理由链 | 被解释项 | 答句（理由） | 后续说明 |
+| 第一理由链 | 色之空性非色；色之空性不作色 | 不异二句、相即二句 | 空性不生不灭、非三世；空性中无色 |
+| 第二理由链 | 色不空于空性；空性不在色外 | 相即二句 | 唯是名；如幻；不见故不执著 |
+@endtable
+@tnote 资料来源：第一理由链见 Kimura I-1: 63–64，Dutt 45.09–46.12；第二理由链见 Kimura I-1: 53–54，Dutt 38.02–19。
 
-这一结构在大品中是一个固定格式。木村本 I-1 第162–170页，经文以“不应住”（*na sthātavyam*）为题，把同一格式依次施于诸蕴、诸根、诸境、诸识、诸念处、诸波罗蜜、文字、神通，诸蕴之无常、苦、无我、寂静，以及真如、法性、法界、法定、实际、陀罗尼门。以真如为例：
+@h2 2.3　“不应住”通式
 
-> tathā hi tathatā tathatāsvabhāvena śūnyā, yā ca bhagavaṃs tathatāyāḥ śūnyatā na sā tathatā, na cānyatra tathatāyāḥ śūnyatā, tathataiva śūnyatā śūnyataiva tathatā.{{fn:Kimura I-1: 169；Dutt 132.04–05。无常一条见 Kimura I-1: 168，Dutt 131.06–09；诸蕴一条见 Kimura I-1: 162–163，作 rūpaṃ rūpatvena śūnyam。法性一条见 Kimura I-1: 170；Dutt 132.08 印本作略，GRETIL 电子本以双花括号补出，本文关于法性一条的判断以 Kimura 本为据。}}
+同一结构在《二万五千颂》中构成通式。Kimura I-1: 162–170 以“不应住”（*na sthātavyam*）为题，将之依次施于诸蕴、诸根、诸境、诸识、诸念处、诸波罗蜜、文字、神通，诸蕴之无常、苦、无我、寂静，以及真如、法性、法界、法定、实际、陀罗尼门。以真如为例：
 
-真如空于真如之自性；真如之空性非真如；空性不在真如之外；真如即空性，空性即真如。
+> tathā hi tathatā tathatāsvabhāvena śūnyā, yā ca bhagavaṃs tathatāyāḥ śūnyatā na sā tathatā, na cānyatra tathatāyāḥ śūnyatā, tathataiva śūnyatā śūnyataiva tathatā.{{fn:Kimura I-1: 169；Dutt 132.04–05。无常一条见 Kimura I-1: 168，Dutt 131.06–09；诸蕴一条见 Kimura I-1: 162–163，作 rūpaṃ rūpatvena śūnyam。法性一条见 Kimura I-1: 170；Dutt 132.08 印本作略，此条据 Kimura 本。}}
+>> 真如空于真如之自性；真如之空性非真如；空性不在真如之外；真如即空性，空性即真如。
 
-凡展开的条目，都有这四个成分：某法空于其自性；某法之空性非某法；二者不相离；某法即空性，空性即某法。第三项的方向不一：诸蕴、无常等条作 *na cānyatra śūnyatāyā rūpam*，“色不在空性之外”；真如、法性、法界、法定、实际与陀罗尼门诸条作“空性不在某法之外”。两个方向都出现，“不在……外”不宜读作一个容器对另一对象的单向包含。施用的对象包括真如这类不生之法，所以“某法之空性非某法”所依据的，不是有为与无为之别。诸条同以“不应住”为题，排除把某法及其空性分别立为可以独立执取的对象；这是共同的观行要求，不预设共同的因果理证。下文的缘起理证只及缘生法。
+凡展开的条目均具四项：某法空于其自性；某法之空性非某法；二者不相离；某法即空性，空性即某法。第三项的方向不一：诸蕴、无常等条作 *na cānyatra śūnyatāyā rūpam*（色不在空性之外），真如、法性、法界、法定、实际与陀罗尼门诸条作“空性不在某法之外”。两种方向并存，故“不在……之外”不宜解作容器对所容之物的单向包含。施用对象包括真如等不生之法，故“某法之空性非某法”不以有为、无为之别为依据。诸条同以“不应住”为题，排除将某法及其空性分别立为可独立执取的对象；这是共同的观行要求，不预设共同的因果理证。本文的缘起理证仅及缘生法。
 
-现存《心经》与大品此段有高度相近的表达，结构却不同。本文所据 Vaidya 本《心经》作：
+@h2 2.4　《心经》及诸汉译的结构差异
 
-> rūpaṃ śūnyatā, śūnyataiva rūpam | rūpān na pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam | yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpam | … tasmāt tarhi śāriputra śūnyatāyāṃ na rūpam …{{fn:Hṛd 98（广本）。略本此段作 iha śāriputra rūpaṃ śūnyatā, śūnyataiva rūpam | rūpān na pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam | yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpam ||，其后作 tasmāc chāriputra śūnyatāyāṃ na rūpam。《心经》梵本诸写本此段读法不尽相同，下文的比较只据 Vaidya 本。}}
+现存《心经》与《二万五千颂》此段措辞相近，结构不同。本文所据 Vaidya 本《心经》作：
 
-这里未见“色之空性非色”与“不作色”两层，也未见 tat kasya hetoḥ；第一段的“非相他异”（*nānyad … anyā*）在此作“不相别离”（*na pṛthak*），意思合于第二段的“不在色外”。大品两句都用 *eva*，此本只在后一句有，所以 *śūnyataiva* 的强调不能用来区分两句的方向。玄奘一人所译的两本也显出同一差别：第二会此段有三个“何以故”与“非過去非未來非現在”，他所译《心经》的四句与之文字全同，这些却都不在其中。{{fn:T07, no. 220, p. 14a6–16；T08, no. 251, p. 848c7–10。}}《心经》保留了相即句，没有保留使它成为理由的上下文。
+> rūpaṃ śūnyatā, śūnyataiva rūpam | rūpān na pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam | yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpam | … tasmāt tarhi śāriputra śūnyatāyāṃ na rūpam …{{fn:Hṛd 98（广本）。略本此段作 iha śāriputra rūpaṃ śūnyatā, śūnyataiva rūpam | rūpān na pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam | yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpam ||，其后作 tasmāc chāriputra śūnyatāyāṃ na rūpam。《心经》梵本诸写本此段读法不尽相同，本文的比较仅据 Vaidya 本。}}
+>> 色即空性，空性即色；空性不离色，色不离空性；凡色即是空性，凡空性即是色。……是故舍利弗，空性中无色。
 
-第二会另一处与上引第二段相应：
+此本不见“色之空性非色”与“不作色”两层，亦无 *tat kasya hetoḥ*；第一理由链的“非相他异”（*nānyad … anyā*）在此作“不相别离”（*na pṛthak*），其义合于第二理由链的“不在色外”。《二万五千颂》两句均用 *eva*，此本仅后句有之，故 *śūnyataiva* 的强调不能用以区分两句的方向。玄奘一人所译的两本亦显示同一差别：玄奘译《大般若波罗蜜多经》第二会（下称玄奘第二会）此段有三个“何以故”及“非過去非未來非現在”；玄奘译《心经》的四句与之文字全同，而二者皆不载。{{fn:T07, no. 220, p. 14a6–16；T08, no. 251, p. 848c7–10。}}《心经》保留了相即句，未保留使之成为理由的上下文。
+
+@h2 2.5　具格 *śūnyatayā* 的两种读法
+
+玄奘第二会与第二理由链相应之处作：
 
 > 所以者何？色自性空，不由空故。色空非色，色不離空，空不離色，色即是空，空即是色。{{fn:T07, no. 220, p. 11c2–3。初会同文，见 T05, no. 220, p. 17c2–3。}}
 
-“不由空故”对应 *śūnyatayā na rūpaṃ śūnyam*；《集论释》所引本作 *rūpaṃ svabhāvena śūnyaṃ na śūnyatayā*，与“色自性空，不由空故”相当。*śūnya* 带具格，所表的是所空之物，“空于……”。《集论释》正这样解释这一段：*nāma svabhāvena śūnyam* 释为遮遣不实遍计之自性（*abhūtaparikalpasya svabhāvapratiṣedhāt*），*na śūnyatayā* 释为离性“一切时有”，名与色并不空于空性；玄奘译《杂集论》作“名自性空非空性、色自性空非空性”。玄奘在第二会以及两部《摄论释》的引文中却译作“不由空故”，以具格为所由。{{fn:ASBh 138；T31, no. 1606, p. 764b21–22（经文）、764c07–11（释文）。“不由空故”见 T07, no. 220, p. 11c2；T31, no. 1597, p. 342c14；T31, no. 1598, p. 405b16。同经又说 sarvadharmāḥ svabhāvena śūnyā na śūnyatayā，在“不应于空性起诤”（śūnyatāyāṃ vivādo na kartavyaḥ）之下（Kimura I-2: 97；Dutt 222.15）。}}依前一读，此句说色不缺其空性，本身就是不离；依后一读，此句只排除空性从外使色成空，不离仍须由下句 *nānyatra rūpāc chūnyatā* 说出。本文从前一读，下文所说“空于自性”，即指这一具格。
+“不由空故”对应 *śūnyatayā na rūpaṃ śūnyam*；《阿毗达磨集论释》（下称《集论释》）所引经文作 *rūpaṃ svabhāvena śūnyaṃ na śūnyatayā*，与“色自性空，不由空故”相当。*śūnya* 与具格连用，通常表示所空之物，即“空于……”。《集论释》即如此解释：*nāma svabhāvena śūnyam* 释为遮遣不实遍计之自性（*abhūtaparikalpasya svabhāvapratiṣedhāt*），*na śūnyatayā* 释为离性“一切时有”（*virahitatāyāḥ sarvadāstitvāt*），即名与色不空于空性；玄奘译《大乘阿毗达磨杂集论》作“名自性空非空性、色自性空非空性”。玄奘第二会及两部《摄大乘论释》的引文则作“不由空故”，以具格表所由。{{fn:ASBh 138；T31, no. 1606, p. 764b21–22（经文）、p. 764c07–11（释文）。“不由空故”见 T07, no. 220, p. 11c2；T31, no. 1597, p. 342c14；T31, no. 1598, p. 405b16。同经另有 sarvadharmāḥ svabhāvena śūnyā na śūnyatayā，在“不应于空性起诤”（śūnyatāyāṃ vivādo na kartavyaḥ）之下（Kimura I-2: 97；Dutt 222.15）。}}依前一读，此句谓色不缺其空性，本身即表不离；依后一读，此句仅排除空性自外使色成空，不离须由下句 *nānyatra rūpāc chūnyatā* 表出。本文从前一读，下文“空于自性”即指此具格用法。
 
-《大智度论》释罗什本第一段，正把四句当作解释来读。论文先问次第，再说四句是“因緣”：
+玄奘第二会的“色空非色”与第一理由链的“諸色空，彼非色”，是同一梵句 *yā rūpasya śūnyatā na tad rūpam* 的两种译法；罗什译本相应处作“色空中無有色”，用处格表述。{{fn:T08, no. 223, p. 223a10。其前“無有法與法合者，其性空故”，对应 Kimura I-1: 63，Dutt 45.09–10。两者所据梵本未必同文，此处仅指出位置相应。}}
 
-> 【經】「舍利弗！色空故無惱壞相，受空故無受相，想空故無知相，行空故無作相，識空故無覺相。」【論】問曰：此義有何次第？答曰：先說五眾空中無五眾，今是中說其因緣。五眾各各自相不可得故，故言「五眾空中無五眾」。【經】「何以故？舍利弗！非色異空，非空異色，色即是空，空即是色；受、想、行、識亦如是。」【論】釋曰：佛重說因緣。若五眾與空異，空中應有五眾；今五眾不異空、空不異五眾，五眾即是空、空即是五眾。以是故空不破五眾。所以者何？是中佛自說因緣……{{fn:T25, no. 1509, p. 327c17–27.}}
+@h2 2.6　《大智度论》的释读
 
-论文以“五眾各各自相不可得”说明“五眾空中無五眾”，“空中无色”说的是色的自相不可得，不要求把空性看作容纳色法的处所。“若五眾與空異，空中應有五眾”依这一自注读：五蕴若是与空无关的另一物，空就说明不了五蕴自相的不可得；五蕴不异于空，“空中无五蕴”便落在五蕴自身的考察上，不是把五蕴逐出一个叫作空的境域。论文由此推出“空不破五眾”，理由是其后经文的“是空法，非過去、非未來、非現在”：空若像水灭火那样灭色，色就须在空出现以前尚未成空，空也须是一个在时间中出现的东西，这一前提不成立。论文先前“若空來則滅色”的水火之喻，依此只取性相违一义。{{fn:T25, no. 1509, p. 327c12–14（水火之喻）、327c26–29（“是中佛自說因緣”）。依论文前后的推论，水火之喻只取性相违一义，论文自己没有这样明说。}}
+《大智度论》释罗什译本第一理由链，明以四句为解释：
 
-@h1 三、四种读法
+> 【經】「舍利弗！色空故無惱壞相，受空故無受相，想空故無知相，行空故無作相，識空故無覺相。」【論】問曰：此義有何次第？答曰：先說五眾空中無五眾，今是中說其因緣。五眾各各自相不可得故，故言「五眾空中無五眾」。【經】「何以故？舍利弗！非色異空，非空異色，色即是空，空即是色；受、想、行、識亦如是。」【論】釋曰：佛重說因緣。若五眾與空異，空中應有五眾；今五眾不異空、空不異五眾，五眾即是空、空即是五眾。以是故空不破五眾。所以者何？是中佛自說因緣……{{fn:T25, no. 1509, p. 327c17–27。}}
 
-以上经文给“空即是色”的解释设下了限制：相即二句须能为非同一与不离同时作理由；空性不具有相应之蕴的作用，不生不灭；空性之中不得色的自相；空性不是使色成空的力量；格式逐法施用。下面四种可能的解释模型，前三种各与其中一项相违，第四种是推论本身不成立。
+论以“五眾各各自相不可得”说明“五眾空中無五眾”；“空中无色”指色的自相不可得，并不要求将空性理解为容纳色法的处所。“若五眾與空異，空中應有五眾”当依此自注理解：五蕴若是与空无关的另一物，空即不能说明五蕴自相的不可得；五蕴不异于空，“空中无五蕴”便落实于对五蕴自身的考察，而非将五蕴逐出一个称为“空”的领域。论由此推出“空不破五眾”，理由是其后经文的“是空法，非過去、非未來、非現在”：若空如水灭火般灭色，色须在空出现之前尚未成空，空亦须为时间中出现之物，而此前提不能成立。论先前“若空來則滅色”的水火之喻，据此仅取性相相违一义。{{fn:T25, no. 1509, p. 327c12–14（水火之喻）、327c26–29（“是中佛自說因緣”）。水火之喻仅取性相相违一义，系依论文前后推论所作的解释，论文本身未明言。}}
 
-严格同一的模型，以色之空性与色所指相同，述词在同一意义与条件下可以互换。它与大品第一段的解释结构相违，也与“某法之空性非某法”这一格式成分相违。较强的形式是方面同一：同一个对象，就世俗说有生灭，就胜义说无生灭，两个述词各有限定，不违同一律。这一模型须说明同一的是什么。若同一的是所论的对象，色及其无自性便是关于这一对象的两项判断，同一的是所依，不是色与空性两个词项，这与下节的解释一致；若仍主张色与其空性所指严格同一，就须说明大品为什么以空性为“不作色”的主词（*sā*），又为什么用相即二句解释“空性不在色外”。宗喀巴以“体一返异”（*ngo bo gcig la ldog pa tha dad*）说二谛，若不许述词无条件互换，便不构成这里的反例。{{fn:福田洋一「ツォンカパ後期中観思想における二諦の同一性と別異性」『大谷大学真宗総合研究所研究紀要』30（2013）：89–101。本文不处理藏地文献。}}
+@h1 3　四种解释模型的排除
 
-类包含的模型，以“空即是色”为“空性属于色类”，或“凡空性皆是色”。前者须给出把色之空性归入色类的根据，大品所否定的恰是空性具有色的作用；后者不能逐法施用，受、想、行、识的空性以至真如的空性，都要成为色。
+上述经文为“空即是色”的解释设定了以下条件：相即二句须同时为非同一与不离的理由；空性不具相应之蕴的作用，不生不灭；空性中不得色之自相；空性不是使色成空的力量；格式逐法施用。以下四种解释模型，前三种各与其中一项条件相违，第四种则推论本身不能成立。
 
-生起或依止的模型，含有四个不同的命题：空性使色成空；色灭而产生空性；空性生色；空性是色所依止的正面本体。第一项与大品“空性不生不灭”相违，也与月称所引《宝积经》相违：“不是以空性使诸法成空，诸法本身即空”（*na śūnyatayā dharmān śūnyān karoti, api tu dharmā eva śūnyāḥ*）；{{fn:Pras ad MMK XIII.8 引《宝积经》（āryaratnakūṭasūtra）。《大智度论》“諸法性常自空，非空三昧故令法空——如水冷相，火令其熱”（T25, no. 1509, p. 328a14–16）同一方向。}}玄奘以“不由空故”译 *śūnyatayā na rūpaṃ śūnyam*，正依这一方向理解。第二项与《维摩经》“非色滅空”相违（详第六节）。后两项须另有原典根据才能成立：月称以“唯是无”说明自性不生的法性，没有另给一个可以充当能生者或正面本体的体性。所依限定与因果生起、本体依止，不是同一种关系。
+@h2 3.1　严格同一与方面同一
 
-逆蕴涵的模型，由“无自性”推出“有色”。若这一推论成立，只凭一个名称及其所执自性的不可得，就可以成立相应的对象；兔角之名所执的自性同样不可得，兔角并不因此而有。若把论域先限于名言有者，“有”已由论域给出，并非出于否定。
+严格同一模型以色之空性与色所指相同，述词在同一意义与条件下可以互换。此模型与第一理由链的解释结构相违，亦与通式中“某法之空性非某法”一项相违。较强的形式是方面同一：同一对象，就世俗而言有生灭，就胜义而言无生灭，两个述词各有限定，不违同一律。此模型须说明所同一者为何。若所同一者为所论对象，色及其无自性便是关于此一对象的两项判断，同一的是所依而非色与空性两个词项，此与第4节的解释一致；若仍主张色与其空性所指严格同一，则须说明《二万五千颂》何以以空性为“不作色”的主词（*sā*），又何以用相即二句解释“空性不在色外”。宗喀巴以“体一返异”（*ngo bo gcig la ldog pa tha dad*）说二谛，若不许述词无条件互换，即不构成此处反证的对象。{{fn:福田洋一「ツォンカパ後期中観思想における二諦の同一性と別異性」『大谷大学真宗総合研究所研究紀要』30（2013）：89–101。本文不处理藏文文献。}}
 
-这四种模型都假定经文的“色”与“空”在全组句子中各有固定的所指。瑜伽行派按三性把经句分配给不同的所指，不在这四种之内，留待第七节对照。
+@h2 3.2　类包含
 
-@h1 四、所依个别化
+类包含模型以“空即是色”为“空性属于色类”，或“凡空性皆是色”。前者须提出将色之空性归入色类的根据，而经文所否定的恰是空性具有色的作用；后者不能逐法施用，否则受、想、行、识之空性乃至真如之空性皆须为色。
 
-大品的格式以“某法空于其自性”开头：*tathatā tathatāsvabhāvena śūnyā*，真如空于真如之自性。“某法之空性”的属格，确定空性判断关于哪一法；“空于自性”的具格，确定所否定的是哪一种成立方式，《集论释》释 *svabhāvena śūnyam* 为遮遣自性，正是这样读的。本文所说的所依个别化，只指这一限定：空性判断关于哪一法、否定该法的哪一种成立。它不决定诸法的空性在数目上是一是多。同一个瓶，“瓶无水”与“瓶无自性”所依相同，所破不同；两个各无自性的色法，所破相同，所依不同。两项都须确定，否定的内容才确定。
+@h2 3.3　生起与依止
 
-所依由名言认识确定：此色是已由名言认识成立的色，不是仅凭色名或某一显现就算成立之物。这里只需此色已由名言认识确定，不需先证一切法唯由名言安立。自性在此色上不成立，则须由理证决定。《中论》第十五品首二颂给出这一理证：“na saṃbhavaḥ svabhāvasya yuktaḥ pratyayahetubhiḥ / hetupratyayasaṃbhūtaḥ svabhāvaḥ kṛtako bhavet // svabhāvaḥ kṛtako nāma bhaviṣyati punaḥ katham / akṛtrimaḥ svabhāvo hi nirapekṣaḥ paratra ca //”，自性从因缘生不应理；若从因缘生，自性便成所作；所作之自性云何得有？自性是非所作、不待他者。{{fn:MMK XV.1–2.}}此色依因缘而有，就不合“非所作、不待他”的自性规定；无自性由这一相违成立，不由“此色之空性”这一名称成立。属格只说明否定关于此色。
+生起或依止模型包含四个命题：空性使色成空；色灭而生空性；空性生色；空性是色所依止的正面本体。第一项与经文“空性不生不灭”相违，亦与月称所引《宝积经》相违：“非以空性使诸法空，诸法本身即空”（*na śūnyatayā dharmān śūnyān karoti, api tu dharmā eva śūnyāḥ*）；{{fn:Pras ad MMK XIII.8 引《宝积经》（*Ratnakūṭasūtra*）。《大智度论》“諸法性常自空，非空三昧故令法空——如水冷相，火令其熱”（T25, no. 1509, p. 328a14–16）与之同一方向。}}玄奘以“不由空故”译 *śūnyatayā na rūpaṃ śūnyam*，即依此方向理解。第二项与《维摩经》“非色滅空”相违（见6.1节）。后两项须另有原典依据方能成立：月称以“唯是无”说明自性不生的法性，并未另立可充当能生者或正面本体的体性。所依个别化与因果生起、本体依止，并非同一种关系。
 
-“异”“他”在这里有三种判准，须先分开。一是规定上的差别：在述词意义不变的条件下，两者的规定能否互换。二是所依上的分离：一项否定能否离开它的所依而另外成立。三是自性上的独立：一法是否以不待他的自性成立。大品肯定第一种差别，“某法之空性非某法”；否定第二种，“不在某法之外”；月称否定诸法有第三种。规定上的差别，并不蕴涵所依上的分离，也不蕴涵二者都是各有自性的实体；把三者看作一事，“非色”与“不离”才显得冲突。
+@h2 3.4　逆蕴涵
 
-所依的限定本身，还推不出不离。属于某物的东西可以与它分离：某人之子是某人的，却是另一个人；某人面容的影像是他的，却在镜中。大品在说色之空性非色之外，又明说空性不在色外（*nānyatra rūpāc chūnyatā*）。这一规定是经文给出的，不由属格推出。空性若只是一项“无”，这一规定便是自然的：此瓶中水之无，不能离开此瓶另说；此色上自性之无，也不能离开此色另说。安慧释《三十颂》第22颂，正以此检验法与法性：
+逆蕴涵模型由“无自性”推出“有色”。若此推论成立，仅凭一个名称及其所执自性的不可得，即可成立相应的对象；兔角之名所执的自性同样不可得，兔角却不因此而有。若预先将论域限于名言有者，“有”已由论域给出，而非出于否定。
 
-> rahitatā ca dharmatā | sā ca dharmatā dharmān nānyā nānanyā yujyate | pariniṣpannaś ca paratantradharmatety ataḥ paratantrāt pariniṣpanno nānyo nānanya iti boddhavyaḥ | yadi hi pariniṣpannaḥ paratantrād anyaḥ syād evaṃ na parikalpitena paratantraḥ śūnyaḥ syāt | athānanya evam api pariniṣpanno na viśuddhālambanaḥ syāt paratantravat saṃkleśātmakatvāt |{{fn:TrBh ad 22ab。同颂下半释文以无常作同样的检验：yadi saṃskārebhyo ’nityatā anyā, evaṃ tarhi saṃskārā nityāḥ syuḥ（TrBh ad 22c）。}}
+以上四种模型均假定“色”“空”二词在整组经句中所指不变。瑜伽行派依三性将经句分配于不同所指，不属此四类，见第7节。
 
-离即是法性。法性与法，不应为异，亦不应为不异。圆成实是依他起的法性，所以圆成实与依他起非异非不异。若圆成实异于依他起，依他起便不空于遍计所执；若不异，圆成实便不是清净所缘，如依他起以杂染为性。
+@h1 4　所依个别化与法性
 
-安慧的论证在三性的框架中进行，圆成实不能径直等同于月称所说的自性之无。本文只取它的结构：法性若是所论之法以外的另一法，此法便不空；“空不在色外”是“色即是空”为真的必要条件。空性在不离之外是否还另成一物，则须由月称回答。
+@h2 4.1　属格与具格：所依与所破
 
-月称在《明句论》释第十五品第二颂时，先说世人以热为火的自相，佛在阿毗达磨中也随世间所许，安立这一世俗的自体；然后从“自性”一词的字面意义入手，指出“某物之”这一归属不足以使一项性质成为它的自性：火之热是火的，却待因缘而生，是所作，所以不是火“自己的”。{{fn:Pras ad MMK XV.2：bālajanaprasiddhayaiva ca bhagavatā tad evaiṣāṃ sāṃvṛtaṃ svarūpam abhidharme vyavasthāpitam；… yat tu kṛtrimaṃ na tat tasyātmīyaṃ tadyathā apām auṣṇyam | yac ca yasyāyattaṃ tad api tadātmīyaṃ tadyathā sve bhṛtyāḥ, svāni dhanāni | yat tu yasya parāyattaṃ na tat tasyātmīyaṃ … ata eva auṣṇyam agner hetupratyayapratibaddhatvāt pūrvam abhūtvā paścād utpādena kṛtakatvān na svabhāva iti yujyate。prasiddhayaiva 从所据电子本。}}随后他界定自性：
+《二万五千颂》的通式以“某法空于其自性”起首：*tathatā tathatāsvabhāvena śūnyā*，真如空于真如之自性。“某法之空性”的属格确定空性判断所关之法，本文称为“所依”；“空于自性”的具格确定所否定的成立方式，即“所破”（*pratiṣedhya*）。《集论释》释 *svabhāvena śūnyam* 为遮遣自性，即取此义。所依与所破由属格与具格共同确定，本文称之为“所依个别化”（basis-relative specification）。此一限定不决定诸法之空性在数目上为一为多：同一瓶，“瓶无水”与“瓶无自性”所依相同而所破不同；两个各无自性的色法，所破相同而所依不同。两项均须确定，否定的内容方才确定。
 
-> yad evāgneḥ kālatraye ’py avyabhicāri nijaṃ rūpam akṛtrimam, pūrvam abhūtvā paścād yan na bhavati, yac ca hetupratyayasāpekṣaṃ na bhavati apām auṣṇyavat pārāvāravat dīrghahrasvavad vā, tat svabhāva iti vyapadiśyate | kiṃ khalu agneḥ tad itthaṃ svarūpam asti? na tad asti, na cāpi nāsti svarūpataḥ | yady api evam, tathāpi śrotṛṇām uttrāsaparivarjanārthaṃ saṃvṛtyā samāropya tad astīti brūmaḥ |{{fn:Pras ad MMK XV.2.}}
+所依由名言认识确定：此色是已由名言认识成立之色，并非仅凭色名或某一显现即为成立之物。此处只需此色已由名言认识确定，无须先证一切法唯由名言安立。自性在此色上是否成立，则由理证决定。《中论》第十五品首二颂云：
 
-火于三时不变、自有之相，非所作，非先无后有，不像水之热、此岸彼岸、长短那样待于因缘者，名为自性。火有如是之自体吗？就自体而言，它既非有，亦非无。虽然如此，为免听者惊怖，我们依世俗增益而说它有。
+>| na saṃbhavaḥ svabhāvasya yuktaḥ pratyayahetubhiḥ /
+>| hetupratyayasaṃbhūtaḥ svabhāvaḥ kṛtako bhavet //
+>| svabhāvaḥ kṛtako nāma bhaviṣyati punaḥ katham /
+>| akṛtrimaḥ svabhāvo hi nirapekṣaḥ paratra ca //{{fn:MMK XV.1–2。}}
+>> 自性从因缘生，不应理；从因缘生之自性，即成所作。所作之自性，云何得有？自性者，非所作、不待他者。
 
-句中的 *tad* 指前问所规定的那种自体，不是否认世俗之火。月称把此岸彼岸、长短也列在“待因缘”之下，可见这里的“因缘”不限于能生之因。他接着追问这一自性是什么：
+此色依因缘而有，与“非所作、不待他”的自性规定相违；无自性由此相违成立，而非由“此色之空性”这一名称成立。属格仅表明否定关于此色。《二万五千颂》本身亦以缘起说明自性之无：“和合之法无自性，以缘生故”（*nāsti sāṃyogikasya dharmasya svabhāvaḥ pratītyasamutpannatvāt*）。{{fn:Kimura I-2: 63，无性自性空（abhāvasvabhāvaśūnyatā）条。}}
 
-> yā sā dharmāṇāṃ dharmatā nāma, saiva tatsvarūpam | atha keyaṃ dharmāṇāṃ dharmatā? dharmāṇāṃ svabhāvaḥ | ko ’yaṃ svabhāvaḥ? prakṛtiḥ | kā ceyaṃ prakṛtiḥ? yeyaṃ śūnyatā | keyaṃ śūnyatā? naiḥsvābhāvyam | kim idaṃ naiḥsvābhāvyam? tathatā | keyaṃ tathatā? tathābhāvo ’vikāritvaṃ sadaiva sthāyitā | sarvathānutpāda eva hy agnyādīnāṃ paranirapekṣatvād akṛtrimatvāt svabhāva ity ucyate || etad uktaṃ bhavati- avidyātimiraprabhāvopalabdhaṃ bhāvajātaṃ yenātmanā vigatāvidyātimirāṇām āryāṇām adarśanayogena viṣayatvam upayāti, tad eva svarūpam eṣāṃ svabhāva iti vyavasthāpyate | tasya cedaṃ lakṣaṇam- akṛtrimaḥ svabhāvo hi nirapekṣaḥ paratra ca | iti vyavasthāpayāṃbabhūvur ācāryā iti vijñeyam | sa caiṣa bhāvānām anutpādātmakaḥ svabhāva akiṃcittvena abhāvamātratvād asvabhāva eveti kṛtvā nāsti bhāvasvabhāva iti vijñeyam |{{fn:Pras ad MMK XV.2.}}
+@h2 4.2　不离的独立根据
 
-所谓诸法之法性，即是其自体。诸法之法性是什么？诸法之自性。此自性是什么？本性。此本性是什么？即此空性。空性是什么？无自性。无自性是什么？真如。真如是什么？如是、不变、恒常住。火等之一切不生，以不待他、非所作故，名为自性。这就是说：受无明翳之力而被认取的诸有，以何种体性对离无明翳的圣者以不见之道成为境，即以此安立为诸有的自体、自性；诸师以“自性是非所作、不待他者”为其相。此以不生为体的诸法自性，以其无所有、唯是无故，即是无自性；当知诸法无有自性。
+“异”“他”在此须区分三种判准。其一为规定上的差别：在述词意义不变的条件下，两者的规定能否互换。其二为所依上的分离：一项否定能否离开其所依而另行成立。其三为自性上的独立：一法是否以不待他的自性成立。《二万五千颂》肯定第一种差别（“某法之空性非某法”），否定第二种（“不在某法之外”）；月称否定诸法有第三种。规定上的差别既不蕴涵所依上的分离，亦不蕴涵二者各为有自性的实体；三者混而为一，“非色”与“不离”才显得冲突。
 
-这一段中“自性”有三种用法：世间与阿毗达磨所说的自体，如热之于火；正理所破、诸法所无的自性，以非所作、不待他为相；以法性为名的自性，即诸法之不生。第三种具足非所作、不待他两相，月称仍说它“即是无自性”，理由在段末：*akiṃcittvena abhāvamātratvāt*，以其无所有、唯是无。两相是所破自性的界说；满足界说而无所有，便不是所破意义上的自性。前文“依世俗增益而说它有”，所说的正是这一法性之为自体。若只依据非所作与不待他就主张空性自身实有，便略去了月称所给的最后理由。Shulman 由月称对第十五品的注释，推测其背后有一种细微的形而上学立场；{{fn:Eviatar Shulman, “The Commitments of a Madhyamaka Trickster: Innovation in Candrakīrti’s *Prasanna-padā*,” *Journal of Indian Philosophy* 38, no. 4 (2010): 379–417，末节。}}就这一段而言，月称给法性以“自性”之名，同时给出了这一名称的界限，任何形而上学的解读都须容纳“唯是无”。法性可以对圣者成为境（*adarśanayogena viṣayatvam upayāti*），不另成实有不等于不可证知。
+所依个别化本身并不蕴涵不离。属于某物者可与之分离：某人之子属于某人，却是另一人；某人面容之影像属于某人，却在镜中。《二万五千颂》于“色之空性非色”之外，又明言空性不在色外（*nānyatra rūpāc chūnyatā*）。此一规定由经文给出，并非由属格推出。若空性仅为一项“无”，此一规定即为当然：此瓶中水之无，不能离此瓶另说；此色上自性之无，亦不能离此色另说。安慧释《唯识三十颂》第22颂，以此检验法与法性的关系：
 
-所以，空性不离此色，由大品明言；此色无自性，由缘起与不待他之自性相违成立；空性不成为另一实有，由月称的“唯是无”说明。三件事各有根据，不能由一项代替另一项：所依的限定说明否定关于此色，却不能充当此色无自性的理由。规定上的差别与这三项都不冲突。
+> rahitatā ca dharmatā | sā ca dharmatā dharmān nānyā nānanyā yujyate | pariniṣpannaś ca paratantradharmatety ataḥ paratantrāt pariniṣpanno nānyo nānanya iti boddhavyaḥ | yadi hi pariniṣpannaḥ paratantrād anyaḥ syād evaṃ na parikalpitena paratantraḥ śūnyaḥ syāt | athānanya evam api pariniṣpanno na viśuddhālambanaḥ syāt paratantravat saṃkleśātmakatvāt |{{fn:TrBh ad 22ab。同颂下半的释文以无常作同样的检验：yadi saṃskārebhyo ’nityatā anyā, evaṃ tarhi saṃskārā nityāḥ syuḥ（TrBh ad 22c）。}}
+>> 离即是法性。法性与法，不应为异，亦不应为不异。圆成实是依他起的法性，故圆成实与依他起非异非不异。若圆成实异于依他起，依他起即不空于遍计所执；若不异，圆成实即不是清净所缘，如依他起以杂染为性。
 
-经文为什么还要说“即是”？“不离”已经排除了色外别有空性，反向一句何以仍须以空性为主词、以色为述词？月称没有逐句注释这段经文；他释第二十四品第十八颂的话，却回答了“即是”关于什么：
+安慧的论证在三性框架中进行，圆成实不能径直等同于月称所说的自性之无。本文仅取其论证结构：法性若是所论之法以外的另一法，此法即不空；“空不在色外”是“色即是空”为真的必要条件。空性在不离之外是否另成一法，则须由月称的法性说回答。
 
-> yo ’yaṃ pratītyasamutpādo hetupratyayān apekṣya aṅkuravijñānādīnāṃ prādurbhāvaḥ, sa svabhāvenānutpādaḥ | yaś ca svabhāvenānutpādo bhāvānāṃ sā śūnyatā |{{fn:Pras ad MMK XXIV.18。电子本前句作 svabhāve nānutpādaḥ，据后句分词。其下又云：pratītyasamutpādasyaivaitā viśeṣasaṃjñāḥ śūnyatā, upādāya prajñaptiḥ, madhyamā pratipad iti，空性、依缘施设、中道，都是缘起的异名。}}
+@h2 4.3　月称的法性界定：“唯是无”
 
-此缘起，即芽、识等待因缘而现起，就是不以自性生起；诸有之不以自性生起，就是空性。
+月称释《中论》第十五品第二颂，先说世人以热为火之自相，佛于阿毗达磨中亦随世间所许安立此种世俗自体；继而由“自性”一词的字面意义指出，“某物之”这一归属不足以使一项性质成为该物的自性：火之热属于火，却待因缘而生，是所作，故非火“自己的”。{{fn:Pras ad MMK XV.2：bālajanaprasiddhayaiva ca bhagavatā tad evaiṣāṃ sāṃvṛtaṃ svarūpam abhidharme vyavasthāpitam；… yat tu kṛtrimaṃ na tat tasyātmīyaṃ tadyathā apām auṣṇyam | yac ca yasyāyattaṃ tad api tadātmīyaṃ tadyathā sve bhṛtyāḥ, svāni dhanāni | yat tu yasya parāyattaṃ na tat tasyātmīyaṃ … ata eva auṣṇyam agner hetupratyayapratibaddhatvāt pūrvam abhūtvā paścād utpādena kṛtakatvān na svabhāva iti yujyate。prasiddhayaiva 从电子录文。}}随后月称界定自性：
 
-月称说的是三项的同一：芽、识等待因缘而现起，即是不以自性生起，即是空性；空性、依缘施设、中道都是缘起的异名（*viśeṣasaṃjñā*）。同一的是“芽之依缘现起”与“芽之空性”，二者都是关于芽的规定，不是芽本身。所同一的又是芽的生起方式：依缘而起，就是不以自性而起。芽何时、由何种子水土而起，是这一方式之下具体事件的世俗说明，不随之转为空性的规定；今日芽生，不是今日生出一项空性。依此读大品：色之空性，就是此色之依缘而有，亦即此色之不以自性生起。“色即空性”说此色依缘而有，所以空于自性；“空性即色”说这一空性不是色以外之事，就是此色自身的依缘而有。起色之作用的是色，不是“色之依缘而有”这一规定，所以第一段的作用差别不受影响：非色，而不离色。
+> yad evāgneḥ kālatraye ’py avyabhicāri nijaṃ rūpam akṛtrimam, pūrvam abhūtvā paścād yan na bhavati, yac ca hetupratyayasāpekṣaṃ na bhavati apām auṣṇyavat pārāvāravat dīrghahrasvavad vā, tat svabhāva iti vyapadiśyate | kiṃ khalu agneḥ tad itthaṃ svarūpam asti? na tad asti, na cāpi nāsti svarūpataḥ | yady api evam, tathāpi śrotṛṇām uttrāsaparivarjanārthaṃ saṃvṛtyā samāropya tad astīti brūmaḥ |{{fn:Pras ad MMK XV.2。}}
+>> 火于三时不变、自有之相，非所作，非先无后有，不似水之热、此岸彼岸、长短那样待于因缘者，名为自性。火有如是之自体否？就自体而言，它既非有，亦非无。虽然如此，为免闻者惊怖，我们依世俗增益而说其有。
 
-世亲的“即是”也是一项同一：“遍計所執色無所有即是空性，此空性即是彼無所有”。{{fn:T31, no. 1597, p. 342c22–24，全段见第七节。}}结构与此相同，都把空性同一于色的某项规定；分别在于取哪一项规定。世亲取“无所有”，依他起色不是无所有，所以“即是”须改指遍计所执色；月称取“不以自性生起”，缘生色本来如此，所以“即是”无须改换所指。
+句中的 *tad* 指前问所规定的那种自体，并非否认世俗之火。月称将此岸彼岸、长短亦列于“待因缘”之下，可见此处的“因缘”不限于能生之因。月称继而追问此一自性为何：
 
-“即是”比“不离”多说的，由此可以说清。“不离”只说空性不在色外；“即是”说出空性是什么：就是此色本身的不以自性生起，不是色的某一附属之物。“色即是空”从所论的色入手，遣除把色理解为自性成立之物的执取；读者若随即把空性取为色外另一个可执取的本性，前一句便没有达到不执著的目的。反向一句以空性为主词而复称色，把空性的说明收回到原先所论之色上。大品以“不应住”“唯是名”收束，所求的正是这一方向。由此也可以说明“空即是色”为什么能对治断见：空性不在色外，也不在色后。若空性须待色灭才出现，尚未坏灭的缘生色就要等到后来才无自性；此色若依缘而有，它在存续之时就已不合不待他的自性规定，色灭并没有造成这一否定。“不在色外”，是不把此色之空解释为与此色无关的另一法，并没有说色中包含空性；“不在色后”，是缘生色的无自性不必等待色灭，也没有说空性作为一物与色同时生起。
+> yā sā dharmāṇāṃ dharmatā nāma, saiva tatsvarūpam | atha keyaṃ dharmāṇāṃ dharmatā? dharmāṇāṃ svabhāvaḥ | ko ’yaṃ svabhāvaḥ? prakṛtiḥ | kā ceyaṃ prakṛtiḥ? yeyaṃ śūnyatā | keyaṃ śūnyatā? naiḥsvābhāvyam | kim idaṃ naiḥsvābhāvyam? tathatā | keyaṃ tathatā? tathābhāvo ’vikāritvaṃ sadaiva sthāyitā | sarvathānutpāda eva hy agnyādīnāṃ paranirapekṣatvād akṛtrimatvāt svabhāva ity ucyate || etad uktaṃ bhavati- avidyātimiraprabhāvopalabdhaṃ bhāvajātaṃ yenātmanā vigatāvidyātimirāṇām āryāṇām adarśanayogena viṣayatvam upayāti, tad eva svarūpam eṣāṃ svabhāva iti vyavasthāpyate | tasya cedaṃ lakṣaṇam- akṛtrimaḥ svabhāvo hi nirapekṣaḥ paratra ca | iti vyavasthāpayāṃbabhūvur ācāryā iti vijñeyam | sa caiṣa bhāvānām anutpādātmakaḥ svabhāva akiṃcittvena abhāvamātratvād asvabhāva eveti kṛtvā nāsti bhāvasvabhāva iti vijñeyam |{{fn:Pras ad MMK XV.2。}}
+>> 所谓诸法之法性，即是其自体。诸法之法性为何？诸法之自性。此自性为何？本性。此本性为何？即此空性。空性为何？无自性。无自性为何？真如。真如为何？如是、不变、恒常住。火等之一切不生，以不待他、非所作故，名为自性。此即是说：受无明翳之力而被认取的诸有，以何种体性对离无明翳的圣者以不见之方式成为境，即以此安立为诸有的自体、自性；诸师以“自性是非所作、不待他者”为其相。此以不生为体的诸法自性，以其无所有、唯是无故，即是无自性；当知诸法无有自性。
 
-@h1 五、无遮的界限
+此段“自性”一词有三种用法：世间及阿毗达磨所说的自体，如热之于火；正理所破、诸法所无的自性，以非所作、不待他为相；以法性为名的自性，即诸法之不生。第三种具足非所作、不待他两相，月称仍称之为“无自性”，理由见于段末：*akiṃcittvena abhāvamātratvāt*，以其无所有、唯是无。两相是所破自性的界说；满足界说而无所有者，即非所破意义上的自性。前文“依世俗增益而说其有”，所指正是此一法性之为自体。若仅据非所作、不待他而主张空性自身实有，即略去了月称所给的最后理由。Shulman 根据月称对第十五品的注释，推测其背后有一种细微的形而上学立场；{{fn:Eviatar Shulman, “The Commitments of a Madhyamaka Trickster: Innovation in Candrakīrti’s *Prasanna-padā*,” *Journal of Indian Philosophy* 38, no. 4 (2010): 379–417，末节。}}就此段而言，月称予法性以“自性”之名，同时给出此名的界限，任何形而上学的解读都须容纳“唯是无”这一限定。法性可对圣者成为境（*adarśanayogena viṣayatvam upayāti*），不另成实有并不等于不可证知。
 
-承认此色之空性，也就承认此色为其所依；“空即是色”又是肯定形式的判断。这一判断所肯定的，是空性与所依的关系，还是由自性之否定另外引出的一项肯定？
+综上，空性不离此色，由《二万五千颂》明言；此色无自性，由缘起与不待他之自性相违而成立；空性不另成实有，由月称“唯是无”之说说明。三者各有根据，不能以其一代替其余：所依个别化表明否定关于此色，却不能充当此色无自性的理由。规定上的差别与此三项均不冲突。
 
-月称释《中论》首颂，论敌问：既然定说“非自生”，岂不就得出“从他生”？月称答：
+@h2 4.4　“即是”的所指：缘起的异名
 
-> nanu ca naiva svata utpannā ity avadhāryamāṇe parata utpannā ity aniṣṭaṃ prāpnoti | na prāpnoti prasajyapratiṣedhasya vivakṣitatvāt, parato ’py utpādasya pratiṣetsyamānatvāt |{{fn:Pras ad MMK I.1。同处又说归谬唯以遮遣他宗为果，不能由归谬反过来以义准得出相违之义：parapratijñāpratiṣedhamātraphalatvāt prasaṅgāpādanasya nāsti prasaṅgaviparītārthāpattiḥ。}}
+经文既已说不离，何以仍以空性为主词、以色为述词作反向谓述？月称未逐句注释此段经文，但其释《中论》第二十四品第十八颂的文字，确定了“即是”所关的对象：
 
-若定说“非自生”，便得“从他生”，这是不许的。答：不得。因为所欲说的是无遮，从他生也将被遮。
+> yo ’yaṃ pratītyasamutpādo hetupratyayān apekṣya aṅkuravijñānādīnāṃ prādurbhāvaḥ, sa svabhāvenānutpādaḥ | yaś ca svabhāvenānutpādo bhāvānāṃ sā śūnyatā |{{fn:Pras ad MMK XXIV.18。电子录文前句作 svabhāve nānutpādaḥ，据后句分词。其下又云：pratītyasamutpādasyaivaitā viśeṣasaṃjñāḥ śūnyatā, upādāya prajñaptiḥ, madhyamā pratipad iti，空性、依缘施设、中道，皆为缘起的异名。}}
+>> 此缘起，即芽、识等待因缘而现起，即是不以自性生起；诸有之不以自性生起，即是空性。
 
-月称所拒绝的“从他生”不是一个实体，是一项关于生起方式的肯定规定。无遮与非遮之分，因此不在肯定的是不是实体，而在否定之后有没有由否定本身引出一项替代的规定，无论这项规定是否实体。本文所破的是此色以不待他之自性成立；否定它，不引出“此色以他性成立”“此色以某种正面本性成立”一类替代规定。
+月称所述为三项的同一：芽、识等待因缘而现起，即是不以自性生起，即是空性；空性、依缘施设、中道皆为缘起的异名（*viśeṣasaṃjñā*）。同一者为“芽之依缘现起”与“芽之空性”，二者都是关于芽的规定，而非芽本身。所同一者又是芽的生起方式：依缘而起，即是不以自性而起。芽于何时、由何种子水土而起，是此一方式之下具体事件的世俗说明，不随之转为空性的规定；今日芽生，并非今日生出一项空性。
 
-“此瓶无水”要求所论之瓶已经确定，所否定的是水在其中存在；瓶的成立是完整判断的适用条件，说瓶中无水并没有以这一否定为理由重新建立瓶。判别的根据是否定本身表达什么，不是肯定的内容另有没有来源：“此瓶并非无水”即使说在已知瓶中有水之后，仍然表达瓶中有水。“此色无自性”所表达的只是自性之无；色之有由名言认识给出，不在这一否定的内容之中。
+《二万五千颂》本身即以同一结构表述诸蕴与其不生的关系：
 
-“空即是色”的问题由此可以回答。整句是肯定的谓述，它所谈论的空性仍是无遮。整句所肯定的，是空性与此色之缘起的同一；这一同一由大品与月称的说明得出（第四节），不由“此色无自性”这一否定本身引出。依月称，缘起本身就是不以自性生起，不是“从他生”一类替代的成立方式；芽由种子水土而生这类世俗的条件说明，属于所依的名言成立，也不是自性之否定所证。判断的形式、所诠的内容与判断所依的背景分属三层；三层合为一事，任何以已成立之法为对象的否定，都会被误判为非遮。
+> tathā hi bhagavan yo rūpasyānutpādo na tad rūpaṃ … yo vijñānasyānutpādo na tad vijñānam iti hi vijñānaṃ cānutpādaś cādvayam etad advaidhīkāram.{{fn:Kimura I-2: 154–155；Dutt 255.12–14。}}
+>> 世尊，色之不生非色……识之不生非识；是故识与不生，不二，不可析而为二。
 
-还有一层：以空性为主词作肯定谓述，是否把空性本身立为一个有？龙树说：“yady aśūnyaṃ bhavet kiṃcit syāc chūnyam iti kiṃcana / na kiṃcid asty aśūnyaṃ ca kutaḥ śūnyaṃ bhaviṣyati // śūnyatā sarvadṛṣṭīnāṃ proktā niḥsaraṇaṃ jinaiḥ / yeṣāṃ tu śūnyatādṛṣṭis tān asādhyān babhāṣire //”，若有少许不空，便可有少许空；既无少许不空，何处有空？诸佛说空性是诸见的出离，执空性为见者，说为不可治。月称释后一颂：
+“某法之不生非某法”与“某法与其不生不二”并举，与相即通式的“某法之空性非某法”“不离某法”同构；而“不生”正是月称所说的法性（释第十五品）与空性（释第二十四品）。据此解读相即：色之空性即此色之依缘而有，亦即此色之不以自性生起。“色即空性”谓此色依缘而有，故空于自性；“空性即色”谓此空性并非色以外之事，即此色自身的依缘而有。起色之作用者是色，而非“色之依缘而有”这一规定，故第一理由链所保留的作用差别不受影响：非色，而不离色。
 
-> iha sarveṣām eva dṛṣṭikṛtānāṃ sarvagrahābhiniveśānāṃ yan niḥsaraṇam apravṛttiḥ sā śūnyatā | na ca dṛṣṭikṛtānāṃ nivṛttimātraṃ bhāvaḥ | ye tu tasyām api śūnyatāyāṃ bhāvābhiniveśinaḥ, tān prati avācakā vayam … yaḥ na kiṃcid api te paṇyaṃ dāsyāmīty uktaḥ, sa ced ‘dehi bhos tad eva mahyaṃ na kiṃcin nāma paṇyam’ iti brūyāt, sa kenopāyena śakyaḥ paṇyābhāvaṃ grāhayitum?{{fn:MMK XIII.7–8；Pras ad MMK XIII.8。电子本作 yaniḥsaraṇam，今分作 yan niḥsaraṇam。月称释第七颂说，空性既是一切法的共相，无不空之法，空性无所待之相对者，也不成立为一物（pratipakṣanirapekṣatvāc chūnyatāpi … nāstīty avasīyatām）。}}
+世亲的“即是”亦为一项同一：“遍計所執色無所有即是空性，此空性即是彼無所有”。{{fn:T31, no. 1597, p. 342c22–24；全段见7.1节。}}其结构与上述解读相同，皆将空性同一于色的某项规定；差别在于所取的规定。世亲取“无所有”，而依他起色并非无所有，故“即是”须改指遍计所执色；月称取“不以自性生起”，缘生色本来如此，故“即是”无须改换所指。
 
-一切见、一切执取与执著的出离，亦即其不起，就是空性。诸见之止息不是有。对于连这一空性也执为有的人，我们无话可说。……如同有人被告知“我什么货也不给你”，他却说“那就把那个叫作‘什么也没有’的货给我”，用什么办法才能使他明白货之无？
+由此可以确定“即是”较“不离”多说了什么。“不离”仅说空性不在色外；“即是”说明空性为何：即此色本身的不以自性生起，而非色的某种附属之物。“色即是空”从所论之色出发，遣除将色理解为自性成立之物的执取；若随即将空性执为色外另一可执取的本性，前句即未达到不执著之目的。反向一句以空性为主词而复称色，将空性的说明收回到原先所论之色。《二万五千颂》以“不应住”“唯是名”收束，所指向的正是这一方向。由此亦可说明“空即是色”何以能对治断见：空性不在色外，亦不在色后。若空性须待色灭方才出现，未坏之缘生色即须待其后方无自性；然而此色既依缘而有，在其存续之时即已不合不待他的自性规定，色灭并未造成此一否定。“不在色外”，指不将此色之空解释为与此色无关的另一法，并非说色中包含空性；“不在色后”，指缘生色的无自性不待色灭，亦非说空性作为一物与色同时生起。
 
-诸见之止息不是有，这是月称对空性本身的规定，与第十五品的“唯是无”一致。“空即是色”以空性为主词而复称色，所做的是把这一止息收回到原先所论之色上，不是给空性加上一项属性，使它成为“什么也没有”之外的一件货。反向谓述因此不改变空性的否定性质；若把空性本身执为有，所违的正是月称此处所拒绝的。
+@h1 5　无遮的界限
 
-圆测说“依大乘有無等言皆是遮詮”，理由是名言只诠共相，“說青時，遮黃等故名為說青，非正表青”。{{fn:T33, no. 1711, p. 545b21–28.}}这是关于名言如何指称的说法，与本节所论否定是否另立规定不是一事；一切名言都有排除的作用，推不出一切判断都是无遮。月称的“唯是无”与“无遮”也不是同义词：前者说空性不是另一实有，后者说否定不引出替代的规定，两处所论相容。
+@h2 5.1　无遮的判准
 
-@h1 六、断见：“非无”与“有”
+承认此色之空性，即承认此色为其所依；“空即是色”又是肯定形式的谓述。此一谓述所肯定的，是空性与所依的关系，还是由自性之否定另外引出的一项肯定？
 
-空性不在色后，《维摩经》说得最直接：
+月称释《中论》首颂时，论敌设问：既定说“非自生”，岂不即得“从他生”？月称答：
 
-> rūpaṃ śūnyam iti dvayam etat / rūpam eva hi śūnyatā / na rūpavināśāc chūnyatā, rūpaprakṛtir eva śūnyatā /{{fn:Vkn VIII.17。所据电子本作 rupam。罗什译“色即是空，非色滅空，色性自空”，玄奘译“即是色空、非色滅空”（T14, no. 475, p. 551a19–21；T14, no. 476, p. 577c22–24）。窥基《心经幽赞》所载勝空者之解亦问“如何色滅方乃見空？”（T33, no. 1710, p. 536c15–19）。}}
+> nanu ca naiva svata utpannā ity avadhāryamāṇe parata utpannā ity aniṣṭaṃ prāpnoti | na prāpnoti prasajyapratiṣedhasya vivakṣitatvāt, parato ’py utpādasya pratiṣetsyamānatvāt |{{fn:Pras ad MMK I.1。同处又说，归谬唯以遮遣他宗为果，不能由归谬反以义准得出相违之义：parapratijñāpratiṣedhamātraphalatvāt prasaṅgāpādanasya nāsti prasaṅgaviparītārthāpattiḥ。}}
+>> 若定说“非自生”，便得“从他生”，此为所不许。答：不得。因所欲说者是无遮，从他生亦将被遮。
 
-“色”与“空”，此为二。色即是空性；空性不由色之坏灭而有，色之本性即是空性。
+月称所拒绝的“从他生”并非实体，而是一项关于生起方式的肯定规定。无遮（*prasajyapratiṣedha*）与非遮（*paryudāsa*）之分，因此不在于所肯定者是否为实体，而在于否定之后是否由否定本身引出一项替代性规定，无论此一规定是否为实体。本文所破者为此色以不待他之自性成立；否定此点，并不引出“此色以他性成立”“此色以某种正面本性成立”一类替代规定。
 
-*rūpavināśāt* 是从格，所否定的是以色之坏灭为空性的来源或成立条件，不是否定色在名言中会坏灭。月称又把空性与事物之无分开：“‘无’一词的意义不是空性一词的意义；你把‘无’的意义增益为空性的意义，然后来责难我们。”{{fn:Pras ad MMK XXIV.7：na punar abhāvaśabdasya yo ’rthaḥ sa śūnyatāśabdasyārthaḥ | abhāvaśabdārthaṃ ca śūnyatārtham ity adhyāropya bhavān asmān upālabhate。}}第十五品的“唯是无”指的是自性之无，这里所拒绝的是把空性当作事物之无；两处所否定的对象不同。把两处看作一事，就会由“空性唯是无”得出“色即是无”，这正是论敌加给中观的断见。
+“此瓶无水”要求所论之瓶已经确定，所否定的是水在其中存在；瓶的成立是完整判断的适用条件，说瓶中无水并未以此否定为理由重新建立瓶。判别的根据在于否定本身表达什么，而非肯定内容是否另有来源：即使在已知瓶中有水之后，“此瓶并非无水”仍表达瓶中有水。“此色无自性”所表达的仅为自性之无；色之有由名言认识给出，不在此一否定的内容之中。
 
-龙树在第十五品第十一颂界定了断见：“asti yad dhi svabhāvena na tan nāstīti śāśvatam / nāstīdānīm abhūt pūrvam ity ucchedaḥ prasajyate”，凡以自性有者，说“彼非无”即是常见；说“先有而今无”，便成断见。{{fn:MMK XV.11。月称释第十五品第五颂，以世间所说瓶等脱离现在状态为“无”，而以 bhāvarūpatvenaivāsiddhāḥ、avidyamānasvabhāvānām 限定正理所否认的只是自性之有经变异而成之无；释第二十四品第十八颂又说，不以自性生起者无“有”，无坏灭故无“无”，空性离有无二边（Pras ad MMK XV.5；XXIV.18）。}}这种断灭，要求先前某一时刻确有以自性成立之物。缘起的理证排除了此色在它存续的每一时刻以自性成立，所以没有任何时刻可以作为这种断灭的起点。由此所得的结论，只是此色不堕自性断灭，它仍然是一个否定。至于一切皆空时因果业果是否失效，龙树在第二十四品另有回答，与此各有其据。{{fn:MMK XXIV.14：sarvaṃ ca yujyate tasya śūnyatā yasya yujyate。}}
+@h2 5.2　肯定谓述与否定所证
 
-非无与有之间还有一段距离。兔角从来没有，它也不堕“先有而今无”，可是兔角并不因此而有。实际成立的瓶在破碎前即无自性，仍然可以在世俗中毁坏。不堕自性断灭，推不出世俗之有，也推不出世俗中不坏。色法之有来自别处。依第十五品首二颂重构论证：论敌承认此色依因缘而生；若此色有自性，便不待他；所以此色无自性。“此色依因缘而生”是论证的前提，其中已经含有此色之有。就这一论证而言，色法之有在证空之前就已在场，它是证空的前提，不是证空的结论；这里说的是论证的有法须先成立，不是说一切空性的认识在时间上都须先有色的概念。“非色滅空”说的正是：此色无须先被取消，才成为无自性判断的所依。
+据此可以回答“空即是色”的问题。整句是肯定谓述，其所谈论的空性仍是无遮。整句所肯定者，是空性与此色之缘起的同一；此同一由《二万五千颂》与月称的说明得出（4.4节），并非由“此色无自性”这一否定本身引出。依月称，缘起本身即是不以自性生起，不是“从他生”一类替代性的成立方式；芽由种子、水土而生一类世俗的条件说明，属于所依的名言成立，亦非自性之否定所证。判断的形式、所诠的内容与判断所依的背景分属三个层次；三者混为一事，则任何以已成立之法为对象的否定，都会被误判为非遮。
 
-@h1 七、汉地注疏的补正
+圆测说“依大乘有無等言皆是遮詮”，理由是名言只诠共相，“說青時，遮黃等故名為說青，非正表青”。{{fn:T33, no. 1711, p. 545b21–28。}}此说关乎名言如何指称，与本节所论“否定是否另立规定”并非一事；一切名言皆有排除作用，并不能推出一切判断皆为无遮。月称的“唯是无”与“无遮”亦非同义：前者说空性不是另一实有，后者说否定不引出替代规定，二者所论相容。
 
-第二至第六节的论证在月称的框架内完成。同一经句在瑜伽行派与唐代注疏中另有读法，可以对照。圆测熟知这组经句在印度论释中的配置，他在《解深密经疏》中列举诸论对一异之执的对治：
+@h2 5.3　空性之空
 
-> 然此所說一異二執，十散動中一異執也。對治如是一異分別，諸教不同。若依世親攝大乘釋第四卷云：為對治一性散動故，即彼經言：色空非色。……此約依他色對圓成空破彼一執。為對治異性散動故，即彼經言：色不離空。……此亦約依他色對圓成空破彼異執。若取遍計所執自性，色即是空、空即是色。……此約所執色對所執空破彼異執。梁論第五同世親論。若依無性攝論第四，色空非色同世親論，以依他色對圓成空破彼一執，色不離空等約所執色對所執空破彼異執。雜集十四，色空非色約所執色對圓成空破彼一執，色不離空等約所執色對所執空破彼異執。莊嚴第五但配經文而不解釋。今此經意，約依他起對圓成實破一異執，同世親初釋。{{fn:X21, no. 369, p. 222c16–223a10。梁论即真谛所译世亲释，本文未逐一核对，所说依圆测。}}
+以空性为主词作肯定谓述，是否使空性本身成为实有？龙树《中论》第十三品云：
+
+>| yady aśūnyaṃ bhavet kiṃcit syāc chūnyam iti kiṃcana /
+>| na kiṃcid asty aśūnyaṃ ca kutaḥ śūnyaṃ bhaviṣyati //
+>| śūnyatā sarvadṛṣṭīnāṃ proktā niḥsaraṇaṃ jinaiḥ /
+>| yeṣāṃ tu śūnyatādṛṣṭis tān asādhyān babhāṣire //{{fn:MMK XIII.7–8。}}
+>> 若有少许不空，便可有少许空；既无少许不空，何处有空？诸佛说空性为诸见之出离；执空性为见者，说为不可治。
+
+月称释后一颂：
+
+> iha sarveṣām eva dṛṣṭikṛtānāṃ sarvagrahābhiniveśānāṃ yan niḥsaraṇam apravṛttiḥ sā śūnyatā | na ca dṛṣṭikṛtānāṃ nivṛttimātraṃ bhāvaḥ | ye tu tasyām api śūnyatāyāṃ bhāvābhiniveśinaḥ, tān prati avācakā vayam … yaḥ na kiṃcid api te paṇyaṃ dāsyāmīty uktaḥ, sa ced ‘dehi bhos tad eva mahyaṃ na kiṃcin nāma paṇyam’ iti brūyāt, sa kenopāyena śakyaḥ paṇyābhāvaṃ grāhayitum?{{fn:Pras ad MMK XIII.8。电子录文作 yaniḥsaraṇam，今分作 yan niḥsaraṇam。月称释第七颂谓：空性为一切法之共相，既无不空之法，空性即无所待之相对者，亦不成立为一法（pratipakṣanirapekṣatvāc chūnyatāpi … nāstīty avasīyatām）。}}
+>> 一切见、一切执取与执著之出离，亦即其不起，即是空性。诸见之止息并非有。对于连此空性亦执为有者，我们无可言说。……如有人被告知“我不给你任何货物”，他却说“那就把那名为‘无任何货物’的货物给我”，以何方法才能使他理解货物之无？
+
+“诸见之止息并非有”，是月称对空性本身的规定，与第十五品的“唯是无”一致。“空即是色”以空性为主词而复称色，是将此一止息收回到原先所论之色，并非为空性增添一项属性，使之成为“无任何货物”之外的另一件货物。反向谓述因此不改变空性的否定性质；若将空性本身执为有，所违者正是月称此处所拒斥的。
+
+@h1 6　断见问题：“非无”与“有”
+
+@h2 6.1　空性不待色灭
+
+空性不在色后，《维摩经》有明文：
+
+> rūpaṃ śūnyam iti dvayam etat / rūpam eva hi śūnyatā / na rūpavināśāc chūnyatā, rūpaprakṛtir eva śūnyatā /{{fn:Vkn VIII.17。电子录文作 rupam。罗什译“色即是空，非色滅空，色性自空”，玄奘译“即是色空、非色滅空”（T14, no. 475, p. 551a19–21；T14, no. 476, p. 577c22–24）。窥基《心经幽赞》所载胜空者之解亦问“如何色滅方乃見空？”（T33, no. 1710, p. 536c15–19）。}}
+>> “色”与“空”，此为二。色即是空性；空性不由色之坏灭而有，色之本性即是空性。
+
+*rūpavināśāt* 为从格，所否定的是以色之坏灭为空性的来源或成立条件，并非否定色于名言中会坏灭。月称又将空性与事物之无相区分：
+
+> na punar abhāvaśabdasya yo ’rthaḥ sa śūnyatāśabdasyārthaḥ | abhāvaśabdārthaṃ ca śūnyatārtham ity adhyāropya bhavān asmān upālabhate |{{fn:Pras ad MMK XXIV.7。}}
+>> “无”一词的意义不是空性一词的意义；你将“无”的意义增益为空性的意义，进而责难我们。
+
+第十五品的“唯是无”指自性之无，此处所拒斥的则是将空性视为事物之无；两处所否定的对象不同。将两处视为一事，即会由“空性唯是无”推出“色即是无”，此正是论敌加于中观的断见。
+
+@h2 6.2　自性断灭与世俗之有
+
+龙树于《中论》第十五品第十一颂界定断见：
+
+>| asti yad dhi svabhāvena na tan nāstīti śāśvatam /
+>| nāstīdānīm abhūt pūrvam ity ucchedaḥ prasajyate //{{fn:MMK XV.11。月称释第十五品第五颂，以世间所说瓶等脱离现在状态为“无”，而以 bhāvarūpatvenaivāsiddhāḥ、avidyamānasvabhāvānām 限定正理所否认者仅为自性之有经变异而成之无；释第二十四品第十八颂又说，不以自性生起者无“有”，无坏灭故无“无”，空性离有无二边（Pras ad MMK XV.5；XXIV.18）。}}
+>> 凡以自性而有者，说“彼非无”即是常见；说“先有而今无”，即成断见。
+
+此种断灭，要求先前某一时刻确有以自性成立之物。缘起的理证排除了此色在其存续的任一时刻以自性成立，故不存在可作为此种断灭起点的时刻。由此所得的结论仅为此色不堕自性断灭，它仍是一个否定。至于一切皆空时因果业果是否失效，龙树于第二十四品另有回答，与此各有根据。{{fn:MMK XXIV.14：sarvaṃ ca yujyate tasya śūnyatā yasya yujyate。}}
+
+非无与有之间仍有距离。兔角从未存在，亦不堕“先有而今无”，却不因此而有。实际成立之瓶在破碎前即无自性，仍可于世俗中毁坏。不堕自性断灭，既推不出世俗之有，亦推不出世俗中不坏。色法之有另有来源。依第十五品首二颂重构论证：论敌承认此色依因缘而生；若此色有自性，即不待他；故此色无自性。“此色依因缘而生”是论证的前提，其中已含此色之有。就此论证而言，色法之有在证空之前即已成立，是证空的前提而非结论；此处所说的是论证的有法须先成立，并非说一切空性的认识在时间上皆须先有色的概念。“非色滅空”所表达的正是：此色无须先被取消，方能成为无自性判断的所依。
+
+@h1 7　对照：瑜伽行派的三性配释与汉地注疏
+
+@h2 7.1　世亲、无性与《集论释》
+
+第2至第6节的论证在月称的解释框架内完成。同一经句在瑜伽行派及唐代注疏中另有解释，可资对照。圆测于《解深密经疏》中列举诸论对一异之执的对治：
+
+> 然此所說一異二執，十散動中一異執也。對治如是一異分別，諸教不同。若依世親攝大乘釋第四卷云：為對治一性散動故，即彼經言：色空非色。……此約依他色對圓成空破彼一執。為對治異性散動故，即彼經言：色不離空。……此亦約依他色對圓成空破彼異執。若取遍計所執自性，色即是空、空即是色。……此約所執色對所執空破彼異執。梁論第五同世親論。若依無性攝論第四，色空非色同世親論，以依他色對圓成空破彼一執，色不離空等約所執色對所執空破彼異執。雜集十四，色空非色約所執色對圓成空破彼一執，色不離空等約所執色對所執空破彼異執。莊嚴第五但配經文而不解釋。今此經意，約依他起對圓成實破一異執，同世親初釋。{{fn:X21, no. 369, p. 222c16–223a10。梁论即真谛所译世亲释，本文未逐一核对，此处依圆测所述。}}
 
 圆测的概括与原文相符。世亲释作：
 
 > 一性散動者，為對治此散動故，即彼經言：色空非色。何以故？若依他起與圓成實是一性者，此依他起應如圓成實是清淨境。異性散動者，為對治此散動故，即彼經言：色不離空。何以故？此二若異，法與法性亦應有異。若有異性，不應道理，如無常法與無常性。若取遍計所執自性，色即是空、空即是色。何以故？遍計所執色無所有即是空性，此空性即是彼無所有，非如依他起與圓成實，不可說一。{{fn:T31, no. 1597, p. 342c15–24。}}
 
-世亲以依他、圆成的非一非异解释“色空非色”“色不离空”，只在遍计所执色上说“即是”，同一的是空性与所执色之无所有。无性释以“淨不淨境性各別故”说“色空非色”，以“遍計所執色自性無所有即是空故”说“色不離空等”。{{fn:T31, no. 1598, p. 405b29–c3。}}《集论释》则连“色空非色”所关的色也归为遍计所执性：为对治一性分别，说“色之空性非色”，理由是二者自性相异（*bhāvāntaratvāt*），色等是遍计所执性，空性是圆成实性；为对治别异分别，说“空性不在色外……乃至空性即是识”，理由是遍计所执性无相。{{fn:ASBh 138：ekatvavikalpapratipakṣeṇāha – yā rūpasya śūnyatā na tad rūpaṃ yāvad vijñānam iti, bhāvāntaratvāt / rūpādayo hi parikalpitaḥ svabhāvaḥ śūnyatā pariniṣpanna iti / pṛthakatvavikalpapratipakṣeṇāha – nāpy anyatra … yāvac chūnyataiva vijñānam iti, parikalpitasvabhāvasyālakṣaṇatvāt tadvyatirekeṇa tadbhāvāsaṃbhavataḥ。电子本作 yāvacchanyataiva、parikalpitasvabhāvasyā lakṣaṇatvāt、tadbhā vāsaṃbhavataḥ，今如上分读。玄奘译二理由作“由自性異故”“由遍計所執自性無相故，離彼彼無性不可得故”（T31, no. 1606, p. 764c11–17），末句汉译作“無性”，与电子本 tadbhāva 不同。}}三家对“不空于空性”的解释，都以法性的存在为理由：世亲说“謂法性色性不空故”，无性说“謂彼法性是實有故”，《集论释》说离性“一切时有”（*virahitatāyāḥ sarvadāstitvāt*）。{{fn:T31, no. 1597, p. 342c13–15；T31, no. 1598, p. 405b27–29；ASBh 138，汉译见 T31, no. 1606, p. 764c09–11。}}这与月称以“唯是无”说明法性，宗义不同；但法性是否实有，与关于法性的否定是否另含肯定所证，是两个问题，承认离性恒时而有，并不使“离遍计所执性”这一否定变成非遮。
+世亲以依他起与圆成实的非一非异解释“色空非色”“色不离空”，仅于遍计所执色上说“即是”，所同一者为空性与所执色之无所有。无性释以“淨不淨境性各別故”解释“色空非色”，以“遍計所執色自性無所有即是空故”解释“色不離空等”。{{fn:T31, no. 1598, p. 405b29–c3。}}《集论释》则将“色空非色”所关之色亦归于遍计所执性：为对治一性分别，说“色之空性非色”，理由是二者自性相异（*bhāvāntaratvāt*），色等为遍计所执性，空性为圆成实性；为对治别异分别，说“空性不在色外……乃至空性即是识”，理由是遍计所执性无相。{{fn:ASBh 138：ekatvavikalpapratipakṣeṇāha – yā rūpasya śūnyatā na tad rūpaṃ yāvad vijñānam iti, bhāvāntaratvāt / rūpādayo hi parikalpitaḥ svabhāvaḥ śūnyatā pariniṣpanna iti / pṛthakatvavikalpapratipakṣeṇāha – nāpy anyatra … yāvac chūnyataiva vijñānam iti, parikalpitasvabhāvasyālakṣaṇatvāt tadvyatirekeṇa tadbhāvāsaṃbhavataḥ。电子录文作 yāvacchanyataiva、parikalpitasvabhāvasyā lakṣaṇatvāt、tadbhā vāsaṃbhavataḥ，今如上分读。玄奘译二理由作“由自性異故”“由遍計所執自性無相故，離彼彼無性不可得故”（T31, no. 1606, p. 764c11–17），末句汉译作“無性”，与梵文 tadbhāva 不同。}}三家对“不空于空性”的解释，皆以法性之存在为理由：世亲说“謂法性色性不空故”，无性说“謂彼法性是實有故”，《集论释》说离性“一切时有”（*virahitatāyāḥ sarvadāstitvāt*）。{{fn:T31, no. 1597, p. 342c13–15；T31, no. 1598, p. 405b27–29；ASBh 138，汉译见 T31, no. 1606, p. 764c09–11。}}此与月称以“唯是无”说明法性，宗义不同；然而法性是否实有，与关于法性的否定是否另含肯定所证，是两个问题：承认离性恒时而有，并不使“离遍计所执性”这一否定成为非遮。
 
-《心经赞》的六组相即，正在这一背景上组成：
+@h2 7.2　圆测《心经赞》的六组相即
 
-@table
-| 组 | 色之所指 | 空之所指 | 圆测定名 | 依据（T33, no. 1711） |
-| 一 | 所執色 | 所執本無之空 | 同性相即 | p. 545c12–16 |
-| 二 | 所執實色 | 依他無實之空 | 异性相即 | p. 545c17–21 |
-| 三 | 所執色（於圓成性執為實色） | 圓成自性之空 | 异体相即 | p. 545c21–24 |
-| 四 | 依他起色 | 依他異性之空 | 同性相即 | p. 545c24–28 |
-| 五 | 依他緣生之色 | 自性空 | 异性相即 | p. 545c28–546a6 |
-| 六 | 圓成實性 | 自性空 | 同性相即 | p. 546a7–10 |
+圆测《心经赞》的六组相即，即在上述背景中组成（表2）。
+
+@caption 表2　圆测《心经赞》六组相即的所指与定名
+@table 700,3100,2000,1400,1826 ccccc
+| 组别 | 色之所指 | 空之所指 | 定名 | 出处 |
+| 一 | 所執色 | 所執本無之空 | 同性相即 | 545c12–16 |
+| 二 | 所執實色 | 依他無實之空 | 異性相即 | 545c17–21 |
+| 三 | 所執色（於圓成性執為實色） | 圓成自性之空 | 異體相即 | 545c21–24 |
+| 四 | 依他起色 | 依他異性之空 | 同性相即 | 545c24–28 |
+| 五 | 依他緣生之色 | 自性空 | 異性相即 | 545c28–546a6 |
+| 六 | 圓成實性 | 自性空 | 同性相即 | 546a7–10 |
 @endtable
+@tnote 资料来源：T33, no. 1711, pp. 545c12–546a10。“色之所指”“空之所指”“定名”三栏摘自圆测原文。
 
-（“色之所指”“空之所指”两栏摘自圆测原文。）
-
-第一组与世亲、无性以“即是”说遍计所执色之无所有相当；第三组与《杂集论》以所执色对圆成空破一执相当；第五组与圆测所说“同世親初釋”的依他、圆成配对相当。其余三组在上引诸论中没有对应。第五组的原文如下：
+第一组与世亲、无性以“即是”说遍计所执色之无所有相当；第三组与《杂集论》以所执色对圆成空破一执相当；第五组与圆测所说“同世親初釋”的依他、圆成配对相当。其余三组在上引诸论中没有对应。第五组原文如下：
 
 > 又釋依他緣生之色對二性空有二四句，對異性故不異前釋，對自性空亦有四句，謂緣生色用如為體，然彼空性不異依他。故《成唯識》作如是說，「故此與依他，非異非不異，如無常等性」。又《中邊》云，「此中唯有空，於彼亦有此」，由斯道理，依他、圓成互不相離，是故說言色即是空、空即是色。非緣生空故說相即，不爾，應成違宗失故，此是異性相即。{{fn:T33, no. 1711, pp. 545c28–546a6。所引《成唯识》之颂，见《成唯识论》卷八，T31, no. 1585, p. 45c12，即《唯识三十论颂》第22颂（T31, no. 1586, p. 61a18）；所引《中边》之颂，见《辩中边论》，T31, no. 1600, p. 464b17（《辩中边论颂》，T31, no. 1601, p. 477c10），即 *Madhyāntavibhāga* 第一品“śūnyatā vidyate tv atra tasyām api sa vidyate”。}}
 
-圆测以依他、圆成“互不相離”为根据，把相即也用于依他缘生之色与圆成实空，同时说“非緣生空故說相即”，不许缘生的规定转给空性，否则“應成違宗失”。这一步扩大了世亲对经句的配释，没有改动依他、圆成不可说一的宗义：“即是”在这里表示不离，法相差别仍然保留。在这一点上它与第四节的重构相合；所据则不同，圆测据依他、圆成互不相离，月称据缘起的异名，圆成实在唯识中的真实义也不同于月称所说的自性之无。
+圆测以依他、圆成“互不相離”为根据，将相即亦用于依他缘生之色与圆成实空，同时说“非緣生空故說相即”，不许缘生的规定转归空性，否则“應成違宗失”。此举扩大了世亲对经句的配释，而未改动依他、圆成不可说一的宗义：“即是”于此表示不离，法相差别仍予保留。就此而言，圆测的解释与4.4节的重构相合；二者的依据则不同：圆测依据依他、圆成互不相离，月称依据缘起的异名，圆成实在唯识中的真实义亦不同于月称所说的自性之无。
 
-若以大品第一段理由链为准，经文的“色”是生灭而起作用的色（*rūpayati*），“空”是不生不灭的空性，那么第五组最直接对应这一关系。第四组之所以可以说“然此空性是質礙故”，{{fn:T33, no. 1711, p. 545c26.}}是因为那一组的“空”所指不同；第六组的“色”是圆成实，圆测说“色實性故，名之為色”。{{fn:T33, no. 1711, p. 546a8–9.}}印度诸论所释的是第二段理由链，那一段以“唯是名”为理由，并说诸名为所计度（*kṛtrimaṃ nāma pratidharmaṃ, te ca kalpitāḥ*），{{fn:Dutt 38.16–17；Kimura I-1: 54。}}把“色”读作遍计所执色有其文本根据。两条理由链各有侧重，瑜伽行派的分配与圆测的六组，正反映了这一点。
+若以第一理由链为准，经文之“色”为生灭而起作用之色（*rūpayati*），“空”为不生不灭之空性，则第五组最直接对应此一关系。第四组可说“然此空性是質礙故”，{{fn:T33, no. 1711, p. 545c26。}}是因为该组之“空”所指不同；第六组之“色”为圆成实，圆测说“色實性故，名之為色”。{{fn:T33, no. 1711, p. 546a8–9。}}印度诸论所释的是第二理由链，该处以“唯是名”为理由，并说诸名为所计度（*kṛtrimaṃ nāma pratidharmaṃ, te ca kalpitāḥ*），{{fn:Dutt 38.16–17；Kimura I-1: 54。}}将“色”读作遍计所执色，有其文本根据。两条理由链各有侧重，瑜伽行派的配释与圆测的六组，正反映这一点。
 
-窥基《心经幽赞》所载勝空者之解，直接引大品：
+@h2 7.3　窥基所载胜空者之解
+
+窥基《般若波罗蜜多心经幽赞》所载胜空者之解，直接引用《二万五千颂》的汉译：
 
 > 《大經》說言，「所以者何？色自性空，不由空故。色空非色，色不離空，空不離色，色即是空，空即是色」。此破二種執。「色不異空，空不異色」者，破執世俗所取色外別有真空。……「色即是空，空即是色」者，破愚夫執要色無位方始有空……由此二句，經作是言，「色自性空，非色滅空」。{{fn:T33, no. 1710, p. 536c9–21。此段属“勝空者言”之下。}}
 
-勝空者所引作“色不離空，空不離色”，下文所释却是《心经》的“色不異空，空不異色”，说它“破執世俗所取色外別有真空”：《心经》的“不异”，在他读来就是大品的“不离”，与梵本《心经》的 *na pṛthak* 相合。他把两对句子分给两种执：“不异”破色外之空，“即是”破色后之空。末后“經作是言”的“色自性空，非色滅空”八字，在笔者的检索中只见于窥基的两部注疏；{{fn:2026年11月27日以 CBETA API（cbdata.dila.edu.tw）全文检索“色自性空，非色滅空”，不计标点，所得为 T1710 与 T1782 两处。}}另一处正落在《说无垢称经疏》所述清辨之解的末尾。{{fn:T38, no. 1782, p. 1021a10：“色自性空，非色滅空、非今始空，故言不無。”所属一段自 p. 1020c23“清辨解云”起。}}两处都是中观一方的声音，与第四节“不在色外，也不在色后”相合。
+胜空者所引作“色不離空，空不離色”，所释则是《心经》的“色不異空，空不異色”，谓其“破執世俗所取色外別有真空”：《心经》的“不异”，在其解读中即《二万五千颂》的“不离”，与梵本《心经》的 *na pṛthak* 相合。胜空者将两对经句分别对应两种执：“不异”破色外之空，“即是”破色后之空。末后“經作是言”的“色自性空，非色滅空”八字，检索 CBETA 全文，仅见于窥基的两部注疏；{{fn:2026年11月检索 CBETA 电子佛典全文“色自性空，非色滅空”（不计标点），所得为 T1710 与 T1782 两处。}}另一处见于《说无垢称经疏》所述清辨之解的末尾。{{fn:T38, no. 1782, p. 1021a10：“色自性空，非色滅空、非今始空，故言不無。”所属一段自 p. 1020c23“清辨解云”起。}}两处皆属中观一方的解释，与4.4节“不在色外，亦不在色后”相合。
 
-@h1 八、瑜伽行者之难
+@h1 8　瑜伽行派的反驳：“色滅空亡”
 
-《幽赞》在勝空者之解以后，记下了瑜伽行者的一段话：
+@h2 8.1　所依的资格
 
-> 如應者言，若依勝義，諸法皆空都無有者，初雖可爾，理未必然。真、俗相形，俗無真滅；色、空相待，色滅空亡；故非本來色體空也。{{fn:T33, no. 1710, p. 536c21–24.}}
+《心经幽赞》于胜空者之解后，记录瑜伽行者（如应者）的反驳：
 
-两组推论都导向同一结论：色体不是本来空的。窥基在《说无垢称经疏》中所述护法之解，以空、有“相待建立”，又说“舊云生者，其義非也。諸無有法，不待因緣而生，但待立故”。{{fn:T38, no. 1782, p. 1021a10–17。此段自“護法解云”起，在上引清辨之解之后。}}依此，如應者所说的“色、空相待”，较强的读法无须把色当作空性的能生因：空性依色而得建立，并非由色所生。色的缘起是证知此色无自性的理由，也不是产生一项空性的能生因。
+> 如應者言，若依勝義，諸法皆空都無有者，初雖可爾，理未必然。真、俗相形，俗無真滅；色、空相待，色滅空亡；故非本來色體空也。{{fn:T33, no. 1710, p. 536c21–24。胜空者与如应者两方之言，皆出于瑜伽行派学者窥基的编排。}}
 
-这一反难含两个困难：所依的资格，即什么能够充当空性的有效所依；时间，即色先有后灭，空性何以不随之而亡。瑜伽行派对前一困难的回答，是以依他起为圆成实的所依。《成唯识论》开卷说：
+两组推论皆导向同一结论：色体并非本来空。窥基《说无垢称经疏》所述护法之解，以空、有“相待建立”，又说“舊云生者，其義非也。諸無有法，不待因緣而生，但待立故”。{{fn:T38, no. 1782, p. 1021a10–17。此段自“護法解云”起，在上引清辨之解之后。}}据此，如应者所说的“色、空相待”，较强的解读无须以色为空性的能生因：空性依色而得建立，并非由色所生。色的缘起是证知此色无自性的理由，亦非产生空性的能生因。
 
-> 外境隨情而施設故，非有如識；內識必依因緣生故，非無如境，由此便遮增、減二執。境依內識而假立故，唯世俗有；識是假境所依事故，亦勝義有。{{fn:T31, no. 1585, p. 1b10–13.}}
+此一反驳包含两个困难：一为所依的资格，即何者足以充当空性的有效所依；一为时间，即色先有而后灭，空性何以不随之而亡。瑜伽行派对前一困难的回答，是以依他起为圆成实的所依。《成唯识论》开卷说：
 
-窥基释此句，把这里的“勝義”放在四重二谛中：“識境所依亦勝義者，是俗隨事差別諦攝。復是體、用顯現真諦”，又说四重胜义之中，此为最初一重，“亦真亦俗”。{{fn:T43, no. 1830, pp. 243c11–244b2。所引见 p. 244b1–2；“有亦真亦俗，謂真前三、俗後三諦”见 p. 244a23–24。}}此处的胜义有不径直指不待因缘、非所作的本体，单凭第十五品首二颂不能判它已被破。空性以色为所依，又是与假境依识不同的一种所依关系；把识为假境所依的原则移用于空性之所依，须另外说明两种所依服从同一原则。唯识也不主张一切施设都须有一个真实的所指，《成唯识论》卷二驳斥“假必依真事、似事、共法而立”之说。{{fn:T31, no. 1585, p. 7a27–b14：“由此假說不依實成。又假必依真事立者，亦不應理。”}}
+> 外境隨情而施設故，非有如識；內識必依因緣生故，非無如境，由此便遮增、減二執。境依內識而假立故，唯世俗有；識是假境所依事故，亦勝義有。{{fn:T31, no. 1585, p. 1b10–13。}}
 
-月称为有效的所依提供了另一种解释。他在第二十四品第十八颂下说：
+窥基释此句，将此处的“勝義”置于四重二谛中：“識境所依亦勝義者，是俗隨事差別諦攝。復是體、用顯現真諦”，并谓于四重胜义中此为最初一重，“亦真亦俗”。{{fn:T43, no. 1830, pp. 243c11–244b2。所引见 p. 244b1–2；“有亦真亦俗，謂真前三、俗後三諦”见 p. 244a23–24。}}此处的胜义有并非径指不待因缘、非所作的本体，仅凭第十五品首二颂不能断定其已被破斥。空性以色为所依，与假境依识是不同的所依关系；将识为假境所依的原则移用于空性之所依，须另行说明二者服从同一原则。唯识亦不主张一切施设皆须有真实所指，《成唯识论》卷二即驳斥“假必依真事、似事、共法而立”之说。{{fn:T31, no. 1585, p. 7a27–b14：“由此假說不依實成。又假必依真事立者，亦不應理。”}}
 
-> yā ceyaṃ svabhāvaśūnyatā sā prajñaptir upādāya, saiva śūnyatā upādāya prajñaptir iti vyavasthāpyate | cakrādīny upādāya rathāṅgāni rathaḥ prajñapyate | tasya yā svāṅgāny upādāya prajñaptiḥ, sā svabhāvenānutpattiḥ, yā ca svabhāvenānutpattiḥ, sā śūnyatā |{{fn:Pras ad MMK XXIV.18.}}
+月称对有效所依提供了另一种解释。其释《中论》第二十四品第十八颂云：
 
-此自性空，即依缘施设；即此空性，安立为依缘施设。依轮等车支而施设车。车之依自支而施设，即是不以自性生起；不以自性生起，即是空性。
+> yā ceyaṃ svabhāvaśūnyatā sā prajñaptir upādāya, saiva śūnyatā upādāya prajñaptir iti vyavasthāpyate | cakrādīny upādāya rathāṅgāni rathaḥ prajñapyate | tasya yā svāṅgāny upādāya prajñaptiḥ, sā svabhāvenānutpattiḥ, yā ca svabhāvenānutpattiḥ, sā śūnyatā |{{fn:Pras ad MMK XXIV.18。}}
+>> 此自性空，即依缘施设；即此空性，安立为依缘施设。依轮等车支而施设车。车之依其自支而施设，即是不以自性生起；不以自性生起，即是空性。
 
-车不由自性确定，却凭它的支分成为所论的对象；没有轮等车支，单称“车”并不能使它成为车之所依。名言施设因此不是任意命名，也不必先取得不待他之自性，才能充当否定的所依。论敌若要拒绝这一模型，须说明有效的名言根据何以必须以依他起的真实性为条件，单凭空、色相待得不出这一点；反过来，这一模型能否排除唯识所说依他起的真实性，也不能从色空不离本身得到。《成唯识论》把“隨妄情而施設”的假归于所计的实我、实法，{{fn:T31, no. 1585, p. 1b7–8：“愚夫所計實我、實法都無所有，但隨妄情而施設故，說之為假。”}}两宗对施设与真实的分配不同。
+车不由自性确定，却凭其支分成为所论对象；若无轮等车支，单称“车”并不能使之成为车之所依。名言施设因此并非任意命名，亦无须先取得不待他之自性方能充当否定的所依。论敌若要拒斥此一模型，须说明有效的名言根据何以必须以依他起的真实性为条件，仅凭空、色相待不能得出此点；反之，此一模型能否排除唯识所说依他起的真实性，亦不能由色空不离本身得出。《成唯识论》将“隨妄情而施設”之假归于所计之实我、实法，{{fn:T31, no. 1585, p. 1b7–8：“愚夫所計實我、實法都無所有，但隨妄情而施設故，說之為假。”}}两宗对施设与真实的划分不同。
 
-至于“色滅空亡”的时间读法，可以用一个反模型阻断。“色滅”若指色根本不成立，反难须由自性不成立推出名言不成立，这正是月称所说把“无”的意义增益为空性的意义（第六节）。“色滅”若指先已成立之色后来消失，则须说明所依后来的变化为什么能决定它先前是否为空。设一瓶在某时存在，且无自性；后来瓶破。“此瓶于前时有”“此瓶于前时无自性”“此瓶于后时无”，三者同时成立，没有矛盾；由最后一项推不出前时之瓶有自性。这个反模型只排除由后时之无推断前时自性成立，不裁决空性自身是否有时间性。更强的反难是：法性不生不灭，所依的消失为什么能改变判断的适用？所改变的是当前色法的成立状态，以及相应判断能否以此色为当前之物；已经成立的自性之无并没有经历一次由有转无的事件。护法之解既区别待立与因缘生起，论敌若坚持“空亡”只能指一项空性实际毁灭，就须另证待立何以包含因果性的灭坏。勝空者的答语“據實此空非空、不空……非此空言即定為空，空亦空故”，{{fn:T33, no. 1710, p. 536c24–26。勝空者与如應者两方的话，都出自瑜伽行派的窥基的编排。}}以“空亦空”限制把空理解为定然之物，与第五节所引月称“诸见之止息不是有”同一方向。
+@h2 8.2　时间解读及其反模型
 
-双方都同意空性不能离开所依而另行成立。分歧有三处：“即是”所同一的，是空性与所执色之无所有，还是空性与缘生色之不以自性生起；空性是实有的法性，还是唯是无；何种成立方式足以使一法成为空性的所依。相即句为两种解释提供了共同的文本条件，却不预先裁决这三处分歧。
+“色滅空亡”的时间解读可以一个反模型阻断。“色滅”若指色根本不成立，则反驳须由自性不成立推出名言不成立，此即月称所说将“无”的意义增益为空性的意义（6.1节）。“色滅”若指先已成立之色后来消失，则须说明所依其后的变化何以能决定其先前是否为空。设一瓶于某时存在且无自性，后来瓶破。“此瓶于前时有”“此瓶于前时无自性”“此瓶于后时无”三者可同时成立而无矛盾；由第三项推不出前时之瓶有自性。此一反模型仅排除由后时之无推断前时自性成立，并不裁定空性自身是否有时间性。更强的反驳是：法性不生不灭，所依的消失何以能改变判断的适用？所改变的是当前色法的成立状态，以及相应判断能否以此色为当前对象；已成立的自性之无并未经历由有转无的事件。护法之解既区分待立与因缘生起，论敌若坚持“空亡”只能指空性实际毁灭，即须另证待立何以包含因果性的坏灭。胜空者答以“據實此空非空、不空……非此空言即定為空，空亦空故”，{{fn:T33, no. 1710, p. 536c24–26。}}以“空亦空”限制将空理解为定然之物，与5.3节所引月称“诸见之止息并非有”方向一致。
 
-@h1 九、结论
+@h2 8.3　两宗分歧的所在
 
-在月称的解释框架下，“空即是色”所表达的是所依限定下的不离：反向谓述把自性之无锚定在原先所论的缘生色上，不在色外另立空性，不改变空性作为无遮的否定性质，也不反过来证成色法之有。
+两宗皆同意空性不能离所依而另行成立。分歧有三：“即是”所同一者，是空性与所执色之无所有，还是空性与缘生色之不以自性生起；空性是实有的法性，还是唯是无；何种成立方式足以使一法成为空性的所依。相即句为两种解释提供了共同的文本条件，却不预先裁定此三项分歧。
 
-经文的根据是大品的两段理由链。相即二句一处与不异二句合为“色之空性非色、不作色”的理由，一处单独为“色不空于空性、空性不在色外”的理由；严格同一与空性外在化两种读法都与经文相违。义理的根据是属格与具格的双重限定，以及月称的两项说明：空性是缘起的异名，同一的是此色之依缘而起与此色之空性；法性“唯是无”，不另成实有。防御的根据有三：无遮的判准在否定本身是否引出替代的规定，“空即是色”整句是肯定谓述，所肯定的只是空性与所依的关系，所谈论的空性仍是无遮；诸见之止息不是有，反向谓述不使空性成为一个有；以缘起证空，色法之有是前提而非结论，不堕自性断灭推不出色法之有，空性也不待色灭。
+@h1 9　结论
 
-瑜伽行派以三性配释同一经句，世亲的“即是”同一于所执色之无所有，与月称的读法结构相同，所取规定不同；圆测以异性相即把相即用于依他缘生色与圆成实空，保留法相差别；如應者“色滅空亡”之难推到所依的资格上，其时间读法被反模型阻断。两宗共许空性不离所依，分歧在“即是”所同一的规定、空性是否实有，以及何者足以充当空性的所依。
+在月称的解释框架内，“空即是色”所表达的是所依个别化条件下的不离关系：反向谓述将自性之无系属于原先所论的缘生色，不在色外另立空性，不改变空性作为无遮的否定性质，亦不反证色法之有。
 
-@h1 参考文献
+文本依据是《二万五千颂》的两条理由链。相即二句在第一理由链中与不异二句共同构成“色之空性非色、不作色”的理由，在第二理由链中单独构成“色不空于空性、空性不在色外”的理由；严格同一与空性外在化两种解释均与经文相违。义理依据是属格与具格的双重限定，以及月称的两项说明：空性是缘起的异名，所同一者为此色之依缘生起与此色之空性，《二万五千颂》“色之不生非色”“色与不生不二”的表述与此同构；法性“唯是无”，不另成实有。辩护依据有三：无遮的判准在于否定本身是否引出替代性规定，“空即是色”整句是肯定谓述，所肯定者仅为空性与所依的关系，所谈论的空性仍是无遮；诸见之止息并非有，反向谓述不使空性成为实有；以缘起证空，色法之有是前提而非结论，不堕自性断灭不蕴涵色法之有，空性亦不待色灭。
+
+瑜伽行派以三性配释同一经句。世亲的“即是”所同一者为所执色之无所有，与月称的解读结构相同而所取规定不同；圆测以“异性相即”将相即用于依他缘生色与圆成实空，保留法相差别；如应者“色滅空亡”之难归结为所依的资格问题，其时间解读为反模型所阻断。两宗共许空性不离所依，分歧在于“即是”所同一的规定、空性是否实有，以及何者足以充当空性的所依。
+
+@hu 略语与版本
+
+@abbr ASBh　*Abhidharmasamuccayabhāṣya*. Ed. Nathmal Tatia. Tibetan Sanskrit Works Series 17. Patna: K. P. Jayaswal Research Institute, 1976. 以页码标位置。
+@abbr Dutt　*Pañcaviṃśatisāhasrikā Prajñāpāramitā*. Ed. Nalinaksha Dutt. Calcutta Oriental Series 28. London: Luzac, 1934. 以页、行标位置（如 45.11 为第45页第11行）。
+@abbr Hṛd　*Prajñāpāramitāhṛdayasūtra*. In P. L. Vaidya, ed., *Mahāyāna-sūtra-saṃgrahaḥ*, Part 1. Buddhist Sanskrit Texts 17. Darbhanga: Mithila Institute, 1961. 以页码标位置；本文所引广本（*vistaramātṛkā*）一段在第98页。
+@abbr Kimura　*Pañcaviṃśatisāhasrikā Prajñāpāramitā* I-1, I-2. Ed. Takayasu Kimura. Tokyo: Sankibo Busshorin, 2007, 2009. 以分册、页码标位置（如 I-1: 64）。
+@abbr MMK　Nāgārjuna, *Mūlamadhyamakakārikā*. 以品、颂标位置；颂文依 Pras 所录。
+@abbr Pras　Candrakīrti, *Prasannapadā*. In P. L. Vaidya, ed., *Madhyamakaśāstra of Nāgārjuna, with the Commentary: Prasannapadā by Candrakīrti*. Buddhist Sanskrit Texts 10. Darbhanga: Mithila Institute, 1960. 以所释颂标位置（如 Pras ad MMK XV.2）。
+@abbr T　《大正新脩大藏經》。以册、经号、页、栏、行标位置（如 T08, no. 223, p. 223a10–17）。
+@abbr TrBh　Sthiramati, *Triṃśikāvijñaptibhāṣya*. In Hartmut Buescher, *Sthiramati’s Triṃśikāvijñaptibhāṣya: Critical Editions of the Sanskrit Text and Its Tibetan Translation*. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 2007. 以所释颂句标位置（如 ad 22ab）。
+@abbr Vkn　*Vimalakīrtinirdeśa: A Sanskrit Edition Based upon the Manuscript Newly Found at the Potala Palace*. Ed. Study Group on Buddhist Sanskrit Literature. Tokyo: Taisho University Press, 2006. 以章、节标位置。
+@abbr X　《卍新纂續藏經》。标注方式同 T。
+@noindent 梵文引文以上列校本为准，经 GRETIL 所收各校本的电子录文检读；分词及个别校读见相关注释。汉文藏经引文据 CBETA 电子佛典，标点从 CBETA。梵文引文的汉译，凡未注明译者者，均为笔者所译。文中所谓“系词”，指汉译“即是”所表达的主述关系；梵文名词句并无系动词。
+
+@hu 参考文献
 
 @label 原典
 @ref 《摩訶般若波羅蜜經》，鳩摩羅什譯，T08, no. 223。
@@ -283,17 +365,21 @@
 @ref 窺基《說無垢稱經疏》，T38, no. 1782。
 @ref 窺基《成唯識論述記》，T43, no. 1830。
 @ref 圓測《解深密經疏》，X21, no. 369。
-@ref Buescher, Hartmut. *Sthiramati’s Triṃśikāvijñaptibhāṣya: Critical Editions of the Sanskrit Text and its Tibetan Translation*. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 2007.
-@ref Dutt, Nalinaksha, ed. *Pañcaviṃśatisāhasrikā Prajñāpāramitā*. Calcutta Oriental Series 28. Calcutta, 1934.
+@ref Buescher, Hartmut. *Sthiramati’s Triṃśikāvijñaptibhāṣya: Critical Editions of the Sanskrit Text and Its Tibetan Translation*. Wien: Verlag der Österreichischen Akademie der Wissenschaften, 2007.
+@ref Dutt, Nalinaksha, ed. *Pañcaviṃśatisāhasrikā Prajñāpāramitā*. Calcutta Oriental Series 28. London: Luzac, 1934.
 @ref Kimura, Takayasu, ed. *Pañcaviṃśatisāhasrikā Prajñāpāramitā* I-1. Tokyo: Sankibo Busshorin, 2007.
 @ref Kimura, Takayasu, ed. *Pañcaviṃśatisāhasrikā Prajñāpāramitā* I-2. Tokyo: Sankibo Busshorin, 2009.
 @ref Study Group on Buddhist Sanskrit Literature, ed. *Vimalakīrtinirdeśa: A Sanskrit Edition Based upon the Manuscript Newly Found at the Potala Palace*. Tokyo: Taisho University Press, 2006.
-@ref Tatia, Nathmal, ed. *Abhidharmasamuccayabhāṣyam*. Tibetan Sanskrit Works Series 17. Patna, 1976.
-@ref Vaidya, P. L., ed. *Madhyamakaśāstra of Nāgārjuna, with the Commentary: Prasannapadā by Candrakīrti*. Buddhist Sanskrit Texts 10. Darbhanga, 1960.
+@ref Tatia, Nathmal, ed. *Abhidharmasamuccayabhāṣyam*. Tibetan Sanskrit Works Series 17. Patna: K. P. Jayaswal Research Institute, 1976.
+@ref Vaidya, P. L., ed. *Madhyamakaśāstra of Nāgārjuna, with the Commentary: Prasannapadā by Candrakīrti*. Buddhist Sanskrit Texts 10. Darbhanga: Mithila Institute, 1960.
 @ref Vaidya, P. L., ed. *Mahāyāna-sūtra-saṃgrahaḥ*, Part 1. Buddhist Sanskrit Texts 17. Darbhanga: Mithila Institute, 1961.
 
-@label 研究
+@label 研究文献
 @ref 福田洋一「ツォンカパ後期中観思想における二諦の同一性と別異性」『大谷大学真宗総合研究所研究紀要』30（2013）：89–101。
 @ref Attwood, Jayarava. “Form is (Not) Emptiness: The Enigma at the Heart of the Heart Sutra.” *Journal of the Oxford Centre for Buddhist Studies* 13 (2017): 52–80.
 @ref Nattier, Jan. “The Heart Sūtra: A Chinese Apocryphal Text?” *Journal of the International Association of Buddhist Studies* 15, no. 2 (1992): 153–223.
 @ref Shulman, Eviatar. “The Commitments of a Madhyamaka Trickster: Innovation in Candrakīrti’s *Prasanna-padā*.” *Journal of Indian Philosophy* 38, no. 4 (2010): 379–417.
+
+@label 电子资源
+@ref CBETA 電子佛典集成（中華電子佛典協會）。CBETA Online，https://cbetaonline.dila.edu.tw/。2026年11月检索。
+@ref GRETIL: Göttingen Register of Electronic Texts in Indian Languages. https://gretil.sub.uni-goettingen.de/. Accessed November 2026.
