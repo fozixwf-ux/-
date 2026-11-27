@@ -1,9 +1,9 @@
 // 由标记文本生成 Word：node build.js 源文件 输出.docx
 // 排版约定（中文学术期刊通行规范）：
 //   正文　宋体／Times New Roman 小四（12 pt），1.5 倍行距，首行缩进二字
-//   独立引文　楷体／Times New Roman 五号（10.5 pt），左右各缩进二字，引文组前后各空一行
+//   独立引文　汉文原典楷体、作者译文宋体、梵文 Times New Roman 斜体，均五号（10.5 pt）；左右各缩进二字，引文组前后各空一行
 //   脚注　宋体／Times New Roman 小五（9 pt）
-//   标题　依 ISO 2145 十进制编号；一级黑体四号，二级黑体小四
+//   标题　一级“一、”黑体四号，二级“（一）”黑体小四
 //   表格　三线表：顶、底线 1.5 磅，栏目线 0.75 磅；表题在上（黑体五号），表注在下（小五）
 // 中西文分字体：汉字及全角标点用中文字体，拉丁字母（含梵文转写附加符号）及其相邻标点用 Times New Roman。
 const fs = require('fs');
@@ -57,7 +57,7 @@ function runs(text, o = {}) {
   const pushText = (t, extra = {}) => {
     if (!t) return;
     for (const [seg, sc] of splitScript(t)) {
-      out.push(new TextRun({ text: seg, font: fontFor(sc, cjk), size, bold: o.bold || extra.bold, italics: extra.italics }));
+      out.push(new TextRun({ text: seg, font: fontFor(sc, cjk), size, bold: o.bold || extra.bold, italics: extra.italics || (o.italicLatin && sc === 'L') }));
     }
   };
   const re = /\{\{fn:([\s\S]*?)\}\}|\*\*([^*]+)\*\*|\*([^*]+)\*/g;
@@ -111,8 +111,13 @@ function flushQuotes() {
         after: i === n - 1 ? 240 : 0,
       },
       indent: { left: 480, right: 480 },
-      alignment: kind === 'verse' || !/[\u4E00-\u9FFF]{4}/.test(text) ? AlignmentType.LEFT : AlignmentType.JUSTIFIED,
-      children: runs(text, { cjk: FONTS.kai, size: 21 }),
+      alignment: kind === 'verse' || !/[\u4E00-\u9FFF]{4}/.test(text.replace(/\{\{fn:[\s\S]*?\}\}/g, '')) ? AlignmentType.LEFT : AlignmentType.JUSTIFIED,
+      // 汉文原典：楷体；作者译文：宋体；梵文转写：Times New Roman 斜体
+      children: runs(text, {
+        cjk: kind === 'tr' ? FONTS.song : FONTS.kai,
+        size: 21,
+        italicLatin: kind !== 'tr' && !/[\u4E00-\u9FFF]{4}/.test(text.replace(/\{\{fn:[\s\S]*?\}\}/g, '')),
+      }),
     }));
   });
   quoteGroup = [];
