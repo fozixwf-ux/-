@@ -58,13 +58,17 @@ const children = [];
 let table = null;
 const CONTENT_WIDTH = 9026; // A4 减去左右各 1 英寸
 
+let tableWidths = null;
 function flushTable() {
   const rows = table;
   table = null;
   const ncol = rows[0].length;
-  const widths = ncol === 5 && rows[0][0] === '组'
+  const widths = tableWidths
+    ? tableWidths.slice()
+    : ncol === 5 && rows[0][0] === '组'
     ? [700, 2150, 2650, 1500, 2026]
     : Array.from({ length: ncol }, (_, i) => (i === 0 ? 2226 : Math.floor((CONTENT_WIDTH - 2226) / (ncol - 1))));
+  tableWidths = null;
   const sum = widths.reduce((a, b) => a + b, 0);
   widths[widths.length - 1] += CONTENT_WIDTH - sum;
   const border = { style: BorderStyle.SINGLE, size: 4, color: '000000' };
@@ -103,7 +107,12 @@ for (const raw of lines) {
     }
   }
   if (!line) continue;
-  if (line === '@table') { table = []; continue; }
+  if (line.startsWith('@table')) {
+    const w = line.match(/^@table\s+([\d,]+)$/);
+    tableWidths = w ? w[1].split(',').map(Number) : null;
+    table = [];
+    continue;
+  }
   const cmd = line.match(/^@(\w+)\s?(.*)$/);
   if (cmd) {
     const [, k, v] = cmd;
@@ -134,7 +143,7 @@ if (table) flushTable();
 
 const doc = new Document({
   creator: '',
-  title: '空不在色外——“空即是色”的成立关系与无遮的界限',
+  title: process.env.DOC_TITLE || '空不在色外——“空即是色”的成立关系与无遮的界限',
   styles: {
     default: {
       document: { run: { font: BODY, size: 24 } },
