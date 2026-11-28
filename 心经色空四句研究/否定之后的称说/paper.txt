@@ -1,0 +1,195 @@
+@title 否定之后的称说
+@subtitle ——《二万五千颂般若》反向相即的论证结构及其中观解释
+
+@abs 摘　要：｜《二万五千颂般若》以“色即空性，空性即色”解释色之空性为何不是色。同一判断通常说明二者相同，这里却被用来说明二者有别，相即的理由效力因此成为问题。本文指出，般若经内部另有一组以“不生”为对象的文字，可以回答这一问题。《八千颂般若》只说“色之不生非色”“不生与色不二”“所谓‘色’，是对不二者所作的称数”。《二万五千颂般若》及其一万八千颂、十万颂诸本还记载舍利弗就“称数”一语追问，须菩提以“不生不异于色，不生即色，色即不生”作答。诸本同时以“不生非一、非二、非多、非别异”作为“非色”与“不二”的共同理由。据此，反向相即是关于计数与称说的判断：它否认色与其不生（空性）是两个可以计数的项，并不主张二者的规定可以互换。这一读法说明了相即何以能为差别作理由，也与《大智度论》“離色不得更有生……不得更有無生”的解释相合。至于称数凭借什么成立，经内“弥勒请问章”已提出这一问题，并答以“色”名的施设依于分别色的实有性；月称则以依缘施设即是不以自性生起、即是空性来说明称说。两者都用“依于”（*upādāya*）说明称说，分歧在于称说所依者是否须具实有性。在月称的解释中，否定自性之后，“色”的称说凭依缘施设成立；反向以色称说空性，不需要另一个实有的称说基础。
+@kw 关键词：｜反向相即；称数（*gaṇanā*）；不生；不二；依缘施设；弥勒请问章；月称
+
+@entitle Designation after Negation: The Argumentative Structure of Reverse Predication in the *Pañcaviṃśatisāhasrikā Prajñāpāramitā* and Its Madhyamaka Interpretation
+@abs Abstract: ｜The *Pañcaviṃśatisāhasrikā Prajñāpāramitā* uses “form is emptiness, emptiness is form” to explain why the emptiness of form is not form. Statements of identity normally explain sameness; here one explains a difference, which makes the explanatory force of the reciprocal clauses a problem. This article shows that another group of passages in the Prajñāpāramitā literature, concerning non-arising (*anutpāda*), answers that problem. The *Aṣṭasāhasrikā* states only that the non-arising of form is not form, that non-arising and form are not two, and that what is called “form” is a reckoning made of the non-dual (*advayasyaiṣā gaṇanā kṛtā*). The *Pañcaviṃśatisāhasrikā* and the versions in eighteen thousand and one hundred thousand lines further record Śāriputra’s question about this “reckoning” and Subhūti’s answer: non-arising is not other than form; non-arising is form, and form is non-arising. These versions also give a single reason for both the non-identity and the non-duality: non-arising is neither one, nor two, nor many, nor separate. On this basis the reverse predication is a judgment about counting and designation. It denies that form and its non-arising (or emptiness) are two countable items; it does not assert that their determinations are interchangeable. This reading explains how the reciprocal clauses can serve as reasons for difference, and it agrees with the *Dazhidu lun*. The question of what licenses this reckoning is already raised within the sūtra, in the “Questions of Maitreya” chapter, which grounds the designation “form” in the substantiality of conceptualized form. Candrakīrti instead identifies dependent designation with non-arising through intrinsic nature and with emptiness. Both accounts explain designation as made “in dependence on” (*upādāya*); they diverge over whether what designation depends on must be substantial. On Candrakīrti’s account, the designation “form” remains valid after the negation of intrinsic nature as a dependent designation, and calling emptiness “form” requires no further substantial basis.
+@kw Keywords: ｜reverse predication; reckoning (*gaṇanā*); non-arising; non-duality; dependent designation; Questions of Maitreya; Candrakīrti
+
+@h1 一、问题与研究现状
+
+@h2 （一）相即的理由效力
+
+《二万五千颂般若》（*Pañcaviṃśatisāhasrikā Prajñāpāramitā*，下称《二万五千颂》）中，《心经》“色即是空，空即是色”的对应文字处在一条理由链的末端。{{fn:本文所用梵文校本、汉文藏经的略语及引用方式，见文末“略语与版本”。}}经文先说“色之空性不是色”，以“色之空性不作色”作为理由，再以下面四句作为“不作色”的理由：
+
+> tathā hi śāriputra nānyad rūpam anyā śūnyatā, nānyā śūnyatā anyad rūpaṃ, rūpam eva śūnyatā śūnyataiva rūpam.{{fn:Kimura I-1: 63–64；Dutt 45.09–46.03。罗什译作“非色異空、非空異色，色即是空、空即是色”（T08, no. 223, p. 223a13–14）。}}
+>> 舍利弗，并非色是一物、空性是另一物，也并非空性是一物、色是另一物；色即空性，空性即色。
+
+同一判断通常用来说明两者共有的东西。这里的情形相反：相即句被用来说明空性不具有色的作用。如果把“空性即色”理解为二者所指相同，而且色的规定可以转移到空性上，那么由“色作色”与“空性即色”可以推出“空性作色”，理由便与结论相反。因此，第一个问题是：这一相即判断属于什么类型，使它能够为差别提供理由。
+
+@h2 （二）否定之后的称说
+
+第二个问题与称说有关。在同一部经中，须菩提说菩萨行般若波罗蜜时，对色“不施设‘此是色’”（*na prajñapayati rūpam etad iti*）；稍后又说“所谓‘色’，是对不二者所作的称数”。{{fn:Kimura I-2: 153, 156–157；Dutt 255.03–04, 256.04–06。}}前一句否定把色作为一个确定之物来施设，后一句仍然保留“色”这一称说，并说明它的性质。否定自性之后，“色”这一名称凭什么仍然可以使用？进一步说，经文为什么还可以反过来用“色”来称说色的不生或空性？这一问题关系到般若经的否定如何与名言的使用相容，也是瑜伽行派与中观派解释般若经时真正分歧的地方。
+
+@h2 （三）研究现状与本文的切入点
+
+关于《心经》此句，现有研究主要集中在两个方面。一是文本的来源与形成：Nattier 讨论《心经》与《二万五千颂》汉译的关系，Attwood 认为“色即是空”一类句子由《八千颂般若》“色如幻”的譬喻改写而来。{{fn:Jan Nattier, “The Heart Sūtra: A Chinese Apocryphal Text?” *Journal of the International Association of Buddhist Studies* 15, no. 2 (1992): 153–223；Jayarava Attwood, “Form is (Not) Emptiness: The Enigma at the Heart of the Heart Sutra,” *Journal of the Oxford Centre for Buddhist Studies* 13 (2017): 52–80。}}二是注释传统：印度《心经》注释已有系统的整理与翻译；瑜伽行派以十种分别散乱配释相关经句，飛田康裕对此有专门讨论。{{fn:印度《心经》诸注，见 Donald S. Lopez, Jr., *The Heart Sūtra Explained: Indian and Tibetan Commentaries* (Albany: State University of New York Press, 1988)。十种分别散乱与般若经句的关系，见飛田康裕刊于『早稲田大学高等学院研究年誌』第61号（2017）、第62号（2018）的论文（据早稻田大学研究者数据库所载著述目录）。}}《二万五千颂》“弥勒请问章”以三种色说明“不二”，也已有专门研究，讨论集中在三种色与瑜伽行派三性说的对应。{{fn:Edward Conze and Shotaro Iida, “‘Maitreya’s Questions’ in the Prajñāpāramitā,” in *Mélanges d’indianisme à la mémoire de Louis Renou* (Paris: E. de Boccard, 1968), 229–242；ツルティム・ケサン「『弥勒請問章』と初期唯識文献の三性説」『印度學佛教學研究』48巻1号（1999）。}}
+
+这些研究没有回答上述两个问题。来源研究解释句子从何而来，不解释它在现存经文中为什么能够充当理由；注释研究呈现各家如何配释，不解释经文本身如何规定相即的性质。就本文检索所及，现有研究尚未把般若经中关于“不生”与“称数”的一组文字，作为相即句的经内解释加以分析；也没有把“弥勒请问章”对“称数”的追问，与月称对依缘施设的说明，放在同一个问题下比较。
+
+本文的论证分三步。第二节考察这组文字在《八千颂》与诸大部般若中的分布，说明反向相即是对“称数”一语的解释。第三节分析经文给出的理由，说明相即是关于计数与称说的判断，并据此回答相即的理由效力问题。第四节比较“弥勒请问章”与月称对称数依据的不同说明，确定否定自性之后称说得以成立的条件。
+
+@h1 二、“不二之称数”：从《八千颂》到大部般若
+
+@h2 （一）《八千颂般若》的三句
+
+《八千颂般若》（*Aṣṭasāhasrikā Prajñāpāramitā*，下称《八千颂》）第一品，须菩提说菩萨观察诸法时，不趋近色，不见色之生，不见色之灭，并给出理由：
+
+> tathā hi yo rūpasyānutpādo na tad rūpam / yo rūpasyāvyayo na tad rūpam / ity anutpādaś ca rūpaṃ ca advayam etad advaidhīkāram / ity avyayaś ca rūpaṃ ca advayam etad advaidhīkāram / yat punar etad ucyate rūpam iti, advayasyaiṣā gaṇanā kṛtā /{{fn:Aṣṭa 13。同段在第14页重出。玄奘译第四会作：“色無生無滅即非色……色乃至識與無生無滅無二、無二分。何以故？以無生無滅法非一、非二、非多、非異……世尊！色入無二法數……若說色即說無二法。”（T07, no. 220, p. 768a16–23）}}
+>> 因为色之不生不是色，色之不灭不是色。所以不生与色，是不二、不可分为二的；不灭与色，是不二、不可分为二的。而所谓“色”，是对不二者所作的称数。
+
+这里有三个判断：第一，色之不生不是色；第二，不生与色不二；第三，“色”这一称说是对不二者所作的称数。*gaṇanā* 本义为计数、列数；与之相连的 *ucyate*（被称为）表明，这里说的是“色”这一称谓的性质，本文因此译为“称数”。汉译有两种处理：罗什与玄奘多译作“入無二法數”，着眼于计数，可以理解为“色归入不二之法的数目”；玄奘译第三会作“色入無二法數……是故名色”，第四会作“若說色即說無二法”，着眼于称谓。{{fn:T07, no. 220, p. 531a22（第三会）、768a23（第四会）。第三会舍利弗之问与须菩提之答见 p. 532a02–12。}}两种理解都以计数为基础：前者说色被计入不二者之中，后者说称“色”就是称不二者。前两个判断分别说差别与不离，第三个判断说明名称的性质。三者的关系，《八千颂》梵本没有进一步说明，也没有出现带 *eva* 的反向相即句。玄奘所译第四会在这里多出一句理由：“以無生無滅法非一、非二、非多、非異”；又把“称数”一语译为“色入無二法數……若說色即說無二法”，明确理解为言说与称谓。
+
+@h2 （二）大部般若的扩写：理由与追问
+
+同样的文字在《二万五千颂》中有两处扩写。第一处是理由。须菩提在列举诸法之后说：
+
+> yo bhagavan dharmadhātor anutpādo na sa dharmadhātuḥ … yaḥ sarvākārajñatāyā anutpādo na sā sarvākārajñateti hi sarvākārajñatā cānutpādaś cādvayam etad advaidhīkāram. tat kasya hetoḥ? tathā hy anutpādo naiko na dvau na bahavo na pṛthak tasmād yaḥ sarvākārajñatāyā anutpādo na sā sarvākārajñatā.{{fn:Kimura I-2: 155；Dutt 255.12–20。诸蕴一条见 Kimura I-2: 154–155，Dutt 255.12–14。}}
+>> 世尊，法界之不生不是法界……一切相智之不生不是一切相智，因为一切相智与不生是不二、不可分为二的。何以故？因为不生非一、非二、非多、非别异，所以一切相智之不生不是一切相智。
+
+罗什译作：“色不生是非色……何以故？色、不生不二不別……何以故？世尊！是不生法非一非二非三非異。以是故……不生不二不別。”玄奘译第二会作：“所以者何？以……與不生不滅無二、無二處。何以故？以不生不滅法非一、非二、非多、非別。”{{fn:T08, no. 223, p. 270a13–b05；T07, no. 220, p. 125c21–126a03。}}三本的次第相同：“某法之不生非某法”的理由是二者不二，不二的理由是不生非一、非二、非多、非别异。
+
+第二处是追问与回答。须菩提说完“所谓‘色’，是对不二者所作的称数”之后，舍利弗依次提出三个问题，其中第一问与第三问是：
+
+> rūpam āyuṣman śāriputra śūnyaṃ rūpeṇa, yā cāyuṣman śāriputra śūnyatā na tad rūpaṃ notpādaḥ, anenāyuṣman śāriputra paryāyeṇa yo rūpasyānutpādo na tad rūpam.{{fn:Kimura I-2: 159；Dutt 258.03–06。罗什译作：“色，色相空，色空中無色無生。以是因緣故，色不生是非色。”（T08, no. 223, p. 270c20–21）}}
+>> 舍利弗，色空于色；这一空性既不是色，也不是生。由于这个缘故，色之不生不是色。
+
+> śāriputra āha: kena kāraṇenāyuṣman subhūte evaṃ vadasi, yad idam ucyate rūpam ity advayasyaiṣā gaṇanā kṛteti … subhūtir āha: tathā hy āyuṣman śāriputra nānyo ’nutpādo ’nyad rūpam, anutpāda eva rūpaṃ, rūpam evānutpādaḥ … anenāyuṣman śāriputra paryāyeṇa yad etad ucyate rūpam ity advayasyaiṣā gaṇanā kṛtā.{{fn:Kimura I-2: 161–162；Dutt 258.28–259.03。罗什译作：“舍利弗問須菩提：何因緣故，言是色入無二法數……？須菩提答言：色不異無生、無生不異色，色即是無生、無生即是色……以是因緣故，舍利弗！色入無二法數。”（T08, no. 223, p. 271a12–19）玄奘译第二会作“色不異無生無滅，無生無滅不異色，色即是無生無滅，無生無滅即是色”（T07, no. 220, p. 128a22–29）。}}
+>> 舍利弗问：长老须菩提，你凭什么这样说：所谓“色”，是对不二者所作的称数？须菩提答：舍利弗，并非不生是一物、色是另一物；不生即色，色即不生……由于这个缘故，所谓“色”，是对不二者所作的称数。
+
+第三问的回答由“非彼此为二”与带 *eva* 的双向谓述组成，与第一处理由链中的“不异二句”“相即二句”句式相同，只是“空性”换成了“不生”。罗什译“色不異無生、無生不異色，色即是無生、無生即是色”，与玄奘译《心经》“色不異空，空不異色，色即是空，空即是色”的句式完全一致。
+
+诸本的分布见表1。
+
+@caption 表1　“不二之称数”一组文字在诸本中的分布
+@table 2600,1100,1100,1500,1300,1426 lccccc
+| 文本 | 非某法句 | 不二句 | 非一非二非多非别句 | 称数句 | 舍利弗之问与相即之答 |
+| 《八千颂》梵本（Aṣṭa 13） | 有 | 有 | 无 | 有 | 无 |
+| 玄奘译第四会（T07, 768a） | 有 | 有 | 有 | 有 | 无 |
+| 《二万五千颂》梵本（Kimura I-2: 153–162） | 有 | 有 | 有 | 有 | 有 |
+| 罗什译本（T08, 270a–271a） | 有 | 有 | 有 | 有 | 有 |
+| 玄奘译第二会（T07, 125c–128a） | 有 | 有 | 有 | 有 | 有 |
+| 玄奘译第三会（T07, 531a–532a） | 有 | 有 | 有 | 有 | 有 |
+@endtable
+@tnote 说明：第二会相当于《二万五千颂》，第三会相当于一万八千颂本，第四会相当于《八千颂》。十万颂本（玄奘译初会）亦有舍利弗之问与相即之答，见 T05, no. 220, p. 415c21 以下。
+
+由表1可以确定两点。第一，“非一、非二、非多、非别异”这一理由，见于玄奘所译第四会与诸大部般若，不见于《八千颂》梵本。第二，舍利弗关于“称数”的追问，以及须菩提以反向相即作答，只见于诸大部般若，不见于《八千颂》系统。{{fn:须菩提所说第二组文字，《八千颂》梵本作 avyaya（不灭），罗什译本作“不滅相”，玄奘译第二会作“不二”，Kimura 本电子录文作 vyaya（灭）。诸本对这一项的读法不同，本文的论证不依赖这一项。}}因此，在这组文字中，反向相即是作为“称数”一语的理由出现的：经文用它来解释，为什么“色”这一称说是对不二者所作的称数。
+
+@h1 三、相即作为计数判断
+
+@h2 （一）“非一、非二、非多、非别异”
+
+经文对“不生”的规定，用的是计数的语言：一（*eka*）、二（*dvi*）、多（*bahu*）、别异（*pṛthak*）。说不生“非一”，是说它不能作为一个单位被计数；说它“非二”，是说它不能作为与色并列的第二项被计数；“非多”“非别异”排除了其余的计数方式。也就是说，不生不在计数的序列中占有位置。
+
+这一规定同时给出两个结论。其一，色之不生不是色。在“色”这一称数下被计数的，是一个单位；不生既然不能作为一个单位被计数，就不能与这个单位相等同。其二，色与不生不二。不生既然不能作为第二项被计数，色与不生就不能构成两个项。诸本把“不二”列为“非色”的理由，再把“非一、非二……”列为“不二”的理由，正是这一推理次第：说色之不生不是色，并不是在色之外另立一项与色相区别的东西，而是说不生不是任何可以计数的东西，所以既不能与色相等同，也不能与色并列为二。
+
+《大智度论》解释“色入無二法數”时，正是从计数的角度立论：
+
+> 「色入無二法數」者，行者觀色不生不滅相，是時分別色，今變為無生，是故說色無生即是不二。何以故？色破散即是無生。如先分別諸法時，離色不得更有生；今色破散即是無生，不得更有無生。以是故，色即是入無二法數。{{fn:T25, no. 1509, p. 437a24–29。论在此前说：“破色二故言不二，破色生故言無生。”（p. 437a21）}}
+
+“離色不得更有生”“不得更有無生”，说的都是在色之外不另计一项：分别诸法时，色之外没有另一个“生”；观色无生时，色之外也没有另一个“无生”。论以此解释“色入無二法數”，可见它把这一称数理解为对计数的限制。
+
+@h2 （二）反向相即的判断类型
+
+据此可以确定第三问回答中反向相即的性质。“不生即色，色即不生”接在“并非不生是一物、色是另一物”之后，并被用作“所谓‘色’是对不二者所作的称数”的理由。它所说的是：在“色”这一称数之下，不生不作为另一项被计入；称说“色”，就是称说这一不二者。它没有说色与不生所具有的规定相同，也没有说色的作用可以转移到不生上。这一判断可以称为计数判断：它判定的是有几项，而不是各项具有什么规定。
+
+计数判断与规定判断可以同时成立而不冲突。“色之不生非色”是规定判断，它否认不生具有色的规定；“不生即色”是计数判断，它否认不生是色以外的另一项。经文先以“非一、非二、非多、非别异”同时为二者提供理由，再以反向相即说明“色”这一称数，正是把两类判断分开处理。
+
+@h2 （三）第一处理由链的重读
+
+现在回到第一处理由链。“色之空性不作色”的理由是“并非色是一物、空性是另一物……色即空性，空性即色”。按上述读法，这一理由说的是：空性不是色以外的另一项。这里需要一个前提：只有能够作为一项被计数的，才能承担作用。经文说不生“非一”，正是否认它是这样的一项。在“色”这一称数之下，起作用的是色。空性不是另一项，因而不是色之外另一个可以“作色”的承担者；它也不是色这一项本身所具有的“作色”规定。所以“色之空性不作色”可以由相即得到说明。前面提出的推论，即由“色作色”与“空性即色”推出“空性作色”，要求空性是一个可以承担作用的项，而这正是相即所否认的。
+
+《大智度论》释第一处理由链时说：“若五眾與空異，空中應有五眾；今五眾不異空、空不異五眾，五眾即是空、空即是五眾。以是故空不破五眾。”{{fn:T25, no. 1509, p. 327c24–26。}}如果五蕴与空性是两项，就可以说五蕴在空性“之中”，或说空性破坏五蕴；五蕴与空性不是两项，这两种说法便都不能成立。论所说的“不异”与“即是”，同样是在排除把二者计为两项。
+
+这一读法回答了第一个问题：相即之所以能够为差别提供理由，是因为它不是关于规定的同一判断，而是关于计数的判断。它否认空性是另一项，由此使空性不能成为色之作用的另一个承担者；空性不具有色的作用，正由此得到说明。
+
+@h2 （四）两项反驳
+
+第一项反驳：如果空性在“色”这一称数之下，那么“色作色”是否也适用于空性？回答是，作用述词适用于被计数的项。经文说不生“非一”，即不生不是一个单位，因而不是“作色”的主词所指。反向相即把不生或空性置于“色”这一称数之下，是说它不在色之外另计一项，而不是把它当作“作色”的主词。
+
+第二项反驳：这种读法是否只是“同一对象的两个方面”的另一种说法？二者并不相同。“两个方面”的说法预设有一个对象，空性是这个对象的一个方面；方面本身也可以被计数。经文对不生的规定是“非一”，它不承认不生是任何意义上的一个单位，包括作为一个方面。因此，“色”所计的不是“一个具有两个方面的对象”，而是“不二者”。
+
+@h1 四、称数的依据：“弥勒请问章”与月称
+
+@h2 （一）经内的追问
+
+第三节回答了相即的判断类型，第二个问题仍然存在：既然菩萨不施设“此是色”，“色”这一称数凭什么成立？《二万五千颂》“弥勒请问章”正面提出了这一问题。弥勒问：
+
+> yad uktaṃ bhagavan bhagavatā advayasyaiṣā gaṇanā kṛtā yad uta rūpam iti … tad evaṃ rūpaprabhedaprajñaptau satyām … kiṃ saṃdhāya nirdiṣṭaṃ bhagavatā advayasyaiṣā gaṇanā kṛtā yad uta rūpam iti …{{fn:Kimura VI–VIII: 153。}}
+>> 世尊曾说：“所谓色，是对不二者所作的称数。”……既然对色有这样种种区别的施设，世尊是依何密意说“所谓色，是对不二者所作的称数”的？
+
+“种种区别的施设”指此前所说的三种色：遍计所执色、分别色与法性色。佛的回答逐一说明，三种色都“非色、非非色”，而“非色、非非色”者即是不二。其中关于分别色的问答是：
+
+> tat kiṃ manyase? maitreya yā vikalpitasya rūpasya sadravyatā api nu tad rūpaṃ yad upādāya nāmasaṃjñāprajñaptivyavahāro bhavati rūpam iti. no hīdaṃ bhagavan. … yad vikalpitaṃ rūpam api na rūpaṃ nārūpaṃ yat punar na rūpaṃ nārūpaṃ tad advayam, idaṃ ca saṃdhāyoktaṃ mayā advayasyaiṣā gaṇanā kṛtā yad idaṃ rūpam iti.{{fn:Kimura VI–VIII: 153–154。英译见 Edward Conze, *The Large Sutra on Perfect Wisdom* (Berkeley: University of California Press, 1975), 644–652。}}
+>> 弥勒，你怎么想？分别色的实有性——依于它，“色”这一名、想、施设、言说才得以产生——它是色吗？不是，世尊。……分别色非色，也非非色；非色、非非色者，即是不二。我是依这一密意说：所谓色，是对不二者所作的称数。
+
+此前，经文已说明三种色的实有与否：遍计所执色“应视为非实有”（*adravya*），分别色“依于实有性而应视为实有，但不是自主而起”（*sadravyatām upādāya sadravyaṃ draṣṭavyaṃ no tu svatantravṛttitaḥ*），法性色“既非非实有，亦非实有，由胜义所显”。{{fn:Kimura VI–VIII: 152–153。}}
+
+这一回答有两个特点。第一，它改变了“不二”的所指。在第二节所引文字中，不二指色与其不生不二；在“弥勒请问章”中，不二指每一种色都“非色、非非色”。第二，它为“色”这一称说给出了依据：名、想、施设、言说“依于”（*upādāya*）分别色的实有性而产生。分别色虽然不是自主而起，却被规定为实有。于是，称数“色”的成立，以一个实有的依据为条件。瑜伽行派论书中“雖有一切所言說事，依止彼故諸言說轉”的说法，表达的也是这一要求：言说必须有其所依之事。{{fn:《瑜伽师地论》卷四十五，T30, no. 1579, p. 541a21–23；窥基《心经幽赞》所载如应者之说引同一文字，T33, no. 1710, p. 537a14–17。}}
+
+@h2 （二）月称：依缘施设即是空性
+
+月称对称说的依据，给出另一种说明。他释《中论》第二十四品第十八颂时说：
+
+> yā ceyaṃ svabhāvaśūnyatā sā prajñaptir upādāya, saiva śūnyatā upādāya prajñaptir iti vyavasthāpyate | cakrādīny upādāya rathāṅgāni rathaḥ prajñapyate | tasya yā svāṅgāny upādāya prajñaptiḥ, sā svabhāvenānutpattiḥ, yā ca svabhāvenānutpattiḥ, sā śūnyatā |{{fn:Pras ad MMK XXIV.18。}}
+>> 这一自性空，就是依缘施设；正是这一空性，被安立为依缘施设。依于轮等车的支分而施设车。车依其支分而得施设，就是不以自性生起；不以自性生起，就是空性。
+
+月称同样用“依于”（*upādāya*）说明施设：车依于轮等支分而被施设。但他对这一“依于”的规定与“弥勒请问章”不同。在“弥勒请问章”中，施设所依者被规定为实有；在月称的说明中，“依于支分而施设”这一事实本身，就是不以自性生起，也就是空性。称说的成立条件不是某个实有的所依，而是依待本身。
+
+由此可以说明否定自性之后的称说。菩萨不施设“此是色”，所否定的是把色作为一个以自性成立的确定之物来施设；“色”作为依缘施设，并不因此失去效力。月称在同一处又说，空性、依缘施设、中道都是缘起的异名。{{fn:Pras ad MMK XXIV.18：pratītyasamutpādasyaivaitā viśeṣasaṃjñāḥ śūnyatā, upādāya prajñaptiḥ, madhyamā pratipad iti。}}依缘施设与空性既然是同一缘起的异名，那么说“色”这一依缘施设，与说此色的不以自性生起，所关的就是同一件事。反向以“色”称说不生或空性，并没有给称说增加新的依据，只是说明“色”这一称数所计的是什么：它所计的是依缘而有之色，而这一色与其不生不能分为两项。
+
+这一说明还确定了反向相即的限度。以色称说空性，并不使空性成为一个可以称说的实有之物。月称释第十三品第八颂说，空性是一切见的出离，而“诸见的止息并不是有”（*na ca dṛṣṭikṛtānāṃ nivṛttimātraṃ bhāvaḥ*）。{{fn:Pras ad MMK XIII.8。电子录文作 yaniḥsaraṇam，今分读为 yan niḥsaraṇam。}}空性不是有，所以它不是“色”这一称数之外的另一项；这与第三节由经文得出的结论一致。
+
+@h2 （三）分歧的位置
+
+“弥勒请问章”与月称都承认“色”是对不二者所作的称数，也都用“依于”说明称说的成立。二者的分歧不在于是否承认色空不二，而在于称说所依者的地位：前者要求所依者具有实有性（*sadravyatā*），后者以依待本身为空性，不要求实有的所依。前者因此需要以“密意”（*saṃdhāya*）和三种色的区分来说明“不二之称数”，使称数的依据落在分别色的实有性上；后者则可以直接以依缘施设说明称数，并以同一说明解释反向相即：称说“色”与称说其空性，依据的是同一个依缘施设，而这一施设本身就是空性。
+
+@h1 五、结论
+
+本文讨论了两个问题：相即何以能为差别提供理由；否定自性之后，“色”的称说以及反向以“色”称说空性凭什么成立。
+
+第一，在现存大部般若关于“不生”与“称数”的一组文字中，反向相即是作为“称数”一语的理由出现的。《八千颂》只有“非色”“不二”“称数”三句；诸大部般若增入“非一、非二、非多、非别异”的理由，并记载舍利弗对“称数”的追问以及须菩提以“不生即色，色即不生”所作的回答。
+
+第二，经文以“不生非一、非二、非多、非别异”同时说明“非色”与“不二”。据此，反向相即是计数判断，而不是规定判断：它否认色与其不生或空性是两个可以计数的项，并不主张二者的规定可以互换。空性不是另一项，因而不能成为色之作用的承担者；相即之所以能为“色之空性不作色”提供理由，原因在此。《大智度论》“離色不得更有生……不得更有無生”的解释与这一读法一致。
+
+第三，称数的依据问题在经内“弥勒请问章”中已被提出。该章以名言施设依于分别色的实有性来回答；月称则以依缘施设即是不以自性生起、即是空性来回答。二者都用“依于”说明称说，分歧在于所依者是否须具实有性。在月称的解释中，否定自性之后，“色”作为依缘施设继续成立；反向以“色”称说空性，所依据的仍是这一依缘施设，因而不需要另一个实有的称说基础，也不使空性成为实有之物。
+
+@hu 略语与版本
+
+@abbr Aṣṭa　*Aṣṭasāhasrikā Prajñāpāramitā*. Ed. P. L. Vaidya. Buddhist Sanskrit Texts 4. Darbhanga: Mithila Institute, 1960. 以页码标位置。
+@abbr Dutt　*Pañcaviṃśatisāhasrikā Prajñāpāramitā*. Ed. Nalinaksha Dutt. Calcutta Oriental Series 28. London: Luzac, 1934. 以页、行标位置（如 255.12 为第255页第12行）。
+@abbr Kimura　*Pañcaviṃśatisāhasrikā Prajñāpāramitā* I-1, I-2, VI–VIII. Ed. Takayasu Kimura. Tokyo: Sankibo Busshorin, 2007, 2009, 2006. 以分册、页码标位置（如 I-2: 161）。
+@abbr MMK　Nāgārjuna, *Mūlamadhyamakakārikā*. 以品、颂标位置；颂文依 Pras 所录。
+@abbr Pras　Candrakīrti, *Prasannapadā*. In P. L. Vaidya, ed., *Madhyamakaśāstra of Nāgārjuna, with the Commentary: Prasannapadā by Candrakīrti*. Buddhist Sanskrit Texts 10. Darbhanga: Mithila Institute, 1960. 以所释颂标位置（如 Pras ad MMK XXIV.18）。
+@abbr T　《大正新脩大藏經》。以册、经号、页、栏、行标位置（如 T08, no. 223, p. 271a12–19）。
+@noindent 梵文引文以上列校本为准，经 GRETIL 所收各校本的电子录文检读；分词及个别校读见相关注释。汉文藏经引文据 CBETA 电子佛典，标点依 CBETA。梵文引文的汉译，凡未注明译者的，均为笔者所译。
+
+@hu 参考文献
+
+@label 原典
+@ref 《大般若波羅蜜多經》，玄奘譯，T05–07, no. 220。
+@ref 《摩訶般若波羅蜜經》，鳩摩羅什譯，T08, no. 223。
+@ref 《般若波羅蜜多心經》，玄奘譯，T08, no. 251。
+@ref 《大智度論》，鳩摩羅什譯，T25, no. 1509。
+@ref 《瑜伽師地論》，玄奘譯，T30, no. 1579。
+@ref 窺基《般若波羅蜜多心經幽贊》，T33, no. 1710。
+@ref Dutt, Nalinaksha, ed. *Pañcaviṃśatisāhasrikā Prajñāpāramitā*. Calcutta Oriental Series 28. London: Luzac, 1934.
+@ref Kimura, Takayasu, ed. *Pañcaviṃśatisāhasrikā Prajñāpāramitā* I-1. Tokyo: Sankibo Busshorin, 2007.
+@ref Kimura, Takayasu, ed. *Pañcaviṃśatisāhasrikā Prajñāpāramitā* I-2. Tokyo: Sankibo Busshorin, 2009.
+@ref Kimura, Takayasu, ed. *Pañcaviṃśatisāhasrikā Prajñāpāramitā* VI–VIII. Tokyo: Sankibo Busshorin, 2006.
+@ref Vaidya, P. L., ed. *Aṣṭasāhasrikā Prajñāpāramitā*. Buddhist Sanskrit Texts 4. Darbhanga: Mithila Institute, 1960.
+@ref Vaidya, P. L., ed. *Madhyamakaśāstra of Nāgārjuna, with the Commentary: Prasannapadā by Candrakīrti*. Buddhist Sanskrit Texts 10. Darbhanga: Mithila Institute, 1960.
+
+@label 研究文献
+@ref ツルティム・ケサン「『弥勒請問章』と初期唯識文献の三性説」『印度學佛教學研究』48巻1号（1999）。
+@ref Attwood, Jayarava. “Form is (Not) Emptiness: The Enigma at the Heart of the Heart Sutra.” *Journal of the Oxford Centre for Buddhist Studies* 13 (2017): 52–80.
+@ref Conze, Edward. *The Large Sutra on Perfect Wisdom*. Berkeley: University of California Press, 1975.
+@ref Conze, Edward, and Shotaro Iida. “‘Maitreya’s Questions’ in the Prajñāpāramitā.” In *Mélanges d’indianisme à la mémoire de Louis Renou*, 229–242. Paris: E. de Boccard, 1968.
+@ref Lopez, Donald S., Jr. *The Heart Sūtra Explained: Indian and Tibetan Commentaries*. Albany: State University of New York Press, 1988.
+@ref Nattier, Jan. “The Heart Sūtra: A Chinese Apocryphal Text?” *Journal of the International Association of Buddhist Studies* 15, no. 2 (1992): 153–223.
+
+@label 电子资源
+@ref CBETA 電子佛典集成（中華電子佛典協會）。CBETA Online，https://cbetaonline.dila.edu.tw/。2026年11月检索。
+@ref GRETIL: Göttingen Register of Electronic Texts in Indian Languages. https://gretil.sub.uni-goettingen.de/. Accessed November 2026.
