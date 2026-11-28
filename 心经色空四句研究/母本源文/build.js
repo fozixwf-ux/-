@@ -220,6 +220,10 @@ for (const raw of lines) {
     else if (k === 'noindent') P({ spacing: { line: 300, before: 80 }, alignment: AlignmentType.JUSTIFIED, children: runs(v, { size: 21 }) });
     else if (k === 'abstract') P({ spacing: { line: 320 }, indent: { firstLine: 420 }, alignment: AlignmentType.JUSTIFIED, children: runs(v, { size: 21 }) });
     else if (k === 'prop') P({ spacing: { line: 340, before: 40, after: 40 }, indent: { left: 480 }, alignment: AlignmentType.JUSTIFIED, children: runs(v, { cjk: FONTS.kai }) });
+    // 编号论式：宋体五号，左缩进二字、悬挂一字半，行距与引文一致
+    else if (k === 'arg') P({ spacing: { line: 320, before: 0, after: 40 }, indent: { left: 1200, hanging: 720 }, alignment: AlignmentType.JUSTIFIED, children: runs(v, { cjk: FONTS.song, size: 21 }) });
+    // 论式组前后的空行
+    else if (k === 'gap') P({ spacing: { line: 240, before: 0, after: 0 }, children: [new TextRun({ text: '', size: 12 })] });
     else throw new Error('unknown command @' + k);
     continue;
   }
